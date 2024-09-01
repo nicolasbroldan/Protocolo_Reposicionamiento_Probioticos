@@ -9,7 +9,7 @@ El protocolo se divide en varias etapas clave:
 ### 1. Análisis de Expresión Diferencial (DEA)
 
 - **Objetivo:** Identificar genes diferencialmente expresados en células tratadas con probióticos en comparación con un control.
-- **Herramientas:** DESeq2, edgeR, limma.
+- **Herramientas:** DESeq2.
 - **Paso:** Realizar el análisis para identificar genes significativamente regulados.
 
 ### 2. Identificación de Proteínas Codificadas por los DEGs
@@ -31,7 +31,7 @@ El protocolo se divide en varias etapas clave:
 ### 5. Integración con Datos de Patógenos y Enfermedades
 
 - **Objetivo:** Relacionar transcritos tratados con probióticos con proteínas asociadas a enfermedades.
-- **Herramientas:** DisGeNET, ViralZone, Virus-Host DB.
+- **Herramientas:** DisGeNET, Virus-Host DB.
 
 ### 6. Visualización de Redes
 
