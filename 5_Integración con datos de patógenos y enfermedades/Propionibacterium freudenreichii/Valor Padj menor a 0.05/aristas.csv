@@ -1,0 +1,661 @@
+Source,Target,Pvalue_Adjusted
+AATK,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+AATK,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+ABCA7,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+ABCA7,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+ABCA7,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+ABCA7,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+ABCA7,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+ABCA7,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+ABCA7,Barth syndrome ORPHA:111,0.0414176838632111
+ABCA7,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+ABCA7,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+ABCA7,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+ABCA7,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+ACAP3,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+ACAP3,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+ACAP3,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+ACAP3,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+ACAP3,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+ACAP3,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+ACAP3,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+ACAP3,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+ACAP3,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+ACAP3,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+ACAP3,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+ACAP3,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+ACAP3,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+ACAP3,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+ACAP3,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+ACAP3,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+ACAP3,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+ACOT7,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+ADAM8,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+ADAM8,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+ADAM8,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+ADAM8,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+ADAM8,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+ADAM8,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+AGPAT2,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+AGPAT2,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+APC2,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+APC2,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+APC2,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+APC2,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+APC2,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+ARID5A,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+ARID5A,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+ARID5A,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+ARID5A,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+ARID5A,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+ATG16L2,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+ATG16L2,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+ATG16L2,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+ATG16L2,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+ATG16L2,Barth syndrome ORPHA:111,0.0414176838632111
+ATG16L2,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+ATG16L2,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+ATG16L2,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+ATG16L2,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+ATG16L2,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+ATP6V0D1,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+B3GALT4,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+B3GALT4,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+BAIAP2,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+BRSK2,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+BRSK2,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+BRSK2,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+C11ORF52,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+C2CD2L,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+C2CD2L,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+CAMK2N2,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+CAMK2N2,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+CAMK2N2,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+CAMK2N2,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+CCNA2,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+CCNA2,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+CCNA2,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+CCNA2,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+CCNA2,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+CCNA2,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+CCNA2,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+CCNA2,Filippi syndrome ORPHA:3255,0.0155394890951578
+CCNA2,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+CCNA2,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+CCNA2,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+CCNA2,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+CCNA2,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+CCNA2,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+CCNA2,Stromme syndrome ORPHA:506307,0.0155394890951578
+CCNA2,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+CCNA2,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+CCNA2,Citrullinemia type II ORPHA:247585,0.0414176838632111
+CCNA2,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+CCNA2,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+CCNA2,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+CCNA2,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+CCNA2,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+CCNA2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+CCNA2,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+CCNA2,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+CCNA2,Small cell lung cancer ORPHA:70573,0.0429491792829903
+CCNB1,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+CCNB1,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+CCNB1,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+CCNB1,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+CCNB1,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+CCNB1,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+CCNB1,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+CCNB1,Currarino syndrome ORPHA:1552,0.0155394890951578
+CCNB1,Filippi syndrome ORPHA:3255,0.0155394890951578
+CCNB1,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+CCNB1,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+CCNB1,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+CCNB1,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+CCNB1,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+CCNB1,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+CCNB1,Stromme syndrome ORPHA:506307,0.0155394890951578
+CCNB1,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+CCNB1,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+CCNB1,Citrullinemia type II ORPHA:247585,0.0414176838632111
+CCNB1,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+CCNB1,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+CCNB1,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+CCNB1,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+CCNB1,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+CCNB1,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+CCNB1,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+CCNB1,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+CCNB1,Small cell lung cancer ORPHA:70573,0.0429491792829903
+CCNB2,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+CCNB2,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+CCNB2,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+CCNB2,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+CCNB2,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+CCNB2,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+CCNB2,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+CCNB2,Currarino syndrome ORPHA:1552,0.0155394890951578
+CCNB2,Filippi syndrome ORPHA:3255,0.0155394890951578
+CCNB2,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+CCNB2,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+CCNB2,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+CCNB2,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+CCNB2,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+CCNB2,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+CCNB2,Stromme syndrome ORPHA:506307,0.0155394890951578
+CCNB2,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+CCNB2,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+CCNB2,Citrullinemia type II ORPHA:247585,0.0414176838632111
+CCNB2,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+CCNB2,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+CCNB2,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+CCNB2,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+CCNB2,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+CCNB2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+CCNB2,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+CCNB2,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+CCNB2,Small cell lung cancer ORPHA:70573,0.0429491792829903
+CCND3,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+CCND3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+CCND3,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+CCND3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+CCNE1,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+CCNE1,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+CCNE1,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+CCNE1,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+CCNE1,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+CD52,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+CDA,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+CDC25C,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+CDC25C,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+CDC25C,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+CDC25C,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+CDC25C,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+CDC25C,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+CDC25C,Currarino syndrome ORPHA:1552,0.0155394890951578
+CDC25C,Filippi syndrome ORPHA:3255,0.0155394890951578
+CDC25C,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+CDC25C,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+CDC25C,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+CDC25C,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+CDC25C,Stromme syndrome ORPHA:506307,0.0155394890951578
+CDC25C,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+CDC25C,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+CDC25C,Citrullinemia type II ORPHA:247585,0.0414176838632111
+CDC25C,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+CDC25C,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+CDC25C,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+CDC25C,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+CDC25C,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+CDC25C,Small cell lung cancer ORPHA:70573,0.0429491792829903
+CDC34,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+CDC42BPB,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+CDH1,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+CDH3,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+CDH3,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+CDH3,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+CDKN1A,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+CDKN2B,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+CEBPB,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+CEBPB,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+CENPA,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+CENPA,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+CENPA,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+CENPA,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+CENPA,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+CENPA,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+CENPA,Currarino syndrome ORPHA:1552,0.0155394890951578
+CENPA,Filippi syndrome ORPHA:3255,0.0155394890951578
+CENPA,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+CENPA,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+CENPA,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+CENPA,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+CENPA,Stromme syndrome ORPHA:506307,0.0155394890951578
+CENPA,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+CENPA,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+CENPA,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+CENPA,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+CENPA,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+CENPA,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+CENPA,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+CENPA,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+CENPA,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+CENPA,Small cell lung cancer ORPHA:70573,0.0429491792829903
+CKB,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+CKB,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+CLK3,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+CLK3,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+CLSTN3,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+CLSTN3,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+CLSTN3,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+CORO1A,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+CORO1A,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+CORO1A,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+CTIF,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+CTIF,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+CTIF,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+CTIF,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+DAZAP2,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+DAZAP2,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+DDX17,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+DDX17,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+DEAF1,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+DRAP1,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+DRAP1,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+DYRK1B,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+DYRK1B,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+DYRK1B,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+DYRK1B,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+EHD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+EHD1,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+EHD1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+EHD1,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+ENTPD2,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+EVI5L,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+EVI5L,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+EVI5L,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+EVI5L,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+EVI5L,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+EVI5L,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+EVI5L,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+EVI5L,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+EVI5L,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+EVI5L,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+FGD3,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+FRY,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+FSTL3,Crisponi syndrome ORPHA:1545,0.0155394890951578
+FSTL3,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+FXR2,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+FXR2,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+FXR2,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+GAS2L1,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+GAS2L1,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+GAS2L1,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+GAS2L1,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+GPRIN1,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+GPRIN1,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+GPRIN1,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+HERC1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+HS6ST1,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+IER3,Crisponi syndrome ORPHA:1545,0.0155394890951578
+IFI44,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+IGSF8,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+IQSEC1,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+IQSEC1,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+IQSEC1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+IQSEC1,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+ISG15,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+ISG15,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+ITPRIP,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+ITPRIP,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+KATNB1,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+KATNB1,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+KATNB1,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+KIAA0513,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+KIAA0513,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+KIAA0513,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+KIF20A,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+KIF20A,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+KIF20A,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+KIF20A,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+KIF20A,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+KIF20A,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+KIF20A,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+KIF20A,Currarino syndrome ORPHA:1552,0.0155394890951578
+KIF20A,Filippi syndrome ORPHA:3255,0.0155394890951578
+KIF20A,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+KIF20A,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+KIF20A,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+KIF20A,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+KIF20A,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+KIF20A,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+KIF20A,Stromme syndrome ORPHA:506307,0.0155394890951578
+KIF20A,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+KIF20A,Citrullinemia type II ORPHA:247585,0.0414176838632111
+KIF20A,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+KIF20A,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+KIF20A,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+KIF20A,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+KIF20A,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+KIF20A,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+KIF20A,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+KIF20A,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+KIF20A,Small cell lung cancer ORPHA:70573,0.0429491792829903
+KIFC2,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+KIFC2,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+KIFC2,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+KIFC2,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+KIFC2,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+KIFC2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+KIFC2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+KIFC2,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+KIFC2,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+KIFC2,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+KIFC2,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+KIFC2,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+KLF4,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+KLF4,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+LMF2,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+LMF2,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+LMF2,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+LMF2,Crisponi syndrome ORPHA:1545,0.0155394890951578
+LMF2,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+LMF2,Barth syndrome ORPHA:111,0.0414176838632111
+LMF2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+LMF2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+LMF2,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+LMF2,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+LMF2,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+LMF2,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+LMTK3,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+LMTK3,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+LMTK3,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+MAPKAPK2,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+MIDN,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+NDC80,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+NDC80,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+NDC80,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+NDC80,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+NDC80,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+NDC80,Filippi syndrome ORPHA:3255,0.0155394890951578
+NDC80,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+NDC80,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+NDC80,Stromme syndrome ORPHA:506307,0.0155394890951578
+NDC80,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+NDC80,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+NOL3,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+NOXA1,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+NUAK1,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+NUMBL,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+NUMBL,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+NUMBL,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+NUMBL,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+NXF1,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+NXF1,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+NXF1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+NXF1,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+NXPH4,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+NXPH4,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+NXPH4,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+NXPH4,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+OASL,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+OASL,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+OIP5,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+OIP5,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+OIP5,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+OIP5,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+OIP5,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+OIP5,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+OIP5,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+OIP5,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+OIP5,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+OIP5,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+OSBPL7,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+PAN2,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+PAN2,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+PDLIM7,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+PDLIM7,Crisponi syndrome ORPHA:1545,0.0155394890951578
+PGS1,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+PGS1,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+PGS1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+PGS1,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+PITPNM1,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+PITPNM1,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+PLEKHM1,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+PLEKHM1,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+PLEKHM1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+PLEKHM1,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+PLEKHM1,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+PLIN3,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+PLK4,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+PLK4,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+PLK4,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+PLK4,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+PLK4,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+PLK4,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+PLK4,Filippi syndrome ORPHA:3255,0.0155394890951578
+PLK4,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+PLK4,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+PLK4,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+PLK4,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+PLK4,Stromme syndrome ORPHA:506307,0.0155394890951578
+PLK4,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+PLK4,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+PLK4,Lethal fetal cerebrorenogenitourinary agenesis/hypoplasia syndrome ORPHA:439897,0.0414176838632111
+PLK4,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+PLK4,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+PLK4,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+PLK4,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+PLK4,Small cell lung cancer ORPHA:70573,0.0429491792829903
+PNMA1,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+PNMA1,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+PPFIA3,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+PPFIA3,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+PPFIA3,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+PPFIA3,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+PPFIA3,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+PPFIA3,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+PPFIA3,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+PPP1R13L,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+PPP1R13L,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+PPP1R13L,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+PPP1R13L,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+PRRT2,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+PRSS16,Currarino syndrome ORPHA:1552,0.0155394890951578
+PTPRU,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+RAB11FIP3,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+RAB11FIP3,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+RAB11FIP3,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+RAB11FIP3,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+RAB11FIP3,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+RAB11FIP3,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+RAB11FIP3,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+RAB11FIP3,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+RAB11FIP3,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+RAB11FIP3,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+RASA4,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+RASA4,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+RASGRP2,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+RASGRP2,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+REC8,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+RGS11,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+RHPN2,Currarino syndrome ORPHA:1552,0.0155394890951578
+RNF24,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+RPUSD1,Crisponi syndrome ORPHA:1545,0.0155394890951578
+RPUSD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+RPUSD1,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+RPUSD1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+RPUSD1,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+RPUSD1,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+SEC16A,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+SEC16A,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+SEC16A,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+SEMA6C,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+SEMA6C,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+SEMA6C,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+SEMA6C,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+SEMA6C,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+SEMA6C,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+SEMA6C,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+SEMA6C,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+SEMA6C,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+SERPINH1,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+SGSM2,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+SGSM2,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+SGSM2,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+SGSM2,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+SGSM2,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+SGSM2,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+SGSM2,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+SGSM2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+SGSM2,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+SGSM2,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+SGSM2,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+SGSM2,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+SGSM2,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+SH2B2,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+SH2B2,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+SH2B2,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+SH2D3C,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+SH2D3C,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+SH2D3C,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+SH2D3C,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+SLC16A3,Crisponi syndrome ORPHA:1545,0.0155394890951578
+SLC16A3,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+SLC19A2,Citrullinemia type II ORPHA:247585,0.0414176838632111
+SLC19A2,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+SNPH,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+SNPH,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+SNPH,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+SNX29,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+SNX29,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+SNX29,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+SPSB3,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+SPSB3,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+SPSB3,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+SPSB3,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+SPSB3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+SPSB3,Barth syndrome ORPHA:111,0.0414176838632111
+SPSB3,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+SPSB3,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+SPSB3,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+SPSB3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+SPSB3,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+STARD3,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+STARD3,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+STARD3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+STARD3,Barth syndrome ORPHA:111,0.0414176838632111
+STARD3,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+STARD3,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+STARD3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+STARD3,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+STK11IP,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+STK11IP,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+STK11IP,Barth syndrome ORPHA:111,0.0414176838632111
+STK11IP,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+SYNGR3,PRKAR1B-related neurodegenerative dementia with intermediate filaments ORPHA:412066,0.0155394890951578
+SYNGR3,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+SYNGR3,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+SYNPO,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+SYT7,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+TAOK2,Otospondylomegaepiphyseal dysplasia ORPHA:1427,0.0144185025972157
+TAOK2,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+TAOK2,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+TAOK2,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+TAOK2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+TAOK2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+TAOK2,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+TAOK2,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+TAOK2,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+TAOK2,Oculocutaneous albinism type 2 ORPHA:79432,0.0414176838632111
+TAOK2,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+TAOK2,NON RARE IN EUROPE: Metabolic syndrome ORPHA:411969,0.0429491792829903
+TCAP,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+TCIRG1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+TCIRG1,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+TCIRG1,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+TCIRG1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+TCIRG1,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+TCIRG1,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+TCIRG1,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+TCIRG1,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,0.0414176838632111
+TCIRG1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+TCIRG1,Intermediate osteopetrosis ORPHA:210110,0.0414176838632111
+TLCD1,Currarino syndrome ORPHA:1552,0.0155394890951578
+TLCD1,Citrullinemia type II ORPHA:247585,0.0414176838632111
+TLCD1,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+TMCC2,Autosomal dominant spastic paraplegia type 12 ORPHA:100993,0.0144185025972157
+TMCC2,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+TMCC2,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+TMCC2,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+TMED1,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+TMEM129,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+TMEM129,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+TNFSF9,Crisponi syndrome ORPHA:1545,0.0155394890951578
+TNKS1BP1,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+TNKS1BP1,Congenital thrombotic thrombocytopenic purpura ORPHA:93583,0.0414176838632111
+TNKS1BP1,Antley-Bixler syndrome ORPHA:83,0.0414176838632111
+TPPP,Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha ORPHA:566231,0.0155394890951578
+TPPP,1p36 deletion syndrome ORPHA:1606,0.0184072076199886
+TRAM2,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+TREX1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,0.0155394890951578
+TREX1,Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations ORPHA:247691,0.0155394890951578
+TRIM47,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+TRIP10,Autosomal dominant Charcot-Marie-Tooth disease type 2F ORPHA:99940,0.0414176838632111
+TSPAN5,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+TSPAN5,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+TUBB3,Classic glucose transporter type 1 deficiency syndrome ORPHA:71277,0.0155394890951578
+TUBB3,Hereditary cryohydrocytosis with reduced stomatin ORPHA:168577,0.0155394890951578
+TUBB3,Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity ORPHA:53583,0.0155394890951578
+TUBB3,Spinocerebellar ataxia type 21 ORPHA:98773,0.0155394890951578
+TUBB3,Paroxysmal exertion-induced dyskinesia ORPHA:98811,0.0155394890951578
+TUBB3,Autosomal recessive spondylocostal dysostosis ORPHA:2311,0.0473879273649914
+TUBGCP6,Autosomal dominant centronuclear myopathy ORPHA:169189,0.0036432528126817
+TUBGCP6,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+TUBGCP6,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+TUBGCP6,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+TUBGCP6,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+TUBGCP6,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+TUBGCP6,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis ORPHA:88924,0.0414176838632111
+TUBGCP6,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+TUBGCP6,Barth syndrome ORPHA:111,0.0414176838632111
+TUBGCP6,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+TUBGCP6,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+TUBGCP6,Megaconial congenital muscular dystrophy ORPHA:280671,0.0414176838632111
+TUBGCP6,Proximal myopathy with focal depletion of mitochondria ORPHA:521305,0.0414176838632111
+TUBGCP6,Lymphangioleiomyomatosis ORPHA:538,0.0414176838632111
+TUBGCP6,Tuberous sclerosis complex ORPHA:805,0.0414176838632111
+UNC119,Idiopathic CD4 lymphocytopenia ORPHA:228000,0.0155394890951578
+USP20,Homocystinuria due to methylene tetrahydrofolate reductase deficiency ORPHA:395,0.0081550609410495
+USP20,Charcot-Marie-Tooth disease type 4G ORPHA:99953,0.0144185025972157
+USP20,Non-spherocytic hemolytic anemia due to hexokinase deficiency ORPHA:90031,0.0144185025972157
+USP20,Familial lipase maturation factor 1 deficiency ORPHA:535453,0.0155394890951578
+USP20,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,0.0155394890951578
+USP20,Susceptibility to infection due to TYK2 deficiency ORPHA:331226,0.0155394890951578
+USP20,VPS11-related autosomal recessive hypomyelinating leukodystrophy ORPHA:466934,0.0155394890951578
+USP20,Adult-onset dystonia-parkinsonism ORPHA:199351,0.0414176838632111
+USP20,Barth syndrome ORPHA:111,0.0414176838632111
+USP20,Infantile neuroaxonal dystrophy ORPHA:35069,0.0414176838632111
+USP20,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,0.0414176838632111
+USP20,Familial isolated pituitary adenoma ORPHA:314777,0.0414176838632111
+VASN,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+VASN,Crisponi syndrome ORPHA:1545,0.0155394890951578
+WDR6,Autosomal recessive cerebellar ataxia with late-onset spasticity ORPHA:352641,0.0155394890951578
+WDR6,Autosomal recessive spastic paraplegia type 46 ORPHA:320391,0.0155394890951578
+YIF1B,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,0.0414176838632111
+YIF1B,Incontinentia pigmenti ORPHA:464,0.0414176838632111
+YIF1B,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,0.0414176838632111
+ZNF516,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation ORPHA:320385,0.0155394890951578
+ZNF598,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,0.0414176838632111
+ZNF598,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+ZNF598,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+ZNF628,Atrial septal defect sinus venosus type ORPHA:99105,0.0155394890951578
+ZNF628,Crisponi syndrome ORPHA:1545,0.0155394890951578
+ZNF628,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+ZNF628,Multiple endocrine neoplasia type 1 ORPHA:652,0.0473879273649914
+ZNF653,Charcot-Marie-Tooth disease type 2P ORPHA:300319,0.0414176838632111
+ZNF653,Cushing syndrome due to macronodular adrenal hyperplasia ORPHA:189427,0.0414176838632111
+ZWINT,Multinucleated neurons-anhydramnios-renal dysplasia-cerebellar hypoplasia-hydranencephaly syndrome ORPHA:500135,0.0144185025972157
+ZWINT,Mosaic variegated aneuploidy syndrome ORPHA:1052,0.0149557947723539
+ZWINT,21q22.11q22.12 microdeletion syndrome ORPHA:261323,0.0155394890951578
+ZWINT,Adult-onset autosomal dominant leukodystrophy ORPHA:99027,0.0155394890951578
+ZWINT,Congenital dyserythropoietic anemia type III ORPHA:98870,0.0155394890951578
+ZWINT,Constitutional megaloblastic anemia with severe neurologic disease ORPHA:319651,0.0155394890951578
+ZWINT,Currarino syndrome ORPHA:1552,0.0155394890951578
+ZWINT,Filippi syndrome ORPHA:3255,0.0155394890951578
+ZWINT,Lethal fetal brain malformation-duodenal atresia-bilateral renal hypoplasia syndrome ORPHA:444069,0.0155394890951578
+ZWINT,Microcephaly-lymphedema-chorioretinopathy syndrome ORPHA:2526,0.0155394890951578
+ZWINT,PCNA-related progressive neurodegenerative photosensitivity syndrome ORPHA:438134,0.0155394890951578
+ZWINT,Short stature-onychodysplasia-facial dysmorphism-hypotrichosis syndrome ORPHA:314394,0.0155394890951578
+ZWINT,Stromme syndrome ORPHA:506307,0.0155394890951578
+ZWINT,Intrauterine growth restriction-congenital multiple cafe-au-lait macules-increased sister chromatid exchange syndrome ORPHA:508512,0.0155394890951578
+ZWINT,Ear-patella-short stature syndrome ORPHA:2554,0.0184072076199886
+ZWINT,Citrullinemia type II ORPHA:247585,0.0414176838632111
+ZWINT,Microcephaly-micromelia syndrome ORPHA:572768,0.0414176838632111
+ZWINT,Microcephaly-short stature-limb abnormalities syndrome ORPHA:572773,0.0414176838632111
+ZWINT,Mutilating hereditary sensory neuropathy with spastic paraplegia ORPHA:139578,0.0414176838632111
+ZWINT,Neonatal intrahepatic cholestasis due to citrin deficiency ORPHA:247598,0.0414176838632111
+ZWINT,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,0.0414176838632111
+ZWINT,X-linked intellectual disability Snyder type ORPHA:3063,0.0414176838632111
+ZWINT,Large congenital melanocytic nevus ORPHA:626,0.0414176838632111
+ZWINT,Small cell lung cancer ORPHA:70573,0.0429491792829903

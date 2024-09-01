@@ -1,0 +1,1 @@
+Exceso de interacciones. Se me prohibió la descarga de un archivo tan grande, por ende sólo descargué las interacciones directas
