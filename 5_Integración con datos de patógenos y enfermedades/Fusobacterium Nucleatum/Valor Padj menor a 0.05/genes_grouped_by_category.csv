@@ -1,0 +1,145 @@
+Gene,Category
+AANAT,Cancer
+ABCB1,Cancer
+ABCC2,Cancer
+ACSL5,Cancer
+ACTA2,Cancer
+ADAM15,Cancer
+ADAMTS14,Cancer
+ADAMTS15,Cancer
+AFAP1L2,Cancer
+AMOTL2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases"
+APOBEC3B,Cancer
+APOLD1,Cancer
+ARL2BP,Cancer
+BBC3,Cancer
+BMF,Cancer
+C1QL1,Cancer
+CA11,Cancer
+CA2,Cancer
+CASP7,Cancer
+CCND1,"Associated with Dysbiosis, Cancer, Rare Diseases"
+CEACAM19,Cancer
+CENPE,Cancer
+CHST11,Cancer
+CLSPN,Cancer
+CNTNAP1,Cancer
+COL12A1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases"
+COL5A2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases"
+CORO1A,Cancer
+CPA4,Rare Diseases
+CPEB4,Cancer
+CTSD,Cancer
+CYP24A1,Cancer
+CYP4F2,Cancer
+DEPDC1B,Cancer
+DOCK11,Cancer
+E2F7,Cancer
+EFR3B,Cancer
+EHF,"Cancer, Rare Diseases"
+ENC1,Cancer
+ENG,Cancer
+ESCO2,Cancer
+FGF19,Cancer
+FHIT,Cancer
+FRAT2,Cancer
+FZD1,Cancer
+GAL,Cancer
+GLI2,Cancer
+GPNMB,Cancer
+GPR37,Cancer
+GRAMD1B,Cancer
+H2AX,Cancer
+HPSE,Cancer
+HS3ST1,Cancer
+HTATIP2,Cancer
+HYAL1,Cancer
+ICA1,Cancer
+ID2,Cancer
+IL22RA1,"Cancer, Rare Diseases"
+IQGAP2,Cancer
+ISL1,Cancer
+ITGA2,"Cancer, Rare Diseases"
+KAT2B,Cancer
+KBTBD8,Cancer
+KCNN4,Cancer
+KITLG,"Associated with Dysbiosis, Cancer, Rare Diseases"
+KRT13,Cancer
+KRT23,Cancer
+LAMA3,"Associated with Dysbiosis, Cancer, Rare Diseases"
+LAMP3,Cancer
+LIFR,"Associated with Dysbiosis, Cancer, Neurological Diseases"
+LPAR5,Cancer
+LRIG1,Cancer
+LZTS1,Cancer
+ME1,Cancer
+MICB,Cancer
+MIR100HG,Cancer
+MIR17HG,Cancer
+MKNK2,Cancer
+MT1E,Cancer
+NEU1,Cancer
+NGFR,Cancer
+NOLC1,Cancer
+NR4A2,Cancer
+NRIP1,Cancer
+OGFR,Cancer
+OIP5,Cancer
+P2RX7,Cancer
+P3H2,Cancer
+PADI3,Cancer
+PBX1,Cancer
+PCDH7,Neurological Diseases
+PDE4B,Cancer
+PDGFB,Cancer
+PIR,Cancer
+PLEKHD1,Cancer
+PLK2,"Cancer, Rare Diseases"
+PLSCR4,"Associated with Dysbiosis, Cancer, Neurological Diseases"
+PPP1R14B,Cancer
+PRMT6,Cancer
+PRR15,Cancer
+PRSS23,"Associated with Dysbiosis, Cancer, Rare Diseases"
+PSMB9,Cancer
+PURPL,Cancer
+RGL1,"Associated with Dysbiosis, Cancer"
+RGS6,Cancer
+RHOBTB3,Cancer
+RHOU,Cancer
+RPSAP52,Cancer
+RTKN2,Cancer
+S100A14,"Cancer, Rare Diseases"
+SCG2,Cancer
+SETD7,Cancer
+SHCBP1,Cancer
+SIX2,Cancer
+SKAP1,Cancer
+SKIL,Cancer
+SLC22A18,Cancer
+SMAD6,"Associated with Dysbiosis, Cancer"
+SMAD7,Cancer
+SNAI2,"Associated with Dysbiosis, Cancer, Rare Diseases"
+SNCG,Cancer
+SORBS1,Cancer
+SORL1,Cancer
+SORT1,Cancer
+SPC25,Cancer
+STN1,Cancer
+SULT1A1,Cancer
+SUSD4,Cancer
+TET1,Cancer
+TFAP4,Cancer
+TGM2,Cancer
+THBS1,"Cancer, Rare Diseases"
+TIMP2,Cancer
+TNFSF9,Cancer
+TPM4,Cancer
+TRAK2,Cancer
+TRIB3,Cancer
+TSC22D1,Cancer
+UQCC1,Cancer
+VGLL3,Cancer
+WNT16,Cancer
+WNT9A,Cancer
+ZCCHC12,Cancer
+ZNF703,Cancer
