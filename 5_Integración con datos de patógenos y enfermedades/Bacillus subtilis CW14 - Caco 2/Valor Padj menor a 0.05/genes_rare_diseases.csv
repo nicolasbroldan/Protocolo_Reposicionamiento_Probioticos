@@ -1,0 +1,59 @@
+Gene,Disease
+ADM,"Autoimmune Diseases, Glomerulonephritis, IGA Glomerulonephritis"
+BIRC3,"Autoimmune Diseases, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Immunodeficiency by defective expression of MHC class I ORPHA:34592"
+CCL2,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, Familial lichen amyloidosis, Amyloidosis, Nephrotic Syndrome, Membranous glomerulonephritis, Chronic glomerulonephritis"
+CCL20,"Familial lichen amyloidosis, Autoimmune"
+CCL22,"Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Idiopathic crescentic glomerulonephritis, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951"
+CCL4,"Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813"
+CCL5,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Autoimmune, IGA Glomerulonephritis"
+CD83,"Autoimmune Diseases, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951"
+CFB,"Autoimmune Diseases, Amyloidosis, Autoimmune thyroid disease, Glomerulonephritis"
+CSF1,Anti-Basement Membrane Glomerulonephritis
+CSF2,"Autoimmune Diseases, Acquired Immunodeficiency Syndrome, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Severe Combined Immunodeficiency, Asymptomatic human immunodeficiency virus infection"
+CSF3,"Autoimmune Diseases, Acquired Immunodeficiency Syndrome, Severe Combined Immunodeficiency, Asymptomatic human immunodeficiency virus infection"
+CX3CL1,"Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis"
+CXCL1,"Autoimmune Diseases, Autoimmune, Amyloidosis"
+CXCL10,"Autoimmune Diseases, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Autoimmune, Autoimmune thyroiditis, Autoimmune thyroid disease, Asymptomatic human immunodeficiency virus infection, Polyglandular Type I Autoimmune Syndrome, Membranous glomerulonephritis, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951"
+CXCL11,Acquired Immunodeficiency Syndrome
+CXCL2,Glycogen Storage Disease
+CXCL5,Autoimmune Diseases
+CXCL8,"Autoimmune Diseases, Glomerulonephritis, IGA Glomerulonephritis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Nephrotic Syndrome, Steroid-sensitive nephrotic syndrome, Glycogen Storage Disease, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951"
+CYP1B1,Familial lichen amyloidosis
+DKK1,"Amyloidosis, Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504"
+DUSP2,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951"
+ETS1,Autoimmune Diseases
+FOS,"Glomerulonephritis, Idiopathic crescentic glomerulonephritis, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951"
+FOXJ1,Autoimmune Diseases
+HSPA1A,"Autoimmune Diseases, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Autoimmune thyroid disease"
+HSPA1B,"Autoimmune Diseases, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Autoimmune thyroid disease"
+HSPH1,Amyloidosis
+ICAM1,"Autoimmune Diseases, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Autoimmune thyroiditis, IGA Glomerulonephritis, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Autoimmune, Polyglandular Type I Autoimmune Syndrome, Autoimmune liver disease, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159"
+IL1A,"Autoimmune Diseases, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, Amyloidosis, AA amyloidosis, Nephrotic Syndrome, Reactive systemic amyloidosis"
+IL1B,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Idiopathic Nephrotic Syndrome, AA amyloidosis, Nephrotic Syndrome, Membranous glomerulonephritis, Mesangial proliferative glomerulonephritis, Autoimmune arthritis, Reactive systemic amyloidosis"
+IL23A,"Autoimmune Diseases, Severe Combined Immunodeficiency, Autoimmune thrombocytopenia"
+IRF1,"Autoimmune Diseases, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592"
+LIF,"Autoimmune Diseases, Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504"
+LTB,"Autoimmune Diseases, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592"
+MIR17HG,"Autoimmune Diseases, Severe Combined Immunodeficiency"
+NFKBIA,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813"
+NFKBIZ,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159"
+NPTX1,Amyloidosis
+NR4A3,"Autoimmune Diseases, Autoimmune, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951"
+PLAU,"IGA Glomerulonephritis, Amyloidosis, Severe Combined Immunodeficiency, Glomerulonephritis"
+PLK2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504
+POTEF,"Autoimmune Diseases, Severe Combined Immunodeficiency"
+PTAFR,Glomerulonephritis
+RCAN1,Amyloidosis
+S100A3,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504
+SDC4,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504
+SERPINA3,"Familial lichen amyloidosis, Amyloidosis"
+SOD2,"Autoimmune Diseases, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Idiopathic Nephrotic Syndrome, Nephrotic Syndrome"
+SPG7,"IGA Glomerulonephritis, Mesangial proliferative glomerulonephritis"
+STAT5A,"Autoimmune Diseases, Severe Combined Immunodeficiency, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159"
+STX11,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592"
+THBS1,Acquired Immunodeficiency Syndrome
+TICAM1,Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813
+TNF,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Severe Combined Immunodeficiency, Autoimmune thyroid disease, Idiopathic Nephrotic Syndrome, AA amyloidosis, Nephrotic Syndrome, Polyglandular Type I Autoimmune Syndrome, Membranous glomerulonephritis, Steroid-sensitive nephrotic syndrome, Autoimmune arthritis, Autoimmune liver disease, Chronic glomerulonephritis, Autoimmune thrombocytopenia, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813"
+TNFAIP2,STAT3-related early-onset multisystem autoimmune disease ORPHA:438159
+TNFAIP3,"Autoimmune Diseases, Autoimmune, Autoimmune thyroid disease, Autoimmune thrombocytopenia, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592"
+TNFSF14,"Autoimmune Diseases, Autoimmune arthritis"

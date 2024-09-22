@@ -1,5 +1,5 @@
 Gene,DisGeNET_Term_categories,GeDiPNet_Term_categories,Orphanet_Term_categories
-ALDH1A3,"Neurological Diseases, Associated with Dysbiosis, Cancer, Other Diseases","Cancer, Other Diseases","Rare Diseases, Cancer, Other Diseases"
-CXCL8,"Viral Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Other Diseases","Rare Diseases, Cancer, Other Diseases","Cancer, Other Diseases"
-EGR1,"Viral Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Other Diseases","Rare Diseases, Cancer, Other Diseases",Other Diseases
-SLC12A3,"Neurological Diseases, Associated with Dysbiosis, Cancer, Other Diseases","Cancer, Other Diseases",Other Diseases
+ALDH1A3,"Cancer, Neurological Diseases, Associated with Dysbiosis, Other Diseases","Cancer, Other Diseases","Cancer, Rare Diseases, Other Diseases"
+CXCL8,"Viral Diseases, Pathogenic Bacteria, Rare Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases, Other Diseases","Cancer, Rare Diseases, Other Diseases","Cancer, Other Diseases"
+EGR1,"Viral Diseases, Rare Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases, Other Diseases","Cancer, Rare Diseases, Other Diseases",Other Diseases
+SLC12A3,"Cancer, Neurological Diseases, Associated with Dysbiosis, Other Diseases","Cancer, Other Diseases",Other Diseases

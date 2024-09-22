@@ -1,0 +1,54 @@
+Gene,Disease
+ADM,"Alzheimer's Disease, Bipolar Disorder, Schizophrenia"
+BDKRB2,"Alzheimer's Disease, Epilepsy, Bipolar Disorder"
+BIRC3,Alzheimer's Disease
+CAMK1G,"Amyotrophic Lateral Sclerosis, Amyotrophic Lateral Sclerosis With Dementia"
+CCL2,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Paranoid Schizophrenia, Amyotrophic Lateral Sclerosis, Bipolar Disorder, Schizophrenia, Autism Spectrum Disorders"
+CCL4,Epilepsy
+CCL5,"Alzheimer's Disease, Parkinson Disease"
+CD83,"Alzheimer's Disease, Chronic Infantile Neurological"
+CFB,"Alzheimer's Disease, Parkinson Disease"
+CSF1,Alzheimer's Disease
+CSF2,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Amyotrophic Lateral Sclerosis, Bipolar Disorder, Schizophrenia, PARKINSON DISEASE 2, Autism Spectrum Disorders"
+CSF3,"Alzheimer's Disease, Amyotrophic Lateral Sclerosis"
+CX3CL1,"Alzheimer's Disease, Parkinson Disease, PARKINSON DISEASE 2"
+CXCL1,Alzheimer's Disease
+CXCL10,Amyotrophic Lateral Sclerosis
+CXCL8,"Alzheimer's Disease, Parkinson Disease, Bipolar Disorder, Schizophrenia"
+CYP1A1,Parkinson Disease
+CYP1B1,Autism Spectrum Disorders
+DKK1,"Alzheimer's Disease, Alzheimer Disease, Schizophrenia"
+DNAJB1,"Parkinson Disease, Bipolar Disorder, Schizophrenia"
+DUSP2,"Bipolar Disorder, Schizophrenia"
+FOS,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis"
+GAPDHS,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Alzheimer Disease"
+HAP1,"Alzheimer's Disease, Epilepsy"
+HSPA1A,"Alzheimer's Disease, Parkinson Disease, Paranoid Schizophrenia, Schizophrenia"
+HSPA1B,"Alzheimer's Disease, Parkinson Disease, Paranoid Schizophrenia, Schizophrenia"
+HSPH1,Alzheimer's Disease
+ICAM1,"Alzheimer's Disease, Parkinson Disease, Epilepsy, Schizophrenia"
+IL1A,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Epilepsy, Chronic Infantile Neurological, Bipolar Disorder, Schizophrenia, Autism Spectrum Disorders"
+IL1B,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Amyotrophic Lateral Sclerosis, Epilepsy, Chronic Infantile Neurological, Bipolar Disorder, Schizophrenia, PARKINSON DISEASE 2, Autism Spectrum Disorders"
+IL23A,"Parkinson Disease, Amyotrophic Lateral Sclerosis"
+LIF,"Alzheimer's Disease, Parkinson Disease, Amyotrophic Lateral Sclerosis, Schizophrenia"
+MASP2,Amyotrophic Lateral Sclerosis
+MIR616,Alzheimer's Disease
+NANOS1,"Schizophrenia, Autism Spectrum Disorders"
+NANOS3,"Alzheimer's Disease, Bipolar Disorder"
+NPTX1,"Alzheimer's Disease, Bipolar Disorder, Schizophrenia"
+NR4A3,"Alzheimer's Disease, Bipolar Disorder, Schizophrenia"
+OXTR,"Schizophrenia, Autism Spectrum Disorders"
+PLAU,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Alzheimer Disease"
+PLK2,"Alzheimer's Disease, Parkinson Disease"
+POTEF,"Alzheimer's Disease, Parkinson Disease, Schizophrenia"
+RCAN1,Alzheimer's Disease
+RGS2,"Alzheimer's Disease, Parkinson Disease, Schizophrenia"
+RND1,Alzheimer's Disease
+SERPINA3,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis, Schizophrenia"
+SOD2,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Amyotrophic Lateral Sclerosis, AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis With Dementia, Bipolar Disorder, Schizophrenia, PARKINSON DISEASE 2, Autism Spectrum Disorders"
+SPG7,"Alzheimer's Disease, Schizophrenia"
+STAT5A,Amyotrophic Lateral Sclerosis
+THBS1,"Parkinson Disease, Schizophrenia"
+TNF,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Paranoid Schizophrenia, Amyotrophic Lateral Sclerosis, Epilepsy, AMYOTROPHIC LATERAL SCLEROSIS 1, Bipolar Disorder, Schizophrenia, Autism Spectrum Disorders"
+TNFSF14,Amyotrophic Lateral Sclerosis
+UNC13A,"Amyotrophic Lateral Sclerosis, AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis With Dementia"

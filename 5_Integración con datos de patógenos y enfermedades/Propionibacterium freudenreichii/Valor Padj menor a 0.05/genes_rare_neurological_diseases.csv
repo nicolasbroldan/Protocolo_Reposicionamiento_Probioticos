@@ -1,0 +1,51 @@
+Gene,Disease,Category
+CCNA2,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNA2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNB1,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNB1,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNB2,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNB2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCND3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+CDC25C,Citrullinemia type II ORPHA:247585,Rare Diseases
+CDC25C,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CENPA,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+EHD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+KIF20A,Citrullinemia type II ORPHA:247585,Rare Diseases
+KIF20A,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+LMF2,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+LMF2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+LMF2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+PLK4,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+RPUSD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+SLC19A2,Citrullinemia type II ORPHA:247585,Rare Diseases
+SPSB3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+STARD3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+STARD3,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+TCIRG1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+TLCD1,Citrullinemia type II ORPHA:247585,Rare Diseases
+YIF1B,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+ZWINT,Citrullinemia type II ORPHA:247585,Rare Diseases
+ZWINT,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+ABCA7,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+ACAP3,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+ACAP3,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+ACAP3,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+ATG16L2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+ATG16L2,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+CORO1A,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+KIFC2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+KIFC2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+KIFC2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+NXF1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+OSBPL7,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+PAN2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+PGS1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+REC8,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+SGSM2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+SGSM2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+SH2D3C,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+TUBGCP6,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+TUBGCP6,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+USP20,Charcot-Marie-Tooth disease type 4G ORPHA:99953,Rare Diseases
+USP20,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+USP20,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
