@@ -8,7 +8,7 @@ ADAM15,"Cancer, Other Diseases",No information,No information
 ADAMTS14,Cancer,No information,No information
 ADAMTS15,Cancer,No information,"Cancer, Other Diseases"
 AFAP1L2,"Cancer, Other Diseases",No information,No information
-AMOTL2,No information,No information,"Cancer, Associated with Dysbiosis, Rare Diseases, Neurological Diseases, Other Diseases"
+AMOTL2,No information,No information,"Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases"
 APOBEC3B,"Cancer, Other Diseases","Cancer, Other Diseases",No information
 APOLD1,Cancer,No information,No information
 ARL2BP,"Cancer, Other Diseases",No information,No information
@@ -21,14 +21,14 @@ C1QL1,Cancer,No information,No information
 CA11,"Cancer, Other Diseases",No information,No information
 CA2,Cancer,Cancer,No information
 CASP7,"Cancer, Other Diseases","Cancer, Other Diseases",No information
-CCND1,"Cancer, Other Diseases","Cancer, Other Diseases","Associated with Dysbiosis, Cancer, Rare Diseases, Other Diseases"
+CCND1,"Cancer, Other Diseases","Cancer, Other Diseases","Cancer, Other Diseases, Associated with Dysbiosis, Rare Diseases"
 CEACAM19,Cancer,No information,No information
 CENPE,"Cancer, Other Diseases",No information,"Cancer, Other Diseases"
 CHST11,Cancer,No information,No information
 CLSPN,"Cancer, Other Diseases",Cancer,"Cancer, Other Diseases"
 CNTNAP1,"Cancer, Other Diseases",Cancer,No information
-COL12A1,"Cancer, Other Diseases",No information,"Cancer, Associated with Dysbiosis, Rare Diseases, Neurological Diseases, Other Diseases"
-COL5A2,"Cancer, Other Diseases",No information,"Cancer, Associated with Dysbiosis, Rare Diseases, Neurological Diseases, Other Diseases"
+COL12A1,"Cancer, Other Diseases",No information,"Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases"
+COL5A2,"Cancer, Other Diseases",No information,"Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases"
 CORO1A,"Cancer, Other Diseases",Cancer,No information
 CPA4,No information,No information,"Other Diseases, Rare Diseases"
 CPEB4,Cancer,No information,No information
@@ -65,16 +65,16 @@ ID2,"Cancer, Other Diseases",No information,No information
 IL22RA1,Cancer,No information,"Other Diseases, Rare Diseases"
 IQGAP2,"Cancer, Other Diseases",No information,No information
 ISL1,"Cancer, Other Diseases",No information,No information
-ITGA2,"Cancer, Other Diseases",No information,"Cancer, Rare Diseases, Other Diseases"
+ITGA2,"Cancer, Other Diseases",No information,"Cancer, Other Diseases, Rare Diseases"
 KAT2B,"Cancer, Other Diseases",No information,No information
 KBTBD8,Cancer,Cancer,No information
 KCNN4,Cancer,Cancer,No information
-KITLG,"Cancer, Other Diseases","Cancer, Other Diseases","Associated with Dysbiosis, Cancer, Rare Diseases, Other Diseases"
+KITLG,"Cancer, Other Diseases","Cancer, Other Diseases","Cancer, Other Diseases, Associated with Dysbiosis, Rare Diseases"
 KRT13,Cancer,Cancer,Other Diseases
 KRT23,Cancer,No information,No information
-LAMA3,Cancer,No information,"Associated with Dysbiosis, Cancer, Rare Diseases, Other Diseases"
+LAMA3,Cancer,No information,"Cancer, Other Diseases, Associated with Dysbiosis, Rare Diseases"
 LAMP3,Cancer,No information,Other Diseases
-LIFR,"Cancer, Other Diseases",Other Diseases,"Associated with Dysbiosis, Other Diseases, Neurological Diseases"
+LIFR,"Cancer, Other Diseases",Other Diseases,"Neurological Diseases, Other Diseases, Associated with Dysbiosis"
 LPAR5,Cancer,No information,Other Diseases
 LRIG1,"Cancer, Other Diseases",No information,No information
 LZTS1,Cancer,Cancer,No information
@@ -96,21 +96,21 @@ P2RX7,"Cancer, Other Diseases",Cancer,No information
 P3H2,Cancer,Cancer,Other Diseases
 PADI3,"Cancer, Other Diseases",Cancer,Other Diseases
 PBX1,"Cancer, Other Diseases",Other Diseases,Other Diseases
-PCDH7,No information,No information,"Other Diseases, Neurological Diseases"
+PCDH7,No information,No information,"Neurological Diseases, Other Diseases"
 PDE4B,Cancer,No information,No information
 PDGFB,"Cancer, Other Diseases",No information,Cancer
 PIR,Cancer,No information,No information
 PLEKHD1,No information,"Cancer, Other Diseases",No information
-PLK2,"Cancer, Other Diseases",Cancer,"Cancer, Rare Diseases, Other Diseases"
-PLSCR4,No information,No information,"Associated with Dysbiosis, Cancer, Other Diseases, Neurological Diseases"
+PLK2,"Cancer, Other Diseases",Cancer,"Cancer, Other Diseases, Rare Diseases"
+PLSCR4,No information,No information,"Cancer, Neurological Diseases, Other Diseases, Associated with Dysbiosis"
 PPP1R14B,Cancer,No information,No information
 PRMT6,"Cancer, Other Diseases",No information,No information
 PRR15,Cancer,No information,Other Diseases
-PRSS23,Cancer,No information,"Associated with Dysbiosis, Rare Diseases, Other Diseases"
+PRSS23,Cancer,No information,"Other Diseases, Associated with Dysbiosis, Rare Diseases"
 PSMB9,"Cancer, Other Diseases",No information,Other Diseases
 PURPL,Cancer,No information,No information
 RBM24,No information,No information,Other Diseases
-RGL1,Cancer,Cancer,"Associated with Dysbiosis, Other Diseases"
+RGL1,Cancer,Cancer,"Other Diseases, Associated with Dysbiosis"
 RGS6,"Cancer, Other Diseases",No information,No information
 RHOBTB3,Cancer,No information,Other Diseases
 RHOU,"Cancer, Other Diseases",Cancer,Other Diseases
@@ -126,9 +126,9 @@ SIX2,"Cancer, Other Diseases",Other Diseases,Other Diseases
 SKAP1,Cancer,No information,Other Diseases
 SKIL,Cancer,No information,No information
 SLC22A18,"Cancer, Other Diseases","Cancer, Other Diseases",Cancer
-SMAD6,"Cancer, Other Diseases",No information,"Associated with Dysbiosis, Other Diseases"
+SMAD6,"Cancer, Other Diseases",No information,"Other Diseases, Associated with Dysbiosis"
 SMAD7,"Cancer, Other Diseases",No information,No information
-SNAI2,"Cancer, Other Diseases","Cancer, Other Diseases","Associated with Dysbiosis, Cancer, Rare Diseases, Other Diseases"
+SNAI2,"Cancer, Other Diseases","Cancer, Other Diseases","Cancer, Other Diseases, Associated with Dysbiosis, Rare Diseases"
 SNCG,"Cancer, Other Diseases","Cancer, Other Diseases",Other Diseases
 SORBS1,Cancer,Cancer,No information
 SORL1,Cancer,Cancer,No information
@@ -141,7 +141,7 @@ SUSD4,Cancer,No information,No information
 TET1,"Cancer, Other Diseases",No information,No information
 TFAP4,Cancer,No information,No information
 TGM2,"Cancer, Other Diseases","Cancer, Other Diseases",Other Diseases
-THBS1,"Cancer, Other Diseases","Cancer, Other Diseases","Cancer, Rare Diseases, Other Diseases"
+THBS1,"Cancer, Other Diseases","Cancer, Other Diseases","Cancer, Other Diseases, Rare Diseases"
 TIMP2,"Cancer, Other Diseases",No information,Other Diseases
 TNFSF9,Cancer,No information,No information
 TPM4,Cancer,Cancer,Other Diseases
