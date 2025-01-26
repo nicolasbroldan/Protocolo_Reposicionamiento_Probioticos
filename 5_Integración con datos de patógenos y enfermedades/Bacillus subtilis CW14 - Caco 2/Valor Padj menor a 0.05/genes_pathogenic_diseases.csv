@@ -1,0 +1,41 @@
+Gene,Disease
+ADM,Community acquired pneumonia
+BIRC3,"Pneumonia, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957"
+CCL2,"Pneumonia, Lobar Pneumonia, Tuberculosis, Invasive Streptococcus pneumoniae disease, Latent Tuberculosis, Pleural Tuberculosis, Primary bacterial peritonitis"
+CCL20,"Pneumonia, Lobar Pneumonia, Tuberculosis"
+CCL22,Pneumonia
+CCL4,"Pneumonia, Lobar Pneumonia, Tuberculosis, Active tuberculosis"
+CCL5,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial Infections, Active tuberculosis, Invasive Streptococcus pneumoniae disease, Streptococcal pneumonia, Pleural Tuberculosis, Lymphoid interstitial pneumonia"
+CFB,"Pneumonia, Bacterial sepsis, Nonbacterial Verrucal Endocardiosis"
+CSF2,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial, Pneumocystis jiroveci pneumonia"
+CSF3,"Pneumonia, Bacterial Infections, Bacterial, Staphylococcus aureus infection"
+CX3CL1,"Pneumonia, Lobar Pneumonia"
+CXCL1,"Pneumonia, Lobar Pneumonia, Bacterial Infections, Aspiration Pneumonia, Bacterial"
+CXCL10,"Pneumonia, Tuberculosis, Bacterial Vaginosis, Latent Tuberculosis, Bacterial, Lymphoid interstitial pneumonia"
+CXCL2,"Pneumonia, Tuberculosis, Bacterial Infections, Aspiration Pneumonia, Bacterial"
+CXCL5,"Pneumonia, Lobar Pneumonia, Bacterial"
+CXCL8,"Pneumonia, Tuberculosis, Bacterial Infections, Active tuberculosis, Bacterial Vaginosis, Streptococcal pneumonia, Pleural Tuberculosis, Bacterial, Pneumocystis jiroveci pneumonia, Bacterial keratitis, Bronchiolitis Obliterans Organizing Pneumonia, Staphylococcus aureus infection"
+CYP1A1,"Pneumonia, Tuberculosis, Hospital acquired pneumonia"
+DNAJB1,Bacterial Infections
+ETS1,"Nonbacterial Verrucal Endocardiosis, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957"
+FOS,Pneumonia
+HSPA1A,"Pneumonia, Community acquired pneumonia"
+HSPA1B,"Pneumonia, Community acquired pneumonia"
+ICAM1,"Pneumonia, Tuberculosis, Bacterial Endocarditis"
+IL1A,"Pneumonia, Tuberculosis, Bacterial Infections, Aspiration Pneumonia, Active tuberculosis, Bacterial Vaginosis"
+IL1B,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial Infections, Active tuberculosis, Invasive Streptococcus pneumoniae disease, Bacterial Vaginosis, Bacterial, Bacterial Endocarditis, Pneumocystis jiroveci pneumonia, Bacterial keratitis, Salmonella infections"
+IL23A,"Pneumonia, Tuberculosis, Bacterial Infections, Bacterial, Latent Tuberculosis, Hospital acquired pneumonia, Bacterial Endocarditis, Salmonella infections"
+IRF1,"Tuberculosis, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957"
+LTB,Tuberculosis
+MASP2,"Pneumonia, Tuberculosis, Streptococcal pneumonia"
+NFKBIA,"Pneumonia, Tuberculosis, Bacterial Infections, Invasive Streptococcus pneumoniae disease"
+NFKBIZ,Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957
+PLAU,Pneumonia
+POTEF,"Lobar Pneumonia, Tuberculosis, Streptococcal pneumonia"
+PTAFR,"Pneumonia, Lobar Pneumonia, Invasive Streptococcus pneumoniae disease, Streptococcal pneumonia"
+SDC4,Bacterial Infections
+SOD2,Pneumonia
+STX11,Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957
+TICAM1,"Pneumonia, Bacterial"
+TNF,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial Infections, Aspiration Pneumonia, Active tuberculosis, Bacterial Vaginosis, Latent Tuberculosis, Community acquired pneumonia, Hospital acquired pneumonia, Pleural Tuberculosis, Bacterial Endocarditis, Pneumocystis jiroveci pneumonia, Bronchiolitis Obliterans Organizing Pneumonia, Bacterial, Primary bacterial peritonitis, Salmonella infections, Bacterial sepsis"
+TNFAIP3,"Nonbacterial Verrucal Endocardiosis, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957"

@@ -1,0 +1,53 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+CCL4,Epilepsy,5.23607385633261,37.6890586452678,UpRegulated
+CSF2,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Amyotrophic Lateral Sclerosis, Bipolar Disorder, Schizophrenia, PARKINSON DISEASE 2, Autism Spectrum Disorders",5.02517728476931,32.5633514305733,UpRegulated
+CSF3,"Alzheimer's Disease, Amyotrophic Lateral Sclerosis",4.95007750589376,30.9116231458627,UpRegulated
+CXCL8,"Alzheimer's Disease, Parkinson Disease, Bipolar Disorder, Schizophrenia",4.64622612263692,25.041101556812,UpRegulated
+CXCL10,Amyotrophic Lateral Sclerosis,4.34026401095065,20.2558119464878,UpRegulated
+CCL5,"Alzheimer's Disease, Parkinson Disease",4.16399225097242,17.9261311417147,UpRegulated
+TNF,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Paranoid Schizophrenia, Amyotrophic Lateral Sclerosis, Epilepsy, AMYOTROPHIC LATERAL SCLEROSIS 1, Bipolar Disorder, Schizophrenia, Autism Spectrum Disorders",3.88465045591814,14.7705378510313,UpRegulated
+PLAU,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Alzheimer Disease",3.36540331374543,10.3059337168001,UpRegulated
+CX3CL1,"Alzheimer's Disease, Parkinson Disease, PARKINSON DISEASE 2",3.03074080887836,8.17229231543399,UpRegulated
+TNFSF14,Amyotrophic Lateral Sclerosis,2.95100104834556,7.73285439565647,UpRegulated
+CSF1,Alzheimer's Disease,2.82996705515294,7.11057907294105,UpRegulated
+CXCL1,Alzheimer's Disease,2.80678584844439,6.99723938210739,UpRegulated
+CYP1B1,Autism Spectrum Disorders,2.60648585086941,6.09018414597829,UpRegulated
+CCL2,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Paranoid Schizophrenia, Amyotrophic Lateral Sclerosis, Bipolar Disorder, Schizophrenia, Autism Spectrum Disorders",2.54628042579618,5.84126333572391,UpRegulated
+BIRC3,Alzheimer's Disease,2.51056629770384,5.69843713762084,UpRegulated
+NANOS3,"Alzheimer's Disease, Bipolar Disorder",2.27422901178562,4.83739052431291,UpRegulated
+RGS2,"Alzheimer's Disease, Parkinson Disease, Schizophrenia",-2.11944264440574,4.3452604236889,DownRegulated
+RCAN1,Alzheimer's Disease,2.10011035709735,4.2874217984055,UpRegulated
+NPTX1,"Alzheimer's Disease, Bipolar Disorder, Schizophrenia",1.84389069062221,3.58976820464901,UpRegulated
+FOS,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis",-1.84272770160375,3.58687557757967,DownRegulated
+STAT5A,Amyotrophic Lateral Sclerosis,1.82304952145319,3.53828319313219,UpRegulated
+THBS1,"Parkinson Disease, Schizophrenia",1.7764927668638,3.42592309653274,UpRegulated
+IL1B,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Amyotrophic Lateral Sclerosis, Epilepsy, Chronic Infantile Neurological, Bipolar Disorder, Schizophrenia, PARKINSON DISEASE 2, Autism Spectrum Disorders",1.74670715733247,3.35591728489506,UpRegulated
+IL1A,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Epilepsy, Chronic Infantile Neurological, Bipolar Disorder, Schizophrenia, Autism Spectrum Disorders",1.6784696096585,3.20088225851045,UpRegulated
+ICAM1,"Alzheimer's Disease, Parkinson Disease, Epilepsy, Schizophrenia",1.66923465166507,3.18045825734968,UpRegulated
+CAMK1G,"Amyotrophic Lateral Sclerosis, Amyotrophic Lateral Sclerosis With Dementia",1.62005463372036,3.07386676527565,UpRegulated
+ADM,"Alzheimer's Disease, Bipolar Disorder, Schizophrenia",-1.50043028357346,2.82927082851096,DownRegulated
+SERPINA3,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis, Schizophrenia",1.47104432115442,2.77222493574562,UpRegulated
+MIR616,Alzheimer's Disease,-1.44274763209342,2.71838092100254,DownRegulated
+SOD2,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Parkinson Disease, Alzheimer Disease, Amyotrophic Lateral Sclerosis, AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis With Dementia, Bipolar Disorder, Schizophrenia, PARKINSON DISEASE 2, Autism Spectrum Disorders",1.41248730567937,2.66195707169751,UpRegulated
+DKK1,"Alzheimer's Disease, Alzheimer Disease, Schizophrenia",-1.39555452271792,2.63089655290664,DownRegulated
+RND1,Alzheimer's Disease,1.38354321351154,2.60908367581689,UpRegulated
+NANOS1,"Schizophrenia, Autism Spectrum Disorders",-1.36438253994499,2.57466109218448,DownRegulated
+CYP1A1,Parkinson Disease,1.3635432835192,2.57316377471471,UpRegulated
+DNAJB1,"Parkinson Disease, Bipolar Disorder, Schizophrenia",-1.3473069409665,2.54436728344308,DownRegulated
+BDKRB2,"Alzheimer's Disease, Epilepsy, Bipolar Disorder",1.28447768542196,2.43593845839139,UpRegulated
+DUSP2,"Bipolar Disorder, Schizophrenia",-1.28342949247757,2.43416926525455,DownRegulated
+NR4A3,"Alzheimer's Disease, Bipolar Disorder, Schizophrenia",1.27072646315457,2.41283032032081,UpRegulated
+GAPDHS,"Alzheimer's Disease, Familial Alzheimer Disease (FAD), Alzheimer Disease",1.25112117533238,2.3802633081026,UpRegulated
+CD83,"Alzheimer's Disease, Chronic Infantile Neurological",1.223622827613,2.33532417165544,UpRegulated
+PLK2,"Alzheimer's Disease, Parkinson Disease",-1.21779078014174,2.3259027558588,DownRegulated
+HSPH1,Alzheimer's Disease,-1.19016528371576,2.28178883204879,DownRegulated
+MASP2,Amyotrophic Lateral Sclerosis,1.1892265524211,2.28030460301764,UpRegulated
+HSPA1A,"Alzheimer's Disease, Parkinson Disease, Paranoid Schizophrenia, Schizophrenia",-1.18157099573581,2.26823637978504,DownRegulated
+CFB,"Alzheimer's Disease, Parkinson Disease",1.17808937867985,2.26276910573341,UpRegulated
+HSPA1B,"Alzheimer's Disease, Parkinson Disease, Paranoid Schizophrenia, Schizophrenia",-1.16389266336956,2.24061172048945,DownRegulated
+POTEF,"Alzheimer's Disease, Parkinson Disease, Schizophrenia",1.15913675461693,2.23323760493036,UpRegulated
+HAP1,"Alzheimer's Disease, Epilepsy",1.13344525231078,2.19382014128947,UpRegulated
+IL23A,"Parkinson Disease, Amyotrophic Lateral Sclerosis",1.11927796209597,2.17238222226156,UpRegulated
+LIF,"Alzheimer's Disease, Parkinson Disease, Amyotrophic Lateral Sclerosis, Schizophrenia",1.11082896010896,2.1596970598353,UpRegulated
+OXTR,"Schizophrenia, Autism Spectrum Disorders",1.07849535280287,2.11183241353212,UpRegulated
+UNC13A,"Amyotrophic Lateral Sclerosis, AMYOTROPHIC LATERAL SCLEROSIS 1, Amyotrophic Lateral Sclerosis With Dementia",1.01168954759921,2.01627098335012,UpRegulated

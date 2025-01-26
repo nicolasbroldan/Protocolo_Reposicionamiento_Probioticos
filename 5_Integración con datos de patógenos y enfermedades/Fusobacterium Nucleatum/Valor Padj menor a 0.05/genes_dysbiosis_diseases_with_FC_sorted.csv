@@ -1,0 +1,13 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+SNAI2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,-1.96078766346563,3.89274451850007,DownRegulated
+LAMA3,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,-1.33548508913701,2.52360320674219,DownRegulated
+CCND1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,-1.31210218738609,2.48303085213007,DownRegulated
+COL5A2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,1.3039111319156,2.46897312366156,UpRegulated
+AMOTL2,"Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118, Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255",-1.29121901595926,2.44734758662218,DownRegulated
+KITLG,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,1.25134553226345,2.38063349728464,UpRegulated
+PLSCR4,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,-1.24894158036734,2.37666996870888,DownRegulated
+RGL1,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,-1.21406657482405,2.31990636129144,DownRegulated
+SMAD6,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,-1.20197508184332,2.30054405147612,DownRegulated
+PRSS23,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,-1.19546340172509,2.29018382293456,DownRegulated
+COL12A1,"Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118, Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255",-1.13550126766213,2.19694882982902,DownRegulated
+LIFR,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,-1.0449542507579,2.06330092831586,DownRegulated

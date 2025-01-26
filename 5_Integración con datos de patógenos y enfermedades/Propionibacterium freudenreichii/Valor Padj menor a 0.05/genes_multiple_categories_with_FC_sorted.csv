@@ -1,0 +1,20 @@
+Gene,Category,Log2FoldChange,FoldChange,Regulation
+CORO1A,"Neurological Diseases, Viral Diseases",3.79387271740913,13.8697772932604,UpRegulated
+KIF20A,"Cancer, Rare Diseases",-2.19805385656182,4.58859938852695,DownRegulated
+CENPA,"Cancer, Rare Diseases",-1.92635355445251,3.80093289402585,DownRegulated
+EHD1,"Pathogenic Bacteria, Rare Diseases",1.80553517156212,3.49558804086971,UpRegulated
+CCNB2,"Cancer, Rare Diseases",-1.74717394933408,3.35700328627232,DownRegulated
+RPUSD1,"Pathogenic Bacteria, Rare Diseases",1.52268144424201,2.87324585304289,UpRegulated
+CCNA2,"Cancer, Rare Diseases",-1.46336238506524,2.75750286559529,DownRegulated
+PLK4,"Cancer, Rare Diseases",-1.44236180599567,2.71765402998246,DownRegulated
+ABCA7,"Associated with Dysbiosis, Neurological Diseases",1.37841020029318,2.59981722372297,UpRegulated
+TCIRG1,"Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.37507313754881,2.5938105994198,UpRegulated
+SPSB3,"Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.36380425244964,2.57362927609786,UpRegulated
+YIF1B,"Pathogenic Bacteria, Rare Diseases",1.30847934685631,2.47680338252126,UpRegulated
+CDC25C,"Cancer, Rare Diseases",-1.27745871070159,2.42411595577687,DownRegulated
+CCND3,"Pathogenic Bacteria, Rare Diseases",1.21907984257843,2.32798190194578,UpRegulated
+USP20,"Associated with Dysbiosis, Neurological Diseases",1.17392736438085,2.25625067620657,UpRegulated
+LMF2,"Pathogenic Bacteria, Rare Diseases",1.14115764288057,2.20557931600147,UpRegulated
+CCNB1,"Cancer, Rare Diseases",-1.13976689955658,2.20345418447423,DownRegulated
+ZWINT,"Cancer, Rare Diseases",-1.11397208456872,2.16440740843972,DownRegulated
+STARD3,"Pathogenic Bacteria, Rare Diseases",1.01875784037156,2.02617367393566,UpRegulated

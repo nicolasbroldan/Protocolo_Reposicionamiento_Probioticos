@@ -1,0 +1,41 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+CCL4,"Pneumonia, Lobar Pneumonia, Tuberculosis, Active tuberculosis",5.23607385633261,37.6890586452678,UpRegulated
+CSF2,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial, Pneumocystis jiroveci pneumonia",5.02517728476931,32.5633514305733,UpRegulated
+CSF3,"Pneumonia, Bacterial Infections, Bacterial, Staphylococcus aureus infection",4.95007750589376,30.9116231458627,UpRegulated
+CXCL8,"Pneumonia, Tuberculosis, Bacterial Infections, Active tuberculosis, Bacterial Vaginosis, Streptococcal pneumonia, Pleural Tuberculosis, Bacterial, Pneumocystis jiroveci pneumonia, Bacterial keratitis, Bronchiolitis Obliterans Organizing Pneumonia, Staphylococcus aureus infection",4.64622612263692,25.041101556812,UpRegulated
+CXCL10,"Pneumonia, Tuberculosis, Bacterial Vaginosis, Latent Tuberculosis, Bacterial, Lymphoid interstitial pneumonia",4.34026401095065,20.2558119464878,UpRegulated
+CCL5,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial Infections, Active tuberculosis, Invasive Streptococcus pneumoniae disease, Streptococcal pneumonia, Pleural Tuberculosis, Lymphoid interstitial pneumonia",4.16399225097242,17.9261311417147,UpRegulated
+TNF,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial Infections, Aspiration Pneumonia, Active tuberculosis, Bacterial Vaginosis, Latent Tuberculosis, Community acquired pneumonia, Hospital acquired pneumonia, Pleural Tuberculosis, Bacterial Endocarditis, Pneumocystis jiroveci pneumonia, Bronchiolitis Obliterans Organizing Pneumonia, Bacterial, Primary bacterial peritonitis, Salmonella infections, Bacterial sepsis",3.88465045591814,14.7705378510313,UpRegulated
+PLAU,Pneumonia,3.36540331374543,10.3059337168001,UpRegulated
+LTB,Tuberculosis,3.07253224726102,8.41248628256885,UpRegulated
+CX3CL1,"Pneumonia, Lobar Pneumonia",3.03074080887836,8.17229231543399,UpRegulated
+CXCL2,"Pneumonia, Tuberculosis, Bacterial Infections, Aspiration Pneumonia, Bacterial",3.01027327604049,8.05717044930861,UpRegulated
+CXCL5,"Pneumonia, Lobar Pneumonia, Bacterial",2.91962297098245,7.56648351631896,UpRegulated
+CXCL1,"Pneumonia, Lobar Pneumonia, Bacterial Infections, Aspiration Pneumonia, Bacterial",2.80678584844439,6.99723938210739,UpRegulated
+CCL2,"Pneumonia, Lobar Pneumonia, Tuberculosis, Invasive Streptococcus pneumoniae disease, Latent Tuberculosis, Pleural Tuberculosis, Primary bacterial peritonitis",2.54628042579618,5.84126333572391,UpRegulated
+BIRC3,"Pneumonia, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957",2.51056629770384,5.69843713762084,UpRegulated
+CCL22,Pneumonia,2.50832489515489,5.6895907948465,UpRegulated
+TNFAIP3,"Nonbacterial Verrucal Endocardiosis, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957",2.31160510592693,4.96435093940054,UpRegulated
+NFKBIZ,Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957,2.28377693282185,4.86951110049655,UpRegulated
+FOS,Pneumonia,-1.84272770160375,3.58687557757967,DownRegulated
+IL1B,"Pneumonia, Lobar Pneumonia, Tuberculosis, Bacterial Infections, Active tuberculosis, Invasive Streptococcus pneumoniae disease, Bacterial Vaginosis, Bacterial, Bacterial Endocarditis, Pneumocystis jiroveci pneumonia, Bacterial keratitis, Salmonella infections",1.74670715733247,3.35591728489506,UpRegulated
+IRF1,"Tuberculosis, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957",1.7410915722007,3.34288001161916,UpRegulated
+CCL20,"Pneumonia, Lobar Pneumonia, Tuberculosis",1.73411669246489,3.32675746757163,UpRegulated
+STX11,Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957,1.69722295900474,3.24276158823784,UpRegulated
+IL1A,"Pneumonia, Tuberculosis, Bacterial Infections, Aspiration Pneumonia, Active tuberculosis, Bacterial Vaginosis",1.6784696096585,3.20088225851045,UpRegulated
+ICAM1,"Pneumonia, Tuberculosis, Bacterial Endocarditis",1.66923465166507,3.18045825734968,UpRegulated
+ETS1,"Nonbacterial Verrucal Endocardiosis, Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial JAK1 deficiency ORPHA:574957",1.50201262659304,2.83237566551989,UpRegulated
+ADM,Community acquired pneumonia,-1.50043028357346,2.82927082851096,DownRegulated
+SOD2,Pneumonia,1.41248730567937,2.66195707169751,UpRegulated
+CYP1A1,"Pneumonia, Tuberculosis, Hospital acquired pneumonia",1.3635432835192,2.57316377471471,UpRegulated
+DNAJB1,Bacterial Infections,-1.3473069409665,2.54436728344308,DownRegulated
+NFKBIA,"Pneumonia, Tuberculosis, Bacterial Infections, Invasive Streptococcus pneumoniae disease",1.19305978331471,2.28637141297789,UpRegulated
+MASP2,"Pneumonia, Tuberculosis, Streptococcal pneumonia",1.1892265524211,2.28030460301764,UpRegulated
+HSPA1A,"Pneumonia, Community acquired pneumonia",-1.18157099573581,2.26823637978504,DownRegulated
+CFB,"Pneumonia, Bacterial sepsis, Nonbacterial Verrucal Endocardiosis",1.17808937867985,2.26276910573341,UpRegulated
+HSPA1B,"Pneumonia, Community acquired pneumonia",-1.16389266336956,2.24061172048945,DownRegulated
+POTEF,"Lobar Pneumonia, Tuberculosis, Streptococcal pneumonia",1.15913675461693,2.23323760493036,UpRegulated
+SDC4,Bacterial Infections,1.14132435045503,2.20583419178054,UpRegulated
+TICAM1,"Pneumonia, Bacterial",1.12153591819263,2.17578487081678,UpRegulated
+IL23A,"Pneumonia, Tuberculosis, Bacterial Infections, Bacterial, Latent Tuberculosis, Hospital acquired pneumonia, Bacterial Endocarditis, Salmonella infections",1.11927796209597,2.17238222226156,UpRegulated
+PTAFR,"Pneumonia, Lobar Pneumonia, Invasive Streptococcus pneumoniae disease, Streptococcal pneumonia",1.07278441451032,2.10348920532435,UpRegulated

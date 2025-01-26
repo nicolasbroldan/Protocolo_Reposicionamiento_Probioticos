@@ -1,103 +1,103 @@
 Gene,DisGeNET_Term_categories,GeDiPNet_Term_categories,Orphanet_Term_categories
-ADM,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Rare Diseases, Other Diseases",Other Diseases
-BDKRB2,"Associated with Dysbiosis, Other Diseases, Cancer, Neurological Diseases",Other Diseases,No information
-BIRC3,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer","Pathogenic Bacteria, Rare Diseases, Other Diseases, Cancer"
+ADM,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Rare Diseases, Other Diseases",Other Diseases
+BDKRB2,"Cancer, Neurological Diseases, Other Diseases, Associated with Dysbiosis",Other Diseases,No information
+BIRC3,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases","Cancer, Pathogenic Bacteria, Rare Diseases, Other Diseases"
 C10ORF55,No information,Associated with Dysbiosis,Other Diseases
 CAMK1G,Neurological Diseases,Neurological Diseases,No information
 CCDC39,Other Diseases,Cancer,No information
-CCL2,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Viral Diseases, Rare Diseases, Other Diseases, Cancer","Other Diseases, Cancer"
-CCL20,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Pathogenic Bacteria, Rare Diseases","Associated with Dysbiosis, Other Diseases, Cancer",Other Diseases
-CCL22,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases",Other Diseases,Other Diseases
-CCL4,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Rare Diseases, Other Diseases","Rare Diseases, Other Diseases, Cancer"
-CCL5,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Rare Diseases, Other Diseases, Viral Diseases","Other Diseases, Cancer"
-CD83,"Associated with Dysbiosis, Cancer, Other Diseases, Neurological Diseases, Rare Diseases",Other Diseases,Other Diseases
-CFB,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Pathogenic Bacteria, Rare Diseases, Cancer",Other Diseases
-CHAC1,"Other Diseases, Cancer",No information,No information
-CITED2,"Other Diseases, Cancer",Cancer,No information
-CSF1,"Associated with Dysbiosis, Cancer, Other Diseases, Neurological Diseases, Rare Diseases","Other Diseases, Cancer",Other Diseases
-CSF2,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer",No information
-CSF3,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer",No information
-CX3CL1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases",Other Diseases,Other Diseases
-CXCL1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Viral Diseases",Other Diseases
-CXCL10,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer",Other Diseases
-CXCL11,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Rare Diseases",No information,No information
-CXCL2,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer",Other Diseases
-CXCL3,"Other Diseases, Cancer","Other Diseases, Cancer",Other Diseases
-CXCL5,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Pathogenic Bacteria, Rare Diseases",No information,No information
-CXCL8,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Rare Diseases, Other Diseases, Cancer","Other Diseases, Cancer"
-CYP1A1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria","Other Diseases, Cancer",No information
-CYP1B1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Rare Diseases","Other Diseases, Cancer",Other Diseases
-DKK1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Rare Diseases","Other Diseases, Cancer",Rare Diseases
-DNAJB1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria",No information,No information
-DNAJB4,"Viral Diseases, Other Diseases, Cancer",Other Diseases,No information
-DUSP2,"Associated with Dysbiosis, Other Diseases, Cancer, Neurological Diseases",Other Diseases,Other Diseases
+CCL2,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Rare Diseases, Viral Diseases, Other Diseases","Cancer, Other Diseases"
+CCL20,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria","Cancer, Other Diseases, Associated with Dysbiosis",Other Diseases
+CCL22,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria",Other Diseases,Other Diseases
+CCL4,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Rare Diseases, Other Diseases","Cancer, Rare Diseases, Other Diseases"
+CCL5,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Rare Diseases, Viral Diseases, Other Diseases","Cancer, Other Diseases"
+CD83,"Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases",Other Diseases,Other Diseases
+CFB,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Pathogenic Bacteria, Rare Diseases, Other Diseases",Other Diseases
+CHAC1,"Cancer, Other Diseases",No information,No information
+CITED2,"Cancer, Other Diseases",Cancer,No information
+CSF1,"Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases","Cancer, Other Diseases",Other Diseases
+CSF2,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases",No information
+CSF3,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases",No information
+CX3CL1,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases",Other Diseases,Other Diseases
+CXCL1,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Viral Diseases, Other Diseases",Other Diseases
+CXCL10,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases",Other Diseases
+CXCL11,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer",No information,No information
+CXCL2,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria","Cancer, Other Diseases",Other Diseases
+CXCL3,"Cancer, Other Diseases","Cancer, Other Diseases",Other Diseases
+CXCL5,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria",No information,No information
+CXCL8,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Rare Diseases, Other Diseases","Cancer, Other Diseases"
+CYP1A1,"Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases",No information
+CYP1B1,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases","Cancer, Other Diseases",Other Diseases
+DKK1,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases","Cancer, Other Diseases",Rare Diseases
+DNAJB1,"Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases",No information,No information
+DNAJB4,"Cancer, Viral Diseases, Other Diseases",Other Diseases,No information
+DUSP2,"Cancer, Neurological Diseases, Other Diseases, Associated with Dysbiosis",Other Diseases,Other Diseases
 EGOT,Cancer,No information,No information
-ETS1,"Associated with Dysbiosis, Rare Diseases, Other Diseases, Cancer","Pathogenic Bacteria, Associated with Dysbiosis, Other Diseases","Pathogenic Bacteria, Other Diseases"
-FKBPL,"Other Diseases, Cancer","Other Diseases, Cancer",No information
-FOS,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer",Other Diseases
-FOXJ1,"Rare Diseases, Other Diseases, Cancer",No information,No information
-FSCN2,"Associated with Dysbiosis, Other Diseases, Cancer",No information,No information
-GAPDHS,"Other Diseases, Neurological Diseases",Other Diseases,No information
-GPM6B,"Other Diseases, Cancer",No information,No information
-HAP1,"Associated with Dysbiosis, Other Diseases, Cancer, Neurological Diseases",No information,No information
-HLA-L,"Associated with Dysbiosis, Other Diseases, Cancer",Cancer,No information
-HS3ST3B1,"Viral Diseases, Other Diseases, Cancer",No information,No information
-HSPA1A,"Associated with Dysbiosis, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases",Other Diseases,No information
-HSPA1B,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer",No information
-HSPA6,"Other Diseases, Cancer",Other Diseases,Other Diseases
-HSPH1,"Rare Diseases, Other Diseases, Cancer, Neurological Diseases",No information,No information
-ICAM1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Associated with Dysbiosis, Other Diseases, Cancer","Associated with Dysbiosis, Rare Diseases, Other Diseases, Cancer"
-ID1,"Associated with Dysbiosis, Other Diseases, Cancer","Other Diseases, Cancer",No information
-IL1A,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer","Other Diseases, Cancer"
-IL1B,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Rare Diseases, Other Diseases, Cancer","Other Diseases, Cancer"
-IL23A,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases",Other Diseases,Other Diseases
-INHBC,"Other Diseases, Cancer",No information,No information
-IRF1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer","Associated with Dysbiosis, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases"
-L3MBTL1,"Other Diseases, Cancer",No information,No information
-LIF,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Rare Diseases",Other Diseases,"Rare Diseases, Other Diseases"
-LTB,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Pathogenic Bacteria, Rare Diseases",No information,"Rare Diseases, Other Diseases, Cancer"
-MAFB,"Associated with Dysbiosis, Other Diseases, Cancer",Other Diseases,No information
-MASP2,"Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria",Other Diseases,No information
-MIR17HG,"Associated with Dysbiosis, Rare Diseases, Other Diseases, Cancer",No information,No information
-MIR22HG,"Other Diseases, Cancer","Other Diseases, Cancer",No information
+ETS1,"Cancer, Rare Diseases, Other Diseases, Associated with Dysbiosis","Pathogenic Bacteria, Other Diseases, Associated with Dysbiosis","Pathogenic Bacteria, Other Diseases"
+FKBPL,"Cancer, Other Diseases","Cancer, Other Diseases",No information
+FOS,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases",Other Diseases
+FOXJ1,"Cancer, Rare Diseases, Other Diseases",No information,No information
+FSCN2,"Cancer, Other Diseases, Associated with Dysbiosis",No information,No information
+GAPDHS,"Neurological Diseases, Other Diseases",Other Diseases,No information
+GPM6B,"Cancer, Other Diseases",No information,No information
+HAP1,"Cancer, Neurological Diseases, Other Diseases, Associated with Dysbiosis",No information,No information
+HLA-L,"Cancer, Other Diseases, Associated with Dysbiosis",Cancer,No information
+HS3ST3B1,"Cancer, Viral Diseases, Other Diseases",No information,No information
+HSPA1A,"Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases",Other Diseases,No information
+HSPA1B,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases",No information
+HSPA6,"Cancer, Other Diseases",Other Diseases,Other Diseases
+HSPH1,"Cancer, Neurological Diseases, Other Diseases, Rare Diseases",No information,No information
+ICAM1,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases, Associated with Dysbiosis","Cancer, Rare Diseases, Other Diseases, Associated with Dysbiosis"
+ID1,"Cancer, Other Diseases, Associated with Dysbiosis","Cancer, Other Diseases",No information
+IL1A,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Other Diseases","Cancer, Other Diseases"
+IL1B,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Rare Diseases, Other Diseases","Cancer, Other Diseases"
+IL23A,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases",Other Diseases,Other Diseases
+INHBC,"Cancer, Other Diseases",No information,No information
+IRF1,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria","Cancer, Other Diseases","Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria"
+L3MBTL1,"Cancer, Other Diseases",No information,No information
+LIF,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases",Other Diseases,"Rare Diseases, Other Diseases"
+LTB,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria",No information,"Cancer, Rare Diseases, Other Diseases"
+MAFB,"Cancer, Other Diseases, Associated with Dysbiosis",Other Diseases,No information
+MASP2,"Viral Diseases, Other Diseases, Cancer, Pathogenic Bacteria, Neurological Diseases",Other Diseases,No information
+MIR17HG,"Cancer, Rare Diseases, Other Diseases, Associated with Dysbiosis",No information,No information
+MIR22HG,"Cancer, Other Diseases","Cancer, Other Diseases",No information
 MIR3142HG,Other Diseases,No information,No information
 MIR3189,Other Diseases,No information,No information
-MIR4492,"Other Diseases, Viral Diseases",No information,No information
+MIR4492,"Viral Diseases, Other Diseases",No information,No information
 MIR616,"Cancer, Neurological Diseases",No information,No information
-NANOS1,"Other Diseases, Cancer, Neurological Diseases",Other Diseases,No information
-NANOS3,"Other Diseases, Cancer, Neurological Diseases",No information,No information
-NCOA7,"Other Diseases, Cancer",No information,No information
-NFKBIA,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Pathogenic Bacteria","Other Diseases, Cancer","Rare Diseases, Other Diseases, Cancer"
-NFKBIZ,"Other Diseases, Cancer",No information,"Associated with Dysbiosis, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases"
-NPTX1,"Rare Diseases, Cancer, Neurological Diseases",No information,No information
-NR4A3,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Rare Diseases",Other Diseases,Other Diseases
-NUAK2,"Viral Diseases, Other Diseases, Cancer",No information,No information
-OXTR,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases",No information,No information
-PLAU,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Associated with Dysbiosis, Rare Diseases, Other Diseases, Cancer","Other Diseases, Cancer"
-PLK2,"Associated with Dysbiosis, Other Diseases, Cancer, Neurological Diseases","Other Diseases, Cancer",Rare Diseases
-POTEF,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases",No information,No information
-PTAFR,"Associated with Dysbiosis, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases",No information,Other Diseases
-RASL11B,"Other Diseases, Cancer",No information,No information
-RCAN1,"Associated with Dysbiosis, Cancer, Other Diseases, Neurological Diseases, Rare Diseases","Other Diseases, Cancer",No information
-RGS2,"Associated with Dysbiosis, Other Diseases, Cancer, Neurological Diseases","Other Diseases, Cancer",No information
+NANOS1,"Cancer, Neurological Diseases, Other Diseases",Other Diseases,No information
+NANOS3,"Cancer, Neurological Diseases, Other Diseases",No information,No information
+NCOA7,"Cancer, Other Diseases",No information,No information
+NFKBIA,"Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria","Cancer, Other Diseases","Cancer, Rare Diseases, Other Diseases"
+NFKBIZ,"Cancer, Other Diseases",No information,"Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria"
+NPTX1,"Cancer, Neurological Diseases, Rare Diseases",No information,No information
+NR4A3,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases",Other Diseases,Other Diseases
+NUAK2,"Cancer, Viral Diseases, Other Diseases",No information,No information
+OXTR,"Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases",No information,No information
+PLAU,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Rare Diseases, Other Diseases, Associated with Dysbiosis","Cancer, Other Diseases"
+PLK2,"Cancer, Neurological Diseases, Other Diseases, Associated with Dysbiosis","Cancer, Other Diseases",Rare Diseases
+POTEF,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases",No information,No information
+PTAFR,"Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria",No information,Other Diseases
+RASL11B,"Cancer, Other Diseases",No information,No information
+RCAN1,"Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases","Cancer, Other Diseases",No information
+RGS2,"Cancer, Neurological Diseases, Other Diseases, Associated with Dysbiosis","Cancer, Other Diseases",No information
 RND1,"Cancer, Neurological Diseases",No information,No information
 S100A3,Cancer,No information,"Rare Diseases, Other Diseases"
-SCTR,"Other Diseases, Cancer",No information,No information
-SDC4,"Pathogenic Bacteria, Other Diseases, Cancer",No information,"Rare Diseases, Other Diseases, Cancer"
-SERPINA3,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Rare Diseases",No information,Other Diseases
-SNORD14C,"Other Diseases, Cancer",No information,No information
-SNORD14D,"Other Diseases, Cancer",No information,No information
-SOD2,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Other Diseases, Cancer, Neurological Diseases",No information
-SPG7,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Rare Diseases",Other Diseases,No information
-STAT5A,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Rare Diseases","Other Diseases, Cancer","Rare Diseases, Other Diseases, Cancer"
-STX11,"Other Diseases, Cancer",No information,"Associated with Dysbiosis, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases"
-THBS1,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Rare Diseases","Other Diseases, Cancer","Other Diseases, Cancer"
-TICAM1,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Pathogenic Bacteria",Cancer,"Rare Diseases, Other Diseases"
+SCTR,"Cancer, Other Diseases",No information,No information
+SDC4,"Cancer, Pathogenic Bacteria, Other Diseases",No information,"Cancer, Rare Diseases, Other Diseases"
+SERPINA3,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases",No information,Other Diseases
+SNORD14C,"Cancer, Other Diseases",No information,No information
+SNORD14D,"Cancer, Other Diseases",No information,No information
+SOD2,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Neurological Diseases, Other Diseases",No information
+SPG7,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases",Other Diseases,No information
+STAT5A,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases","Cancer, Other Diseases","Cancer, Rare Diseases, Other Diseases"
+STX11,"Cancer, Other Diseases",No information,"Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria"
+THBS1,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases","Cancer, Other Diseases","Cancer, Other Diseases"
+TICAM1,"Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria",Cancer,"Rare Diseases, Other Diseases"
 TMEM88,Cancer,No information,No information
-TNF,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Neurological Diseases, Pathogenic Bacteria, Rare Diseases","Associated with Dysbiosis, Rare Diseases, Other Diseases, Cancer","Rare Diseases, Other Diseases, Cancer"
-TNFAIP2,"Other Diseases, Cancer",Other Diseases,"Rare Diseases, Other Diseases, Cancer"
-TNFAIP3,"Associated with Dysbiosis, Viral Diseases, Cancer, Other Diseases, Rare Diseases","Pathogenic Bacteria, Other Diseases, Cancer","Associated with Dysbiosis, Cancer, Other Diseases, Pathogenic Bacteria, Rare Diseases"
-TNFSF14,"Associated with Dysbiosis, Cancer, Viral Diseases, Other Diseases, Neurological Diseases, Rare Diseases",Other Diseases,Other Diseases
+TNF,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Neurological Diseases","Cancer, Rare Diseases, Other Diseases, Associated with Dysbiosis","Cancer, Rare Diseases, Other Diseases"
+TNFAIP2,"Cancer, Other Diseases",Other Diseases,"Cancer, Rare Diseases, Other Diseases"
+TNFAIP3,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer","Cancer, Pathogenic Bacteria, Other Diseases","Rare Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Pathogenic Bacteria"
+TNFSF14,"Rare Diseases, Viral Diseases, Other Diseases, Associated with Dysbiosis, Cancer, Neurological Diseases",Other Diseases,Other Diseases
 TOR4A,Other Diseases,No information,No information
-UNC13A,"Associated with Dysbiosis, Other Diseases, Neurological Diseases","Other Diseases, Neurological Diseases",No information
+UNC13A,"Neurological Diseases, Other Diseases, Associated with Dysbiosis","Neurological Diseases, Other Diseases",No information
 WAKMAR2,No information,Other Diseases,No information

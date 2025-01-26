@@ -1,0 +1,19 @@
+Gene,Category,Log2FoldChange,FoldChange,Regulation
+SNAI2,"Associated with Dysbiosis, Cancer, Rare Diseases",-1.96078766346563,3.89274451850007,DownRegulated
+THBS1,"Cancer, Rare Diseases",-1.65834882045538,3.15655047428427,DownRegulated
+LAMA3,"Associated with Dysbiosis, Cancer, Rare Diseases",-1.33548508913701,2.52360320674219,DownRegulated
+CCND1,"Associated with Dysbiosis, Cancer, Rare Diseases",-1.31210218738609,2.48303085213007,DownRegulated
+COL5A2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases",1.3039111319156,2.46897312366156,UpRegulated
+AMOTL2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases",-1.29121901595926,2.44734758662218,DownRegulated
+KITLG,"Associated with Dysbiosis, Cancer, Rare Diseases",1.25134553226345,2.38063349728464,UpRegulated
+PLSCR4,"Associated with Dysbiosis, Cancer, Neurological Diseases",-1.24894158036734,2.37666996870888,DownRegulated
+S100A14,"Cancer, Rare Diseases",1.23908478123259,2.36048739869772,UpRegulated
+ITGA2,"Cancer, Rare Diseases",-1.22696185173048,2.34073538755029,DownRegulated
+RGL1,"Associated with Dysbiosis, Cancer",-1.21406657482405,2.31990636129144,DownRegulated
+SMAD6,"Associated with Dysbiosis, Cancer",-1.20197508184332,2.30054405147612,DownRegulated
+PRSS23,"Associated with Dysbiosis, Cancer, Rare Diseases",-1.19546340172509,2.29018382293456,DownRegulated
+IL22RA1,"Cancer, Rare Diseases",-1.18597656085554,2.27517349120862,DownRegulated
+COL12A1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases",-1.13550126766213,2.19694882982902,DownRegulated
+EHF,"Cancer, Rare Diseases",1.11629526482228,2.16789557408849,UpRegulated
+PLK2,"Cancer, Rare Diseases",1.10237874165923,2.14708415931243,UpRegulated
+LIFR,"Associated with Dysbiosis, Cancer, Neurological Diseases",-1.0449542507579,2.06330092831586,DownRegulated

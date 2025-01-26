@@ -1,0 +1,51 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+CCL4,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Alcoholic Steatohepatitis, Ebola, Steatohepatitis, Hepatitis A, hiv-infection/aids",5.23607385633261,37.6890586452678,UpRegulated
+CSF2,"HIV Infections, Hepatitis C, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Viral meningitis, West Nile viral infection, Dengue Fever, HIV Encephalopathy, HIV encephalitis, Adenoviral infections",5.02517728476931,32.5633514305733,UpRegulated
+CSF3,"HIV Infections, Influenza, Hepatitis",4.95007750589376,30.9116231458627,UpRegulated
+CXCL8,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Chronic Alcoholic Hepatitis, Severe Dengue, Viral meningitis, Dengue Fever, Viral, Steatohepatitis, Hepatitis A, HIV-Associated Lipodystrophy Syndrome, Chronic active hepatitis C, Parainfluenza",4.64622612263692,25.041101556812,UpRegulated
+CXCL10,"Hepatitis C, HIV Infections, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Hepatitis, Dengue Fever, Alcoholic Steatohepatitis, Steatohepatitis, Hepatitis A, Fulminant hepatitis",4.34026401095065,20.2558119464878,UpRegulated
+CCL5,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Viral respiratory infection, Chronic Alcoholic Hepatitis, West Nile viral infection, Dengue Fever, Ebola, hiv-infection/aids, Autoimmune Hepatitis",4.16399225097242,17.9261311417147,UpRegulated
+TNF,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Viral respiratory infection, Chronic Alcoholic Hepatitis, HIV Wasting Syndrome, Severe Dengue, West Nile viral infection, Dengue Fever, Alcoholic Steatohepatitis, Ebola, Viral myocarditis, HIV Encephalopathy, HIV encephalitis, Steatohepatitis, Hepatitis A, HIV-Associated Lipodystrophy Syndrome, Adenoviral infections, Primary HIV infection, hiv-infection/aids, Viral, HIV-1 infection, Fulminant hepatitis",3.88465045591814,14.7705378510313,UpRegulated
+PLAU,"Hepatitis C, Hepatitis B",3.36540331374543,10.3059337168001,UpRegulated
+LTB,"Hepatitis B, HIV-1 infection",3.07253224726102,8.41248628256885,UpRegulated
+CX3CL1,"Hepatitis C, HIV Infections, Hepatitis",3.03074080887836,8.17229231543399,UpRegulated
+CXCL2,"Influenza, Hepatitis, Viral, Hepatitis A",3.01027327604049,8.05717044930861,UpRegulated
+TNFSF14,Hepatitis,2.95100104834556,7.73285439565647,UpRegulated
+CXCL5,Nonalcoholic Steatohepatitis,2.91962297098245,7.56648351631896,UpRegulated
+CXCL11,"Hepatitis C, HIV Infections",2.82128417103167,7.06791245807213,UpRegulated
+CXCL1,"Hepatitis C, Hepatitis, Viral, Autoimmune Hepatitis",2.80678584844439,6.99723938210739,UpRegulated
+CYP1B1,Steatohepatitis,2.60648585086941,6.09018414597829,UpRegulated
+CCL2,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Viral respiratory infection, Severe Dengue, Dengue Fever, Viral myocarditis, HIV Encephalopathy, HIV encephalitis, Steatohepatitis, Autoimmune Hepatitis",2.54628042579618,5.84126333572391,UpRegulated
+BIRC3,"HIV Infections, Influenza, Steatohepatitis",2.51056629770384,5.69843713762084,UpRegulated
+CCL22,"Hepatitis C, HIV Infections",2.50832489515489,5.6895907948465,UpRegulated
+TNFAIP3,Hepatitis,2.31160510592693,4.96435093940054,UpRegulated
+FOS,"HIV Infections, Hepatitis C, Influenza",-1.84272770160375,3.58687557757967,DownRegulated
+STAT5A,"Hepatitis C, Viral",1.82304952145319,3.53828319313219,UpRegulated
+THBS1,"HIV Infections, Hepatitis B",1.7764927668638,3.42592309653274,UpRegulated
+IL1B,"Hepatitis C, HIV Infections, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Hepatitis, Viral respiratory infection, HIV Wasting Syndrome, Severe Dengue, West Nile viral infection, Dengue Fever, Steatohepatitis, Hepatitis A, Chronic active hepatitis C, Viral",1.74670715733247,3.35591728489506,UpRegulated
+IRF1,"Hepatitis C, HIV Infections, Ebola, Primary HIV infection",1.7410915722007,3.34288001161916,UpRegulated
+CCL20,"HIV Infections, Hepatitis",1.73411669246489,3.32675746757163,UpRegulated
+MIR4492,Hepatitis,1.69489967329469,3.23754371577374,UpRegulated
+IL1A,"Hepatitis C, HIV Infections, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Hepatitis, HIV Wasting Syndrome, West Nile viral infection, Steatohepatitis",1.6784696096585,3.20088225851045,UpRegulated
+ICAM1,"Hepatitis C, HIV Infections, Hepatitis, Hepatitis B, Severe Dengue, Viral meningitis, Parainfluenza",1.66923465166507,3.18045825734968,UpRegulated
+HS3ST3B1,Hepatitis B,1.51283989778386,2.85371230485292,UpRegulated
+ADM,Hepatitis C,-1.50043028357346,2.82927082851096,DownRegulated
+SERPINA3,Hepatitis C,1.47104432115442,2.77222493574562,UpRegulated
+NUAK2,Hepatitis C,1.43288848304044,2.69986726874086,UpRegulated
+SOD2,"Hepatitis C, HIV Infections, Nonalcoholic Steatohepatitis, Alcoholic Steatohepatitis, Hepatitis, Steatohepatitis",1.41248730567937,2.66195707169751,UpRegulated
+DKK1,Hepatitis B,-1.39555452271792,2.63089655290664,DownRegulated
+CYP1A1,"Hepatitis C, Hepatitis B",1.3635432835192,2.57316377471471,UpRegulated
+DNAJB1,"Influenza, Hepatitis B",-1.3473069409665,2.54436728344308,DownRegulated
+NR4A3,"HIV Infections, Influenza",1.27072646315457,2.41283032032081,UpRegulated
+CD83,HIV Infections,1.223622827613,2.33532417165544,UpRegulated
+NFKBIA,Hepatitis B,1.19305978331471,2.28637141297789,UpRegulated
+HSPH1,HIV Infections,-1.19016528371576,2.28178883204879,DownRegulated
+MASP2,Hepatitis C,1.1892265524211,2.28030460301764,UpRegulated
+CFB,Hepatitis B,1.17808937867985,2.26276910573341,UpRegulated
+HSPA1B,Hepatitis,-1.16389266336956,2.24061172048945,DownRegulated
+POTEF,"Hepatitis C, Hepatitis, Influenza, Hepatitis B, Steatohepatitis, Hepatitis A",1.15913675461693,2.23323760493036,UpRegulated
+TICAM1,"Hepatitis C, Hepatitis, Influenza, Viral myocarditis",1.12153591819263,2.17578487081678,UpRegulated
+IL23A,"Hepatitis C, HIV Infections, Influenza, Hepatitis B",1.11927796209597,2.17238222226156,UpRegulated
+LIF,Nonalcoholic Steatohepatitis,1.11082896010896,2.1596970598353,UpRegulated
+OXTR,"Hepatitis C, HIV-1 infection",1.07849535280287,2.11183241353212,UpRegulated
+DNAJB4,Hepatitis B,-1.06814744641838,2.0967392311717,DownRegulated

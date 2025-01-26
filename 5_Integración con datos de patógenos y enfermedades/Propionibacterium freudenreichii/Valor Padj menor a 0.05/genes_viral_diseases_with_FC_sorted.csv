@@ -1,0 +1,10 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+CORO1A,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,3.79387271740913,13.8697772932604,UpRegulated
+B3GALT4,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,-3.25671992534711,9.55807392158811,DownRegulated
+ARID5A,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,2.69076548511309,6.45655897555178,UpRegulated
+OASL,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,2.0312492567932,4.0875864888888,UpRegulated
+ADAM8,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,1.61574244743327,3.06469275700056,UpRegulated
+TCIRG1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,1.37507313754881,2.5938105994198,UpRegulated
+SPSB3,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,1.36380425244964,2.57362927609786,UpRegulated
+ISG15,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,1.24568447673011,2.37131032689844,UpRegulated
+TREX1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,-1.12304614953322,2.17806370237183,DownRegulated

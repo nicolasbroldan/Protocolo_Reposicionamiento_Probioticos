@@ -1,0 +1,10 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+KIAA0513,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,4.52572962619604,23.0345838070694,UpRegulated
+ABCA7,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,1.37841020029318,2.59981722372297,UpRegulated
+HERC1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,1.31118799066217,2.48145792122921,UpRegulated
+IQSEC1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,1.21008657434148,2.31351519482483,UpRegulated
+DYRK1B,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,-1.20673435436037,2.3081457934956,DownRegulated
+USP20,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,1.17392736438085,2.25625067620657,UpRegulated
+SNX29,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,1.17297753470794,2.25476571336079,UpRegulated
+PLEKHM1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,1.09715235890203,2.13932009132474,UpRegulated
+SEC16A,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,1.04267232492842,2.06003996329692,UpRegulated

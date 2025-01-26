@@ -1,0 +1,52 @@
+Gene,Disease
+ADM,Hepatitis C
+BIRC3,"HIV Infections, Influenza, Steatohepatitis"
+CCL2,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Viral respiratory infection, Severe Dengue, Dengue Fever, Viral myocarditis, HIV Encephalopathy, HIV encephalitis, Steatohepatitis, Autoimmune Hepatitis"
+CCL20,"HIV Infections, Hepatitis"
+CCL22,"Hepatitis C, HIV Infections"
+CCL4,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Alcoholic Steatohepatitis, Ebola, Steatohepatitis, Hepatitis A, hiv-infection/aids"
+CCL5,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Viral respiratory infection, Chronic Alcoholic Hepatitis, West Nile viral infection, Dengue Fever, Ebola, hiv-infection/aids, Autoimmune Hepatitis"
+CD83,HIV Infections
+CFB,Hepatitis B
+CSF2,"HIV Infections, Hepatitis C, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Viral meningitis, West Nile viral infection, Dengue Fever, HIV Encephalopathy, HIV encephalitis, Adenoviral infections"
+CSF3,"HIV Infections, Influenza, Hepatitis"
+CX3CL1,"Hepatitis C, HIV Infections, Hepatitis"
+CXCL1,"Hepatitis C, Hepatitis, Viral, Autoimmune Hepatitis"
+CXCL10,"Hepatitis C, HIV Infections, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Hepatitis, Dengue Fever, Alcoholic Steatohepatitis, Steatohepatitis, Hepatitis A, Fulminant hepatitis"
+CXCL11,"Hepatitis C, HIV Infections"
+CXCL2,"Influenza, Hepatitis, Viral, Hepatitis A"
+CXCL5,Nonalcoholic Steatohepatitis
+CXCL8,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Chronic Alcoholic Hepatitis, Severe Dengue, Viral meningitis, Dengue Fever, Viral, Steatohepatitis, Hepatitis A, HIV-Associated Lipodystrophy Syndrome, Chronic active hepatitis C, Parainfluenza"
+CYP1A1,"Hepatitis C, Hepatitis B"
+CYP1B1,Steatohepatitis
+DKK1,Hepatitis B
+DNAJB1,"Influenza, Hepatitis B"
+DNAJB4,Hepatitis B
+FOS,"HIV Infections, Hepatitis C, Influenza"
+HS3ST3B1,Hepatitis B
+HSPA1B,Hepatitis
+HSPH1,HIV Infections
+ICAM1,"Hepatitis C, HIV Infections, Hepatitis, Hepatitis B, Severe Dengue, Viral meningitis, Parainfluenza"
+IL1A,"Hepatitis C, HIV Infections, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Hepatitis, HIV Wasting Syndrome, West Nile viral infection, Steatohepatitis"
+IL1B,"Hepatitis C, HIV Infections, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Hepatitis, Viral respiratory infection, HIV Wasting Syndrome, Severe Dengue, West Nile viral infection, Dengue Fever, Steatohepatitis, Hepatitis A, Chronic active hepatitis C, Viral"
+IL23A,"Hepatitis C, HIV Infections, Influenza, Hepatitis B"
+IRF1,"Hepatitis C, HIV Infections, Ebola, Primary HIV infection"
+LIF,Nonalcoholic Steatohepatitis
+LTB,"Hepatitis B, HIV-1 infection"
+MASP2,Hepatitis C
+MIR4492,Hepatitis
+NFKBIA,Hepatitis B
+NR4A3,"HIV Infections, Influenza"
+NUAK2,Hepatitis C
+OXTR,"Hepatitis C, HIV-1 infection"
+PLAU,"Hepatitis C, Hepatitis B"
+POTEF,"Hepatitis C, Hepatitis, Influenza, Hepatitis B, Steatohepatitis, Hepatitis A"
+SERPINA3,Hepatitis C
+SOD2,"Hepatitis C, HIV Infections, Nonalcoholic Steatohepatitis, Alcoholic Steatohepatitis, Hepatitis, Steatohepatitis"
+SPG7,Adenoviral infections
+STAT5A,"Hepatitis C, Viral"
+THBS1,"HIV Infections, Hepatitis B"
+TICAM1,"Hepatitis C, Hepatitis, Influenza, Viral myocarditis"
+TNF,"Hepatitis C, HIV Infections, Hepatitis, Influenza, Hepatitis B, Nonalcoholic Steatohepatitis, Viral respiratory infection, Chronic Alcoholic Hepatitis, HIV Wasting Syndrome, Severe Dengue, West Nile viral infection, Dengue Fever, Alcoholic Steatohepatitis, Ebola, Viral myocarditis, HIV Encephalopathy, HIV encephalitis, Steatohepatitis, Hepatitis A, HIV-Associated Lipodystrophy Syndrome, Adenoviral infections, Primary HIV infection, hiv-infection/aids, Viral, HIV-1 infection, Fulminant hepatitis"
+TNFAIP3,Hepatitis
+TNFSF14,Hepatitis

@@ -1,0 +1,15 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+SH2D3C,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,6.80431994950581,111.764635194488,UpRegulated
+CORO1A,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,3.79387271740913,13.8697772932604,UpRegulated
+KIFC2,Adult-onset dystonia-parkinsonism ORPHA:199351,2.14465025670568,4.42185052250957,UpRegulated
+ACAP3,Adult-onset dystonia-parkinsonism ORPHA:199351,1.63256774452751,3.10064368169143,UpRegulated
+TUBGCP6,Adult-onset dystonia-parkinsonism ORPHA:199351,1.59681438539128,3.0247468109233,UpRegulated
+OSBPL7,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,1.4670618693189,2.76458296839489,UpRegulated
+ABCA7,Adult-onset dystonia-parkinsonism ORPHA:199351,1.37841020029318,2.59981722372297,UpRegulated
+NXF1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,1.33024693202353,2.51445708728243,UpRegulated
+REC8,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,1.31708138050346,2.49161537587579,UpRegulated
+USP20,"Adult-onset dystonia-parkinsonism ORPHA:199351, Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533",1.17392736438085,2.25625067620657,UpRegulated
+ATG16L2,"Adult-onset dystonia-parkinsonism ORPHA:199351, Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533",1.14850379008742,2.21683868215605,UpRegulated
+PAN2,Adult-onset dystonia-parkinsonism ORPHA:199351,-1.06417299247154,2.09097091211981,DownRegulated
+SGSM2,Adult-onset dystonia-parkinsonism ORPHA:199351,-1.06381333567128,2.09044970829278,DownRegulated
+PGS1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,1.00397023185621,2.00551149024289,UpRegulated

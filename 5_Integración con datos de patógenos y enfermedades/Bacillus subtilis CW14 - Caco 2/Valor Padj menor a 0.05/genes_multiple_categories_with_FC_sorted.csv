@@ -1,0 +1,77 @@
+Gene,Category,Log2FoldChange,FoldChange,Regulation
+CCL4,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",5.23607385633261,37.6890586452678,UpRegulated
+CSF2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",5.02517728476931,32.5633514305733,UpRegulated
+CSF3,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",4.95007750589376,30.9116231458627,UpRegulated
+CXCL8,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",4.64622612263692,25.041101556812,UpRegulated
+CXCL10,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",4.34026401095065,20.2558119464878,UpRegulated
+CCL5,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",4.16399225097242,17.9261311417147,UpRegulated
+TNF,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",3.88465045591814,14.7705378510313,UpRegulated
+PLAU,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",3.36540331374543,10.3059337168001,UpRegulated
+LTB,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",3.07253224726102,8.41248628256885,UpRegulated
+CX3CL1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",3.03074080887836,8.17229231543399,UpRegulated
+CXCL2,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",3.01027327604049,8.05717044930861,UpRegulated
+TNFSF14,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",2.95100104834556,7.73285439565647,UpRegulated
+CXCL5,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",2.91962297098245,7.56648351631896,UpRegulated
+CSF1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases",2.82996705515294,7.11057907294105,UpRegulated
+CXCL11,"Associated with Dysbiosis, Cancer, Rare Diseases, Viral Diseases",2.82128417103167,7.06791245807213,UpRegulated
+CXCL1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",2.80678584844439,6.99723938210739,UpRegulated
+CYP1B1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",2.60648585086941,6.09018414597829,UpRegulated
+CCL2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",2.54628042579618,5.84126333572391,UpRegulated
+BIRC3,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",2.51056629770384,5.69843713762084,UpRegulated
+CCL22,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",2.50832489515489,5.6895907948465,UpRegulated
+TNFAIP3,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",2.31160510592693,4.96435093940054,UpRegulated
+NFKBIZ,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases",2.28377693282185,4.86951110049655,UpRegulated
+NANOS3,"Cancer, Neurological Diseases",2.27422901178562,4.83739052431291,UpRegulated
+RGS2,"Associated with Dysbiosis, Cancer, Neurological Diseases",-2.11944264440574,4.3452604236889,DownRegulated
+RCAN1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases",2.10011035709735,4.2874217984055,UpRegulated
+NPTX1,"Cancer, Neurological Diseases, Rare Diseases",1.84389069062221,3.58976820464901,UpRegulated
+FOS,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",-1.84272770160375,3.58687557757967,DownRegulated
+STAT5A,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",1.82304952145319,3.53828319313219,UpRegulated
+THBS1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",1.7764927668638,3.42592309653274,UpRegulated
+MIR17HG,"Associated with Dysbiosis, Cancer, Rare Diseases",-1.75178624941775,3.36775280914603,DownRegulated
+IL1B,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.74670715733247,3.35591728489506,UpRegulated
+IRF1,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.7410915722007,3.34288001161916,UpRegulated
+CCL20,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.73411669246489,3.32675746757163,UpRegulated
+STX11,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases",1.69722295900474,3.24276158823784,UpRegulated
+HLA-L,"Associated with Dysbiosis, Cancer",1.69713702566069,3.24256844066309,UpRegulated
+ID1,"Associated with Dysbiosis, Cancer",-1.69131120700481,3.22950086581108,DownRegulated
+IL1A,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.6784696096585,3.20088225851045,UpRegulated
+ICAM1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.66923465166507,3.18045825734968,UpRegulated
+HS3ST3B1,"Cancer, Viral Diseases",1.51283989778386,2.85371230485292,UpRegulated
+ETS1,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases",1.50201262659304,2.83237566551989,UpRegulated
+ADM,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",-1.50043028357346,2.82927082851096,DownRegulated
+SERPINA3,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",1.47104432115442,2.77222493574562,UpRegulated
+MIR616,"Cancer, Neurological Diseases",-1.44274763209342,2.71838092100254,DownRegulated
+NUAK2,"Cancer, Viral Diseases",1.43288848304044,2.69986726874086,UpRegulated
+SOD2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.41248730567937,2.66195707169751,UpRegulated
+DKK1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",-1.39555452271792,2.63089655290664,DownRegulated
+RND1,"Cancer, Neurological Diseases",1.38354321351154,2.60908367581689,UpRegulated
+NANOS1,"Cancer, Neurological Diseases",-1.36438253994499,2.57466109218448,DownRegulated
+CYP1A1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Viral Diseases",1.3635432835192,2.57316377471471,UpRegulated
+DNAJB1,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Viral Diseases",-1.3473069409665,2.54436728344308,DownRegulated
+S100A3,"Cancer, Rare Diseases",1.3195697925001,2.49591671165762,UpRegulated
+BDKRB2,"Associated with Dysbiosis, Cancer, Neurological Diseases",1.28447768542196,2.43593845839139,UpRegulated
+DUSP2,"Associated with Dysbiosis, Cancer, Neurological Diseases",-1.28342949247757,2.43416926525455,DownRegulated
+NR4A3,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",1.27072646315457,2.41283032032081,UpRegulated
+CD83,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases",1.223622827613,2.33532417165544,UpRegulated
+PLK2,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases",-1.21779078014174,2.3259027558588,DownRegulated
+NFKBIA,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.19305978331471,2.28637141297789,UpRegulated
+HSPH1,"Cancer, Neurological Diseases, Rare Diseases",-1.19016528371576,2.28178883204879,DownRegulated
+MASP2,"Cancer, Neurological Diseases, Pathogenic Bacteria, Viral Diseases",1.1892265524211,2.28030460301764,UpRegulated
+HSPA1A,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases",-1.18157099573581,2.26823637978504,DownRegulated
+CFB,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.17808937867985,2.26276910573341,UpRegulated
+HSPA1B,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",-1.16389266336956,2.24061172048945,DownRegulated
+POTEF,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.15913675461693,2.23323760493036,UpRegulated
+FOXJ1,"Cancer, Rare Diseases",-1.15600371268471,2.22839303626024,DownRegulated
+SDC4,"Cancer, Pathogenic Bacteria, Rare Diseases",1.14132435045503,2.20583419178054,UpRegulated
+HAP1,"Associated with Dysbiosis, Cancer, Neurological Diseases",1.13344525231078,2.19382014128947,UpRegulated
+MAFB,"Associated with Dysbiosis, Cancer",-1.12565448885744,2.18200512296082,DownRegulated
+TICAM1,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.12153591819263,2.17578487081678,UpRegulated
+IL23A,"Associated with Dysbiosis, Cancer, Neurological Diseases, Pathogenic Bacteria, Rare Diseases, Viral Diseases",1.11927796209597,2.17238222226156,UpRegulated
+LIF,"Associated with Dysbiosis, Cancer, Neurological Diseases, Rare Diseases, Viral Diseases",1.11082896010896,2.1596970598353,UpRegulated
+OXTR,"Associated with Dysbiosis, Cancer, Neurological Diseases, Viral Diseases",1.07849535280287,2.11183241353212,UpRegulated
+PTAFR,"Associated with Dysbiosis, Cancer, Pathogenic Bacteria, Rare Diseases",1.07278441451032,2.10348920532435,UpRegulated
+DNAJB4,"Cancer, Viral Diseases",-1.06814744641838,2.0967392311717,DownRegulated
+TNFAIP2,"Cancer, Rare Diseases",1.05747631385943,2.08128756838752,UpRegulated
+FSCN2,"Associated with Dysbiosis, Cancer",1.03414169823614,2.04789493057671,UpRegulated
+UNC13A,"Associated with Dysbiosis, Neurological Diseases",1.01168954759921,2.01627098335012,UpRegulated

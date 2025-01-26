@@ -1,0 +1,24 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+KIF20A,"Citrullinemia type II ORPHA:247585, Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391",-2.19805385656182,4.58859938852695,DownRegulated
+KIFC2,"Charcot-Marie-Tooth disease type 2P ORPHA:300319, Charcot-Marie-Tooth disease type 4B3 ORPHA:363981",2.14465025670568,4.42185052250957,UpRegulated
+CENPA,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,-1.92635355445251,3.80093289402585,DownRegulated
+EHD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,1.80553517156212,3.49558804086971,UpRegulated
+CCNB2,"Citrullinemia type II ORPHA:247585, Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391",-1.74717394933408,3.35700328627232,DownRegulated
+ACAP3,"Charcot-Marie-Tooth disease type 2P ORPHA:300319, Charcot-Marie-Tooth disease type 4B3 ORPHA:363981",1.63256774452751,3.10064368169143,UpRegulated
+TUBGCP6,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,1.59681438539128,3.0247468109233,UpRegulated
+RPUSD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,1.52268144424201,2.87324585304289,UpRegulated
+CCNA2,"Citrullinemia type II ORPHA:247585, Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391",-1.46336238506524,2.75750286559529,DownRegulated
+PLK4,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,-1.44236180599567,2.71765402998246,DownRegulated
+TCIRG1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,1.37507313754881,2.5938105994198,UpRegulated
+SPSB3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,1.36380425244964,2.57362927609786,UpRegulated
+SLC19A2,Citrullinemia type II ORPHA:247585,1.31673653761121,2.49101988400219,UpRegulated
+YIF1B,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,1.30847934685631,2.47680338252126,UpRegulated
+CDC25C,"Citrullinemia type II ORPHA:247585, Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391",-1.27745871070159,2.42411595577687,DownRegulated
+CCND3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,1.21907984257843,2.32798190194578,UpRegulated
+USP20,Charcot-Marie-Tooth disease type 4G ORPHA:99953,1.17392736438085,2.25625067620657,UpRegulated
+LMF2,"Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088, Charcot-Marie-Tooth disease type 2P ORPHA:300319, Charcot-Marie-Tooth disease type 4B3 ORPHA:363981",1.14115764288057,2.20557931600147,UpRegulated
+CCNB1,"Citrullinemia type II ORPHA:247585, Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391",-1.13976689955658,2.20345418447423,DownRegulated
+ZWINT,"Citrullinemia type II ORPHA:247585, Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391",-1.11397208456872,2.16440740843972,DownRegulated
+SGSM2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,-1.06381333567128,2.09044970829278,DownRegulated
+TLCD1,Citrullinemia type II ORPHA:247585,-1.05945047351292,2.08413751679192,DownRegulated
+STARD3,"Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088, Charcot-Marie-Tooth disease type 2P ORPHA:300319",1.01875784037156,2.02617367393566,UpRegulated

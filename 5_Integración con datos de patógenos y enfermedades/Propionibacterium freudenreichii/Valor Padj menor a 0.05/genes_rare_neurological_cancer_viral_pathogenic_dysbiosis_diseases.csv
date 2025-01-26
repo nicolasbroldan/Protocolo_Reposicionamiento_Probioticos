@@ -1,0 +1,156 @@
+Gene,Disease,Category
+CCNA2,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNA2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNA2,Small cell lung cancer ORPHA:70573,Cancer
+CCNB1,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNB1,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNB1,Small cell lung cancer ORPHA:70573,Cancer
+CCNB2,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNB2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNB2,Small cell lung cancer ORPHA:70573,Cancer
+CCND3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+CCND3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+CDC25C,Citrullinemia type II ORPHA:247585,Rare Diseases
+CDC25C,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CDC25C,Small cell lung cancer ORPHA:70573,Cancer
+CENPA,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CENPA,Small cell lung cancer ORPHA:70573,Cancer
+EHD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+EHD1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+KIF20A,Citrullinemia type II ORPHA:247585,Rare Diseases
+KIF20A,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+KIF20A,Small cell lung cancer ORPHA:70573,Cancer
+LMF2,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+LMF2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+LMF2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+LMF2,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+PLK4,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+PLK4,Small cell lung cancer ORPHA:70573,Cancer
+RPUSD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+RPUSD1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+SLC19A2,Citrullinemia type II ORPHA:247585,Rare Diseases
+SPSB3,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+SPSB3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+SPSB3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+STARD3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+STARD3,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+STARD3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+TCIRG1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+TCIRG1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+TCIRG1,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+TCIRG1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+TLCD1,Citrullinemia type II ORPHA:247585,Rare Diseases
+YIF1B,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+YIF1B,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+ZWINT,Citrullinemia type II ORPHA:247585,Rare Diseases
+ZWINT,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+ZWINT,Small cell lung cancer ORPHA:70573,Cancer
+ABCA7,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+ABCA7,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+ACAP3,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+ACAP3,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+ACAP3,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+ATG16L2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+ATG16L2,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+CORO1A,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+CORO1A,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+KIFC2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+KIFC2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+KIFC2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+NXF1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+OSBPL7,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+PAN2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+PGS1,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+REC8,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+SGSM2,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+SGSM2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+SH2D3C,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+TUBGCP6,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+TUBGCP6,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+USP20,Charcot-Marie-Tooth disease type 4G ORPHA:99953,Rare Diseases
+USP20,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+USP20,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+USP20,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+AGPAT2,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+CCNA2,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNA2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNA2,Small cell lung cancer ORPHA:70573,Cancer
+CCNB1,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNB1,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNB1,Small cell lung cancer ORPHA:70573,Cancer
+CCNB2,Citrullinemia type II ORPHA:247585,Rare Diseases
+CCNB2,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CCNB2,Small cell lung cancer ORPHA:70573,Cancer
+CDA,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+CDC25C,Citrullinemia type II ORPHA:247585,Rare Diseases
+CDC25C,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CDC25C,Small cell lung cancer ORPHA:70573,Cancer
+CEBPB,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+CENPA,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+CENPA,Small cell lung cancer ORPHA:70573,Cancer
+ITPRIP,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+KIF20A,Citrullinemia type II ORPHA:247585,Rare Diseases
+KIF20A,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+KIF20A,Small cell lung cancer ORPHA:70573,Cancer
+KLF4,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+PLIN3,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+PLK4,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+PLK4,Small cell lung cancer ORPHA:70573,Cancer
+SLC16A3,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+TCIRG1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+TCIRG1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+TCIRG1,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+TCIRG1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+ZWINT,Citrullinemia type II ORPHA:247585,Rare Diseases
+ZWINT,Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency ORPHA:75391,Rare Diseases
+ZWINT,Small cell lung cancer ORPHA:70573,Cancer
+ADAM8,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+ARID5A,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+B3GALT4,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+CORO1A,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+CORO1A,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases
+ISG15,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+OASL,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+SPSB3,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+SPSB3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+SPSB3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+TCIRG1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+TCIRG1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+TCIRG1,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+TCIRG1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+TREX1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+CCND3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+CCND3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+EHD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+EHD1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+LMF2,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+LMF2,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+LMF2,Charcot-Marie-Tooth disease type 4B3 ORPHA:363981,Rare Diseases
+LMF2,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+RPUSD1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+RPUSD1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+SPSB3,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+SPSB3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+SPSB3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+STARD3,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+STARD3,Charcot-Marie-Tooth disease type 2P ORPHA:300319,Rare Diseases
+STARD3,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+TCIRG1,Predisposition to severe viral infection due to IRF7 deficiency ORPHA:574918,Viral Diseases
+TCIRG1,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+TCIRG1,Tumor necrosis factor receptor 1 associated periodic syndrome ORPHA:32960,Cancer
+TCIRG1,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+YIF1B,Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome ORPHA:69088,Rare Diseases
+YIF1B,X-linked mendelian susceptibility to mycobacterial diseases due to IKBKG deficiency ORPHA:319612,Pathogenic Bacteria
+ABCA7,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+ABCA7,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+DYRK1B,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+HERC1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+IQSEC1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+KIAA0513,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+PLEKHM1,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+SEC16A,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+SNX29,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+USP20,Charcot-Marie-Tooth disease type 4G ORPHA:99953,Rare Diseases
+USP20,Intellectual disability-obesity-brain malformations-facial dysmorphism syndrome ORPHA:352530,Associated with Dysbiosis
+USP20,Adult-onset dystonia-parkinsonism ORPHA:199351,Neurological Diseases
+USP20,Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome ORPHA:500533,Neurological Diseases

@@ -1,0 +1,1582 @@
+Gene,Disease,Category
+AMOTL2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+AMOTL2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+AMOTL2,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+AMOTL2,Chondrosarcoma ORPHA:55880,Cancer
+AMOTL2,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+AMOTL2,Papillary renal cell carcinoma ORPHA:319298,Cancer
+AMOTL2,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+AMOTL2,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+AMOTL2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+AMOTL2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+AMOTL2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+AMOTL2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+AMOTL2,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+AMOTL2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+AMOTL2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+CCND1,Colorectal Carcinoma,Cancer
+CCND1,Mammary Neoplasms,Cancer
+CCND1,Ovarian Carcinoma,Cancer
+CCND1,Breast Carcinoma,Cancer
+CCND1,Invasive carcinoma of breast,Cancer
+CCND1,Invasive Ductal Breast Carcinoma,Cancer
+CCND1,Colorectal Cancer,Cancer
+CCND1,Tumor Progression,Cancer
+CCND1,Stomach Carcinoma,Cancer
+CCND1,melanoma,Cancer
+CCND1,Adenocarcinoma,Cancer
+CCND1,Squamous cell carcinoma,Cancer
+CCND1,Esophageal Neoplasms,Cancer
+CCND1,Pre B-cell acute lymphoblastic leukemia,Cancer
+CCND1,ovarian neoplasm,Cancer
+CCND1,Malignant neoplasm of breast,Cancer
+CCND1,Fibrosarcoma,Cancer
+CCND1,Malignant neoplasm of stomach,Cancer
+CCND1,Malignant neoplasm of esophagus,Cancer
+CCND1,Malignant neoplasm of ovary,Cancer
+CCND1,Carcinoma,Cancer
+CCND1,Urologic Neoplasms,Cancer
+CCND1,Hematopoietic Neoplasms,Cancer
+CCND1,Epithelial ovarian cancer,Cancer
+CCND1,Brain Tumor,Cancer
+CCND1,Skin carcinoma,Cancer
+CCND1,Cancer of Urinary Tract,Cancer
+CCND1,Breast Carcinoma,Cancer
+CCND1,Esophagus Neoplasm,Cancer
+CCND1,Urinary Tract Cancer,Cancer
+CCND1,Mammary Neoplasms,Cancer
+CCND1,Anaplastic Carcinoma,Cancer
+CCND1,Breast Cancer,Cancer
+CCND1,Lymphocytic Leukemia,Cancer
+CCND1,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+CCND1,Chondrosarcoma ORPHA:55880,Cancer
+CCND1,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+CCND1,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+CCND1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+CCND1,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+CCND1,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+CCND1,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+COL12A1,Colorectal Carcinoma,Cancer
+COL12A1,Breast Carcinoma,Cancer
+COL12A1,Colorectal Cancer,Cancer
+COL12A1,Malignant neoplasm of breast,Cancer
+COL12A1,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+COL12A1,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL12A1,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+COL12A1,Chondrosarcoma ORPHA:55880,Cancer
+COL12A1,Papillary renal cell carcinoma ORPHA:319298,Cancer
+COL12A1,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+COL12A1,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+COL12A1,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL12A1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+COL12A1,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL12A1,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL12A1,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+COL12A1,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+COL12A1,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+COL5A2,Colorectal Carcinoma,Cancer
+COL5A2,Colorectal Cancer,Cancer
+COL5A2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL5A2,Chondrosarcoma ORPHA:55880,Cancer
+COL5A2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL5A2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL5A2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL5A2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+CPA4,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+CPA4,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+EHF,Ovarian Carcinoma,Cancer
+EHF,Tumor Progression,Cancer
+EHF,Stomach Carcinoma,Cancer
+EHF,Malignant neoplasm of stomach,Cancer
+EHF,Epithelial ovarian cancer,Cancer
+EHF,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+EHF,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+IL22RA1,Colorectal Carcinoma,Cancer
+IL22RA1,Colorectal Cancer,Cancer
+IL22RA1,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+IL22RA1,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+IL22RA1,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+ITGA2,Mammary Neoplasms,Cancer
+ITGA2,Ovarian Carcinoma,Cancer
+ITGA2,Breast Carcinoma,Cancer
+ITGA2,Tumor Progression,Cancer
+ITGA2,Stomach Carcinoma,Cancer
+ITGA2,melanoma,Cancer
+ITGA2,Adenocarcinoma,Cancer
+ITGA2,Malignant neoplasm of breast,Cancer
+ITGA2,Fibrosarcoma,Cancer
+ITGA2,Malignant neoplasm of stomach,Cancer
+ITGA2,Malignant neoplasm of ovary,Cancer
+ITGA2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+ITGA2,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+ITGA2,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+ITGA2,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+ITGA2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+ITGA2,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+ITGA2,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+ITGA2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+KITLG,Colorectal Carcinoma,Cancer
+KITLG,Mammary Neoplasms,Cancer
+KITLG,Ovarian Carcinoma,Cancer
+KITLG,Breast Carcinoma,Cancer
+KITLG,Invasive carcinoma of breast,Cancer
+KITLG,Colorectal Cancer,Cancer
+KITLG,Tumor Progression,Cancer
+KITLG,Stomach Carcinoma,Cancer
+KITLG,melanoma,Cancer
+KITLG,Adenocarcinoma,Cancer
+KITLG,Squamous cell carcinoma,Cancer
+KITLG,ovarian neoplasm,Cancer
+KITLG,Malignant neoplasm of breast,Cancer
+KITLG,Fibrosarcoma,Cancer
+KITLG,Malignant neoplasm of stomach,Cancer
+KITLG,Malignant neoplasm of ovary,Cancer
+KITLG,Carcinoma,Cancer
+KITLG,Anaplastic Carcinoma,Cancer
+KITLG,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+KITLG,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+KITLG,Papillary renal cell carcinoma ORPHA:319298,Cancer
+KITLG,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+KITLG,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+KITLG,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+KITLG,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+KITLG,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+KITLG,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+LAMA3,Mammary Neoplasms,Cancer
+LAMA3,Ovarian Carcinoma,Cancer
+LAMA3,Stomach Carcinoma,Cancer
+LAMA3,Adenocarcinoma,Cancer
+LAMA3,Malignant neoplasm of breast,Cancer
+LAMA3,Malignant neoplasm of stomach,Cancer
+LAMA3,Epithelial ovarian cancer,Cancer
+LAMA3,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+LAMA3,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+LAMA3,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+LAMA3,Papillary renal cell carcinoma ORPHA:319298,Cancer
+LAMA3,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+LAMA3,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+LAMA3,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+PLK2,Ovarian Carcinoma,Cancer
+PLK2,Tumor Progression,Cancer
+PLK2,Adenocarcinoma,Cancer
+PLK2,Squamous cell carcinoma,Cancer
+PLK2,Malignant neoplasm of ovary,Cancer
+PLK2,Carcinoma,Cancer
+PLK2,Epithelial ovarian cancer,Cancer
+PLK2,Anaplastic Carcinoma,Cancer
+PLK2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+PLK2,Chondrosarcoma ORPHA:55880,Cancer
+PLK2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+PRSS23,Breast Carcinoma,Cancer
+PRSS23,Tumor Progression,Cancer
+PRSS23,melanoma,Cancer
+PRSS23,Malignant neoplasm of breast,Cancer
+PRSS23,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+PRSS23,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+PRSS23,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+S100A14,Ovarian Carcinoma,Cancer
+S100A14,Breast Carcinoma,Cancer
+S100A14,Invasive carcinoma of breast,Cancer
+S100A14,Tumor Progression,Cancer
+S100A14,Stomach Carcinoma,Cancer
+S100A14,Squamous cell carcinoma,Cancer
+S100A14,Esophageal Neoplasms,Cancer
+S100A14,ovarian neoplasm,Cancer
+S100A14,Malignant neoplasm of breast,Cancer
+S100A14,Malignant neoplasm of stomach,Cancer
+S100A14,Malignant neoplasm of esophagus,Cancer
+S100A14,Malignant neoplasm of ovary,Cancer
+S100A14,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+S100A14,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+S100A14,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+SNAI2,Colorectal Carcinoma,Cancer
+SNAI2,Mammary Neoplasms,Cancer
+SNAI2,Ovarian Carcinoma,Cancer
+SNAI2,Breast Carcinoma,Cancer
+SNAI2,Colorectal Cancer,Cancer
+SNAI2,Tumor Progression,Cancer
+SNAI2,Stomach Carcinoma,Cancer
+SNAI2,melanoma,Cancer
+SNAI2,Adenocarcinoma,Cancer
+SNAI2,Squamous cell carcinoma,Cancer
+SNAI2,Esophageal Neoplasms,Cancer
+SNAI2,Malignant neoplasm of breast,Cancer
+SNAI2,Malignant neoplasm of stomach,Cancer
+SNAI2,Malignant neoplasm of esophagus,Cancer
+SNAI2,Malignant neoplasm of ovary,Cancer
+SNAI2,Epithelial ovarian cancer,Cancer
+SNAI2,Skin carcinoma,Cancer
+SNAI2,Breast Carcinoma,Cancer
+SNAI2,Esophagus Neoplasm,Cancer
+SNAI2,Mammary Neoplasms,Cancer
+SNAI2,Breast Cancer,Cancer
+SNAI2,Chondrosarcoma ORPHA:55880,Cancer
+SNAI2,Papillary renal cell carcinoma ORPHA:319298,Cancer
+SNAI2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+SNAI2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+SNAI2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+SNAI2,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+THBS1,Colorectal Carcinoma,Cancer
+THBS1,Mammary Neoplasms,Cancer
+THBS1,Ovarian Carcinoma,Cancer
+THBS1,Breast Carcinoma,Cancer
+THBS1,Invasive carcinoma of breast,Cancer
+THBS1,Invasive Ductal Breast Carcinoma,Cancer
+THBS1,Colorectal Cancer,Cancer
+THBS1,Tumor Progression,Cancer
+THBS1,Stomach Carcinoma,Cancer
+THBS1,melanoma,Cancer
+THBS1,Adenocarcinoma,Cancer
+THBS1,Squamous cell carcinoma,Cancer
+THBS1,Malignant neoplasm of breast,Cancer
+THBS1,Fibrosarcoma,Cancer
+THBS1,Malignant neoplasm of stomach,Cancer
+THBS1,Malignant neoplasm of ovary,Cancer
+THBS1,Epithelial ovarian cancer,Cancer
+THBS1,Skin carcinoma,Cancer
+THBS1,Cancer of Urinary Tract,Cancer
+THBS1,Breast Carcinoma,Cancer
+THBS1,Mammary Neoplasms,Cancer
+THBS1,Breast Cancer,Cancer
+THBS1,Chondrosarcoma ORPHA:55880,Cancer
+THBS1,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+AMOTL2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+AMOTL2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+AMOTL2,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+AMOTL2,Chondrosarcoma ORPHA:55880,Cancer
+AMOTL2,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+AMOTL2,Papillary renal cell carcinoma ORPHA:319298,Cancer
+AMOTL2,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+AMOTL2,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+AMOTL2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+AMOTL2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+AMOTL2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+AMOTL2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+AMOTL2,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+AMOTL2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+AMOTL2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+COL12A1,Colorectal Carcinoma,Cancer
+COL12A1,Breast Carcinoma,Cancer
+COL12A1,Colorectal Cancer,Cancer
+COL12A1,Malignant neoplasm of breast,Cancer
+COL12A1,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+COL12A1,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL12A1,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+COL12A1,Chondrosarcoma ORPHA:55880,Cancer
+COL12A1,Papillary renal cell carcinoma ORPHA:319298,Cancer
+COL12A1,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+COL12A1,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+COL12A1,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL12A1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+COL12A1,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL12A1,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL12A1,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+COL12A1,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+COL12A1,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+COL5A2,Colorectal Carcinoma,Cancer
+COL5A2,Colorectal Cancer,Cancer
+COL5A2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL5A2,Chondrosarcoma ORPHA:55880,Cancer
+COL5A2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL5A2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL5A2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL5A2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+LIFR,Colorectal Carcinoma,Cancer
+LIFR,Mammary Neoplasms,Cancer
+LIFR,Ovarian Carcinoma,Cancer
+LIFR,Breast Carcinoma,Cancer
+LIFR,Colorectal Cancer,Cancer
+LIFR,Stomach Carcinoma,Cancer
+LIFR,melanoma,Cancer
+LIFR,Malignant neoplasm of breast,Cancer
+LIFR,Malignant neoplasm of stomach,Cancer
+LIFR,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+LIFR,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+LIFR,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+LIFR,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+LIFR,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+LIFR,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+PCDH7,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+PLSCR4,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+PLSCR4,Papillary renal cell carcinoma ORPHA:319298,Cancer
+PLSCR4,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+PLSCR4,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+PLSCR4,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+AANAT,Colorectal Carcinoma,Cancer
+AANAT,Breast Carcinoma,Cancer
+AANAT,Colorectal Cancer,Cancer
+AANAT,melanoma,Cancer
+AANAT,Malignant neoplasm of breast,Cancer
+ABCB1,Colorectal Carcinoma,Cancer
+ABCB1,Mammary Neoplasms,Cancer
+ABCB1,Ovarian Carcinoma,Cancer
+ABCB1,Breast Carcinoma,Cancer
+ABCB1,Invasive carcinoma of breast,Cancer
+ABCB1,Colorectal Cancer,Cancer
+ABCB1,Tumor Progression,Cancer
+ABCB1,Stomach Carcinoma,Cancer
+ABCB1,melanoma,Cancer
+ABCB1,Adenocarcinoma,Cancer
+ABCB1,Squamous cell carcinoma,Cancer
+ABCB1,Esophageal Neoplasms,Cancer
+ABCB1,ovarian neoplasm,Cancer
+ABCB1,Malignant neoplasm of breast,Cancer
+ABCB1,Fibrosarcoma,Cancer
+ABCB1,Malignant neoplasm of stomach,Cancer
+ABCB1,Malignant neoplasm of esophagus,Cancer
+ABCB1,Malignant neoplasm of ovary,Cancer
+ABCB1,Carcinoma,Cancer
+ABCB1,Hematopoietic Neoplasms,Cancer
+ABCB1,Epithelial ovarian cancer,Cancer
+ABCB1,Brain Tumor,Cancer
+ABCB1,Breast Carcinoma,Cancer
+ABCB1,Esophagus Neoplasm,Cancer
+ABCB1,Mammary Neoplasms,Cancer
+ABCB1,Anaplastic Carcinoma,Cancer
+ABCB1,Breast Cancer,Cancer
+ABCC2,Colorectal Carcinoma,Cancer
+ABCC2,Mammary Neoplasms,Cancer
+ABCC2,Ovarian Carcinoma,Cancer
+ABCC2,Breast Carcinoma,Cancer
+ABCC2,Colorectal Cancer,Cancer
+ABCC2,Stomach Carcinoma,Cancer
+ABCC2,melanoma,Cancer
+ABCC2,Adenocarcinoma,Cancer
+ABCC2,Squamous cell carcinoma,Cancer
+ABCC2,Malignant neoplasm of breast,Cancer
+ABCC2,Fibrosarcoma,Cancer
+ABCC2,Malignant neoplasm of ovary,Cancer
+ABCC2,Hematopoietic Neoplasms,Cancer
+ABCC2,Epithelial ovarian cancer,Cancer
+ABCC2,Esophagus Neoplasm,Cancer
+ACSL5,Colorectal Carcinoma,Cancer
+ACSL5,Colorectal Cancer,Cancer
+ACSL5,Adenocarcinoma,Cancer
+ACTA2,Mammary Neoplasms,Cancer
+ACTA2,Breast Carcinoma,Cancer
+ACTA2,Adenocarcinoma,Cancer
+ACTA2,Malignant neoplasm of breast,Cancer
+ACTA2,Breast Carcinoma,Cancer
+ACTA2,Mammary Neoplasms,Cancer
+ACTA2,Breast Cancer,Cancer
+ACTA2,Lymphocytic Leukemia,Cancer
+ADAM15,Colorectal Carcinoma,Cancer
+ADAM15,Mammary Neoplasms,Cancer
+ADAM15,Breast Carcinoma,Cancer
+ADAM15,Tumor Progression,Cancer
+ADAM15,Stomach Carcinoma,Cancer
+ADAM15,melanoma,Cancer
+ADAM15,Adenocarcinoma,Cancer
+ADAM15,Squamous cell carcinoma,Cancer
+ADAM15,ovarian neoplasm,Cancer
+ADAM15,Malignant neoplasm of breast,Cancer
+ADAM15,Malignant neoplasm of stomach,Cancer
+ADAMTS14,Colorectal Carcinoma,Cancer
+ADAMTS14,Colorectal Cancer,Cancer
+ADAMTS15,Colorectal Carcinoma,Cancer
+ADAMTS15,Breast Carcinoma,Cancer
+ADAMTS15,Colorectal Cancer,Cancer
+ADAMTS15,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+AFAP1L2,Colorectal Carcinoma,Cancer
+AFAP1L2,Colorectal Cancer,Cancer
+AFAP1L2,Stomach Carcinoma,Cancer
+AFAP1L2,melanoma,Cancer
+AFAP1L2,Malignant neoplasm of stomach,Cancer
+AMOTL2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+AMOTL2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+AMOTL2,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+AMOTL2,Chondrosarcoma ORPHA:55880,Cancer
+AMOTL2,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+AMOTL2,Papillary renal cell carcinoma ORPHA:319298,Cancer
+AMOTL2,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+AMOTL2,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+AMOTL2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+AMOTL2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+AMOTL2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+AMOTL2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+AMOTL2,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+AMOTL2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+AMOTL2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+APOBEC3B,Mammary Neoplasms,Cancer
+APOBEC3B,Ovarian Carcinoma,Cancer
+APOBEC3B,Breast Carcinoma,Cancer
+APOBEC3B,Stomach Carcinoma,Cancer
+APOBEC3B,melanoma,Cancer
+APOBEC3B,Adenocarcinoma,Cancer
+APOBEC3B,Squamous cell carcinoma,Cancer
+APOBEC3B,Malignant neoplasm of breast,Cancer
+APOBEC3B,Malignant neoplasm of stomach,Cancer
+APOBEC3B,Malignant neoplasm of ovary,Cancer
+APOBEC3B,Epithelial ovarian cancer,Cancer
+APOBEC3B,Breast Carcinoma,Cancer
+APOBEC3B,Mammary Neoplasms,Cancer
+APOBEC3B,Breast Cancer,Cancer
+APOLD1,Adenocarcinoma,Cancer
+ARL2BP,Stomach Carcinoma,Cancer
+BBC3,Colorectal Carcinoma,Cancer
+BBC3,Ovarian Carcinoma,Cancer
+BBC3,Breast Carcinoma,Cancer
+BBC3,Colorectal Cancer,Cancer
+BBC3,Tumor Progression,Cancer
+BBC3,Stomach Carcinoma,Cancer
+BBC3,melanoma,Cancer
+BBC3,Adenocarcinoma,Cancer
+BBC3,Squamous cell carcinoma,Cancer
+BBC3,Esophageal Neoplasms,Cancer
+BBC3,Malignant neoplasm of breast,Cancer
+BBC3,Malignant neoplasm of stomach,Cancer
+BBC3,Malignant neoplasm of esophagus,Cancer
+BBC3,Malignant neoplasm of ovary,Cancer
+BBC3,Hematopoietic Neoplasms,Cancer
+BBC3,Epithelial ovarian cancer,Cancer
+BBC3,Esophagus Neoplasm,Cancer
+BMF,Colorectal Carcinoma,Cancer
+BMF,Colorectal Cancer,Cancer
+BMF,Lymphocytic Leukemia,Cancer
+C1QL1,Breast Carcinoma,Cancer
+C1QL1,Malignant neoplasm of breast,Cancer
+CA11,Breast Carcinoma,Cancer
+CA11,Stomach Carcinoma,Cancer
+CA11,Malignant neoplasm of breast,Cancer
+CA11,Malignant neoplasm of stomach,Cancer
+CA2,Breast Carcinoma,Cancer
+CA2,melanoma,Cancer
+CA2,Adenocarcinoma,Cancer
+CA2,Malignant neoplasm of stomach,Cancer
+CA2,Esophagus Neoplasm,Cancer
+CASP7,Colorectal Carcinoma,Cancer
+CASP7,Mammary Neoplasms,Cancer
+CASP7,Breast Carcinoma,Cancer
+CASP7,Colorectal Cancer,Cancer
+CASP7,Stomach Carcinoma,Cancer
+CASP7,melanoma,Cancer
+CASP7,Malignant neoplasm of breast,Cancer
+CASP7,Malignant neoplasm of stomach,Cancer
+CASP7,Breast Carcinoma,Cancer
+CASP7,Mammary Neoplasms,Cancer
+CASP7,Breast Cancer,Cancer
+CCND1,Colorectal Carcinoma,Cancer
+CCND1,Mammary Neoplasms,Cancer
+CCND1,Ovarian Carcinoma,Cancer
+CCND1,Breast Carcinoma,Cancer
+CCND1,Invasive carcinoma of breast,Cancer
+CCND1,Invasive Ductal Breast Carcinoma,Cancer
+CCND1,Colorectal Cancer,Cancer
+CCND1,Tumor Progression,Cancer
+CCND1,Stomach Carcinoma,Cancer
+CCND1,melanoma,Cancer
+CCND1,Adenocarcinoma,Cancer
+CCND1,Squamous cell carcinoma,Cancer
+CCND1,Esophageal Neoplasms,Cancer
+CCND1,Pre B-cell acute lymphoblastic leukemia,Cancer
+CCND1,ovarian neoplasm,Cancer
+CCND1,Malignant neoplasm of breast,Cancer
+CCND1,Fibrosarcoma,Cancer
+CCND1,Malignant neoplasm of stomach,Cancer
+CCND1,Malignant neoplasm of esophagus,Cancer
+CCND1,Malignant neoplasm of ovary,Cancer
+CCND1,Carcinoma,Cancer
+CCND1,Urologic Neoplasms,Cancer
+CCND1,Hematopoietic Neoplasms,Cancer
+CCND1,Epithelial ovarian cancer,Cancer
+CCND1,Brain Tumor,Cancer
+CCND1,Skin carcinoma,Cancer
+CCND1,Cancer of Urinary Tract,Cancer
+CCND1,Breast Carcinoma,Cancer
+CCND1,Esophagus Neoplasm,Cancer
+CCND1,Urinary Tract Cancer,Cancer
+CCND1,Mammary Neoplasms,Cancer
+CCND1,Anaplastic Carcinoma,Cancer
+CCND1,Breast Cancer,Cancer
+CCND1,Lymphocytic Leukemia,Cancer
+CCND1,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+CCND1,Chondrosarcoma ORPHA:55880,Cancer
+CCND1,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+CCND1,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+CCND1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+CCND1,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+CCND1,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+CCND1,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+CEACAM19,Breast Carcinoma,Cancer
+CEACAM19,Malignant neoplasm of breast,Cancer
+CENPE,Colorectal Carcinoma,Cancer
+CENPE,Breast Carcinoma,Cancer
+CENPE,Colorectal Cancer,Cancer
+CENPE,melanoma,Cancer
+CENPE,Malignant neoplasm of breast,Cancer
+CENPE,Hereditary breast cancer ORPHA:227535,Cancer
+CENPE,Dedifferentiated liposarcoma ORPHA:99970,Cancer
+CENPE,Well-differentiated liposarcoma ORPHA:99971,Cancer
+CHST11,Ovarian Carcinoma,Cancer
+CHST11,Breast Carcinoma,Cancer
+CHST11,Invasive carcinoma of breast,Cancer
+CHST11,Tumor Progression,Cancer
+CHST11,Malignant neoplasm of breast,Cancer
+CHST11,Malignant neoplasm of ovary,Cancer
+CLSPN,Mammary Neoplasms,Cancer
+CLSPN,Ovarian Carcinoma,Cancer
+CLSPN,Breast Carcinoma,Cancer
+CLSPN,Malignant neoplasm of breast,Cancer
+CLSPN,Breast Cancer,Cancer
+CLSPN,Hereditary breast cancer ORPHA:227535,Cancer
+CLSPN,Dedifferentiated liposarcoma ORPHA:99970,Cancer
+CLSPN,Well-differentiated liposarcoma ORPHA:99971,Cancer
+CNTNAP1,Breast Carcinoma,Cancer
+CNTNAP1,Pre B-cell acute lymphoblastic leukemia,Cancer
+CNTNAP1,Breast Carcinoma,Cancer
+COL12A1,Colorectal Carcinoma,Cancer
+COL12A1,Breast Carcinoma,Cancer
+COL12A1,Colorectal Cancer,Cancer
+COL12A1,Malignant neoplasm of breast,Cancer
+COL12A1,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+COL12A1,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL12A1,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+COL12A1,Chondrosarcoma ORPHA:55880,Cancer
+COL12A1,Papillary renal cell carcinoma ORPHA:319298,Cancer
+COL12A1,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+COL12A1,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+COL12A1,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL12A1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+COL12A1,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL12A1,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL12A1,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+COL12A1,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+COL12A1,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+COL5A2,Colorectal Carcinoma,Cancer
+COL5A2,Colorectal Cancer,Cancer
+COL5A2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL5A2,Chondrosarcoma ORPHA:55880,Cancer
+COL5A2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL5A2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL5A2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL5A2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+CORO1A,Colorectal Carcinoma,Cancer
+CORO1A,Mammary Neoplasms,Cancer
+CORO1A,Ovarian Carcinoma,Cancer
+CORO1A,Breast Carcinoma,Cancer
+CORO1A,Colorectal Cancer,Cancer
+CORO1A,Squamous cell carcinoma,Cancer
+CORO1A,ovarian neoplasm,Cancer
+CORO1A,Malignant neoplasm of breast,Cancer
+CORO1A,Malignant neoplasm of ovary,Cancer
+CORO1A,Carcinoma,Cancer
+CORO1A,Anaplastic Carcinoma,Cancer
+CPEB4,Colorectal Carcinoma,Cancer
+CPEB4,Breast Carcinoma,Cancer
+CPEB4,Colorectal Cancer,Cancer
+CPEB4,Tumor Progression,Cancer
+CPEB4,Adenocarcinoma,Cancer
+CPEB4,Malignant neoplasm of breast,Cancer
+CTSD,Colorectal Carcinoma,Cancer
+CTSD,Mammary Neoplasms,Cancer
+CTSD,Ovarian Carcinoma,Cancer
+CTSD,Breast Carcinoma,Cancer
+CTSD,Invasive carcinoma of breast,Cancer
+CTSD,Invasive Ductal Breast Carcinoma,Cancer
+CTSD,Colorectal Cancer,Cancer
+CTSD,Tumor Progression,Cancer
+CTSD,Stomach Carcinoma,Cancer
+CTSD,melanoma,Cancer
+CTSD,Adenocarcinoma,Cancer
+CTSD,Squamous cell carcinoma,Cancer
+CTSD,ovarian neoplasm,Cancer
+CTSD,Malignant neoplasm of breast,Cancer
+CTSD,Malignant neoplasm of stomach,Cancer
+CTSD,Malignant neoplasm of ovary,Cancer
+CYP24A1,Colorectal Carcinoma,Cancer
+CYP24A1,Mammary Neoplasms,Cancer
+CYP24A1,Ovarian Carcinoma,Cancer
+CYP24A1,Breast Carcinoma,Cancer
+CYP24A1,Colorectal Cancer,Cancer
+CYP24A1,Tumor Progression,Cancer
+CYP24A1,melanoma,Cancer
+CYP24A1,Adenocarcinoma,Cancer
+CYP24A1,Esophageal Neoplasms,Cancer
+CYP24A1,ovarian neoplasm,Cancer
+CYP24A1,Malignant neoplasm of breast,Cancer
+CYP24A1,Malignant neoplasm of esophagus,Cancer
+CYP24A1,Malignant neoplasm of ovary,Cancer
+CYP24A1,Breast Carcinoma,Cancer
+CYP24A1,Mammary Neoplasms,Cancer
+CYP24A1,Breast Cancer,Cancer
+CYP4F2,Ovarian Carcinoma,Cancer
+CYP4F2,Malignant neoplasm of ovary,Cancer
+DEPDC1B,Hereditary breast cancer ORPHA:227535,Cancer
+DEPDC1B,Dedifferentiated liposarcoma ORPHA:99970,Cancer
+DEPDC1B,Well-differentiated liposarcoma ORPHA:99971,Cancer
+DOCK11,Breast Carcinoma,Cancer
+E2F7,Breast Carcinoma,Cancer
+E2F7,Squamous cell carcinoma,Cancer
+E2F7,ovarian neoplasm,Cancer
+E2F7,Malignant neoplasm of breast,Cancer
+E2F7,Dedifferentiated liposarcoma ORPHA:99970,Cancer
+E2F7,Well-differentiated liposarcoma ORPHA:99971,Cancer
+EFR3B,Breast Carcinoma,Cancer
+EFR3B,Breast Carcinoma,Cancer
+EHF,Ovarian Carcinoma,Cancer
+EHF,Tumor Progression,Cancer
+EHF,Stomach Carcinoma,Cancer
+EHF,Malignant neoplasm of stomach,Cancer
+EHF,Epithelial ovarian cancer,Cancer
+EHF,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+EHF,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+ENC1,Colorectal Carcinoma,Cancer
+ENC1,Mammary Neoplasms,Cancer
+ENG,Colorectal Carcinoma,Cancer
+ENG,Mammary Neoplasms,Cancer
+ENG,Ovarian Carcinoma,Cancer
+ENG,Breast Carcinoma,Cancer
+ENG,Colorectal Cancer,Cancer
+ENG,Tumor Progression,Cancer
+ENG,Stomach Carcinoma,Cancer
+ENG,melanoma,Cancer
+ENG,Adenocarcinoma,Cancer
+ENG,Squamous cell carcinoma,Cancer
+ENG,Esophageal Neoplasms,Cancer
+ENG,Malignant neoplasm of breast,Cancer
+ENG,Malignant neoplasm of stomach,Cancer
+ENG,Malignant neoplasm of esophagus,Cancer
+ENG,Malignant neoplasm of ovary,Cancer
+ENG,Carcinoma,Cancer
+ENG,Epithelial ovarian cancer,Cancer
+ESCO2,Stomach Carcinoma,Cancer
+ESCO2,Malignant neoplasm of stomach,Cancer
+ESCO2,Hereditary breast cancer ORPHA:227535,Cancer
+FGF19,Breast Carcinoma,Cancer
+FGF19,Tumor Progression,Cancer
+FGF19,Squamous cell carcinoma,Cancer
+FGF19,Malignant neoplasm of breast,Cancer
+FHIT,Colorectal Carcinoma,Cancer
+FHIT,Mammary Neoplasms,Cancer
+FHIT,Ovarian Carcinoma,Cancer
+FHIT,Breast Carcinoma,Cancer
+FHIT,Invasive carcinoma of breast,Cancer
+FHIT,Invasive Ductal Breast Carcinoma,Cancer
+FHIT,Colorectal Cancer,Cancer
+FHIT,Tumor Progression,Cancer
+FHIT,Stomach Carcinoma,Cancer
+FHIT,Adenocarcinoma,Cancer
+FHIT,Squamous cell carcinoma,Cancer
+FHIT,Esophageal Neoplasms,Cancer
+FHIT,ovarian neoplasm,Cancer
+FHIT,Malignant neoplasm of breast,Cancer
+FHIT,Malignant neoplasm of stomach,Cancer
+FHIT,Malignant neoplasm of esophagus,Cancer
+FHIT,Malignant neoplasm of ovary,Cancer
+FHIT,Carcinoma,Cancer
+FHIT,Urologic Neoplasms,Cancer
+FHIT,Hematopoietic Neoplasms,Cancer
+FHIT,Epithelial ovarian cancer,Cancer
+FHIT,Brain Tumor,Cancer
+FHIT,Skin carcinoma,Cancer
+FHIT,Cancer of Urinary Tract,Cancer
+FHIT,Urinary Tract Cancer,Cancer
+FHIT,Anaplastic Carcinoma,Cancer
+FRAT2,Stomach Carcinoma,Cancer
+FRAT2,Malignant neoplasm of stomach,Cancer
+FZD1,Breast Carcinoma,Cancer
+FZD1,Invasive carcinoma of breast,Cancer
+FZD1,Esophageal Neoplasms,Cancer
+FZD1,ovarian neoplasm,Cancer
+FZD1,Malignant neoplasm of breast,Cancer
+FZD1,Malignant neoplasm of esophagus,Cancer
+GAL,Colorectal Carcinoma,Cancer
+GAL,Mammary Neoplasms,Cancer
+GAL,Ovarian Carcinoma,Cancer
+GAL,Breast Carcinoma,Cancer
+GAL,Colorectal Cancer,Cancer
+GAL,Tumor Progression,Cancer
+GAL,Stomach Carcinoma,Cancer
+GAL,melanoma,Cancer
+GAL,Squamous cell carcinoma,Cancer
+GAL,Malignant neoplasm of breast,Cancer
+GAL,Fibrosarcoma,Cancer
+GAL,Malignant neoplasm of stomach,Cancer
+GLI2,Mammary Neoplasms,Cancer
+GLI2,Ovarian Carcinoma,Cancer
+GLI2,Breast Carcinoma,Cancer
+GLI2,Invasive Ductal Breast Carcinoma,Cancer
+GLI2,Tumor Progression,Cancer
+GLI2,Stomach Carcinoma,Cancer
+GLI2,melanoma,Cancer
+GLI2,Squamous cell carcinoma,Cancer
+GLI2,Malignant neoplasm of breast,Cancer
+GLI2,Malignant neoplasm of stomach,Cancer
+GLI2,Malignant neoplasm of ovary,Cancer
+GLI2,Skin carcinoma,Cancer
+GPNMB,Colorectal Carcinoma,Cancer
+GPNMB,Mammary Neoplasms,Cancer
+GPNMB,Ovarian Carcinoma,Cancer
+GPNMB,Breast Carcinoma,Cancer
+GPNMB,Invasive carcinoma of breast,Cancer
+GPNMB,Colorectal Cancer,Cancer
+GPNMB,Tumor Progression,Cancer
+GPNMB,melanoma,Cancer
+GPNMB,Adenocarcinoma,Cancer
+GPNMB,Squamous cell carcinoma,Cancer
+GPNMB,Malignant neoplasm of breast,Cancer
+GPNMB,Malignant neoplasm of ovary,Cancer
+GPNMB,Breast Carcinoma,Cancer
+GPNMB,Mammary Neoplasms,Cancer
+GPNMB,Breast Cancer,Cancer
+GPR37,melanoma,Cancer
+GPR37,Lymphocytic Leukemia,Cancer
+GRAMD1B,Breast Carcinoma,Cancer
+GRAMD1B,Lymphocytic Leukemia,Cancer
+H2AX,Breast Carcinoma,Cancer
+H2AX,Mammary Neoplasms,Cancer
+H2AX,Breast Cancer,Cancer
+HPSE,Colorectal Carcinoma,Cancer
+HPSE,Mammary Neoplasms,Cancer
+HPSE,Ovarian Carcinoma,Cancer
+HPSE,Breast Carcinoma,Cancer
+HPSE,Invasive carcinoma of breast,Cancer
+HPSE,Invasive Ductal Breast Carcinoma,Cancer
+HPSE,Colorectal Cancer,Cancer
+HPSE,Tumor Progression,Cancer
+HPSE,Stomach Carcinoma,Cancer
+HPSE,melanoma,Cancer
+HPSE,Adenocarcinoma,Cancer
+HPSE,Squamous cell carcinoma,Cancer
+HPSE,Esophageal Neoplasms,Cancer
+HPSE,ovarian neoplasm,Cancer
+HPSE,Malignant neoplasm of breast,Cancer
+HPSE,Fibrosarcoma,Cancer
+HPSE,Malignant neoplasm of stomach,Cancer
+HPSE,Malignant neoplasm of esophagus,Cancer
+HPSE,Malignant neoplasm of ovary,Cancer
+HPSE,Epithelial ovarian cancer,Cancer
+HPSE,Breast Carcinoma,Cancer
+HPSE,Mammary Neoplasms,Cancer
+HPSE,Breast Cancer,Cancer
+HS3ST1,Tumor Progression,Cancer
+HTATIP2,Colorectal Carcinoma,Cancer
+HTATIP2,Breast Carcinoma,Cancer
+HTATIP2,Colorectal Cancer,Cancer
+HTATIP2,Tumor Progression,Cancer
+HTATIP2,melanoma,Cancer
+HTATIP2,Squamous cell carcinoma,Cancer
+HTATIP2,Malignant neoplasm of breast,Cancer
+HYAL1,Mammary Neoplasms,Cancer
+HYAL1,Ovarian Carcinoma,Cancer
+HYAL1,Breast Carcinoma,Cancer
+HYAL1,Tumor Progression,Cancer
+HYAL1,Squamous cell carcinoma,Cancer
+HYAL1,ovarian neoplasm,Cancer
+HYAL1,Malignant neoplasm of breast,Cancer
+HYAL1,Malignant neoplasm of ovary,Cancer
+HYAL1,Epithelial ovarian cancer,Cancer
+ICA1,Colorectal Carcinoma,Cancer
+ICA1,Colorectal Cancer,Cancer
+ID2,Ovarian Carcinoma,Cancer
+ID2,Squamous cell carcinoma,Cancer
+ID2,ovarian neoplasm,Cancer
+ID2,Malignant neoplasm of ovary,Cancer
+IL22RA1,Colorectal Carcinoma,Cancer
+IL22RA1,Colorectal Cancer,Cancer
+IL22RA1,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+IL22RA1,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+IL22RA1,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+IQGAP2,Ovarian Carcinoma,Cancer
+IQGAP2,Stomach Carcinoma,Cancer
+IQGAP2,Malignant neoplasm of stomach,Cancer
+IQGAP2,Malignant neoplasm of ovary,Cancer
+IQGAP2,Brain Tumor,Cancer
+ISL1,Breast Carcinoma,Cancer
+ISL1,Stomach Carcinoma,Cancer
+ISL1,Malignant neoplasm of breast,Cancer
+ISL1,Malignant neoplasm of stomach,Cancer
+ITGA2,Mammary Neoplasms,Cancer
+ITGA2,Ovarian Carcinoma,Cancer
+ITGA2,Breast Carcinoma,Cancer
+ITGA2,Tumor Progression,Cancer
+ITGA2,Stomach Carcinoma,Cancer
+ITGA2,melanoma,Cancer
+ITGA2,Adenocarcinoma,Cancer
+ITGA2,Malignant neoplasm of breast,Cancer
+ITGA2,Fibrosarcoma,Cancer
+ITGA2,Malignant neoplasm of stomach,Cancer
+ITGA2,Malignant neoplasm of ovary,Cancer
+ITGA2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+ITGA2,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+ITGA2,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+ITGA2,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+ITGA2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+ITGA2,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+ITGA2,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+ITGA2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+KAT2B,Colorectal Carcinoma,Cancer
+KAT2B,Mammary Neoplasms,Cancer
+KAT2B,Ovarian Carcinoma,Cancer
+KAT2B,Breast Carcinoma,Cancer
+KAT2B,Invasive carcinoma of breast,Cancer
+KAT2B,Colorectal Cancer,Cancer
+KAT2B,Stomach Carcinoma,Cancer
+KAT2B,Pre B-cell acute lymphoblastic leukemia,Cancer
+KAT2B,Malignant neoplasm of breast,Cancer
+KAT2B,Malignant neoplasm of stomach,Cancer
+KAT2B,Malignant neoplasm of ovary,Cancer
+KBTBD8,Malignant neoplasm of breast,Cancer
+KBTBD8,Breast Cancer,Cancer
+KCNN4,Breast Carcinoma,Cancer
+KCNN4,Breast Carcinoma,Cancer
+KITLG,Colorectal Carcinoma,Cancer
+KITLG,Mammary Neoplasms,Cancer
+KITLG,Ovarian Carcinoma,Cancer
+KITLG,Breast Carcinoma,Cancer
+KITLG,Invasive carcinoma of breast,Cancer
+KITLG,Colorectal Cancer,Cancer
+KITLG,Tumor Progression,Cancer
+KITLG,Stomach Carcinoma,Cancer
+KITLG,melanoma,Cancer
+KITLG,Adenocarcinoma,Cancer
+KITLG,Squamous cell carcinoma,Cancer
+KITLG,ovarian neoplasm,Cancer
+KITLG,Malignant neoplasm of breast,Cancer
+KITLG,Fibrosarcoma,Cancer
+KITLG,Malignant neoplasm of stomach,Cancer
+KITLG,Malignant neoplasm of ovary,Cancer
+KITLG,Carcinoma,Cancer
+KITLG,Anaplastic Carcinoma,Cancer
+KITLG,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+KITLG,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+KITLG,Papillary renal cell carcinoma ORPHA:319298,Cancer
+KITLG,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+KITLG,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+KITLG,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+KITLG,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+KITLG,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+KITLG,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+KRT13,Breast Carcinoma,Cancer
+KRT13,Tumor Progression,Cancer
+KRT13,Adenocarcinoma,Cancer
+KRT13,Squamous cell carcinoma,Cancer
+KRT13,Malignant neoplasm of breast,Cancer
+KRT13,Esophagus Neoplasm,Cancer
+KRT23,Colorectal Carcinoma,Cancer
+KRT23,Colorectal Cancer,Cancer
+KRT23,Adenocarcinoma,Cancer
+LAMA3,Mammary Neoplasms,Cancer
+LAMA3,Ovarian Carcinoma,Cancer
+LAMA3,Stomach Carcinoma,Cancer
+LAMA3,Adenocarcinoma,Cancer
+LAMA3,Malignant neoplasm of breast,Cancer
+LAMA3,Malignant neoplasm of stomach,Cancer
+LAMA3,Epithelial ovarian cancer,Cancer
+LAMA3,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+LAMA3,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+LAMA3,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+LAMA3,Papillary renal cell carcinoma ORPHA:319298,Cancer
+LAMA3,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+LAMA3,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+LAMA3,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+LAMP3,Mammary Neoplasms,Cancer
+LAMP3,Ovarian Carcinoma,Cancer
+LAMP3,Breast Carcinoma,Cancer
+LAMP3,Tumor Progression,Cancer
+LAMP3,Stomach Carcinoma,Cancer
+LAMP3,melanoma,Cancer
+LAMP3,Adenocarcinoma,Cancer
+LAMP3,Malignant neoplasm of breast,Cancer
+LAMP3,Malignant neoplasm of stomach,Cancer
+LAMP3,Malignant neoplasm of ovary,Cancer
+LAMP3,Epithelial ovarian cancer,Cancer
+LIFR,Colorectal Carcinoma,Cancer
+LIFR,Mammary Neoplasms,Cancer
+LIFR,Ovarian Carcinoma,Cancer
+LIFR,Breast Carcinoma,Cancer
+LIFR,Colorectal Cancer,Cancer
+LIFR,Stomach Carcinoma,Cancer
+LIFR,melanoma,Cancer
+LIFR,Malignant neoplasm of breast,Cancer
+LIFR,Malignant neoplasm of stomach,Cancer
+LIFR,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+LIFR,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+LIFR,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+LIFR,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+LIFR,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+LIFR,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+LPAR5,melanoma,Cancer
+LPAR5,Fibrosarcoma,Cancer
+LRIG1,Colorectal Carcinoma,Cancer
+LRIG1,Mammary Neoplasms,Cancer
+LRIG1,Ovarian Carcinoma,Cancer
+LRIG1,Breast Carcinoma,Cancer
+LRIG1,Colorectal Cancer,Cancer
+LRIG1,Squamous cell carcinoma,Cancer
+LRIG1,Malignant neoplasm of breast,Cancer
+LRIG1,Malignant neoplasm of ovary,Cancer
+LZTS1,Colorectal Carcinoma,Cancer
+LZTS1,Ovarian Carcinoma,Cancer
+LZTS1,Breast Carcinoma,Cancer
+LZTS1,Colorectal Cancer,Cancer
+LZTS1,Stomach Carcinoma,Cancer
+LZTS1,melanoma,Cancer
+LZTS1,Adenocarcinoma,Cancer
+LZTS1,Squamous cell carcinoma,Cancer
+LZTS1,Esophageal Neoplasms,Cancer
+LZTS1,Malignant neoplasm of breast,Cancer
+LZTS1,Malignant neoplasm of stomach,Cancer
+LZTS1,Malignant neoplasm of esophagus,Cancer
+LZTS1,Malignant neoplasm of ovary,Cancer
+LZTS1,Esophagus Neoplasm,Cancer
+ME1,Breast Carcinoma,Cancer
+ME1,Colorectal Cancer,Cancer
+ME1,Epithelial ovarian cancer,Cancer
+ME1,Papillary renal cell carcinoma ORPHA:319298,Cancer
+MICB,Colorectal Carcinoma,Cancer
+MICB,Breast Carcinoma,Cancer
+MICB,Colorectal Cancer,Cancer
+MICB,Tumor Progression,Cancer
+MICB,Malignant neoplasm of breast,Cancer
+MIR100HG,Breast Carcinoma,Cancer
+MIR100HG,Malignant neoplasm of breast,Cancer
+MIR17HG,Colorectal Carcinoma,Cancer
+MIR17HG,Breast Carcinoma,Cancer
+MIR17HG,Colorectal Cancer,Cancer
+MIR17HG,Tumor Progression,Cancer
+MIR17HG,Stomach Carcinoma,Cancer
+MIR17HG,melanoma,Cancer
+MIR17HG,Adenocarcinoma,Cancer
+MIR17HG,Esophageal Neoplasms,Cancer
+MIR17HG,Malignant neoplasm of breast,Cancer
+MIR17HG,Malignant neoplasm of stomach,Cancer
+MIR17HG,Malignant neoplasm of esophagus,Cancer
+MIR17HG,Hematopoietic Neoplasms,Cancer
+MKNK2,Breast Carcinoma,Cancer
+MKNK2,Malignant neoplasm of breast,Cancer
+MT1E,Mammary Neoplasms,Cancer
+MT1E,Breast Carcinoma,Cancer
+MT1E,Invasive Ductal Breast Carcinoma,Cancer
+MT1E,Malignant neoplasm of breast,Cancer
+NEU1,Colorectal Carcinoma,Cancer
+NEU1,Mammary Neoplasms,Cancer
+NEU1,Ovarian Carcinoma,Cancer
+NEU1,Breast Carcinoma,Cancer
+NEU1,Invasive Ductal Breast Carcinoma,Cancer
+NEU1,Colorectal Cancer,Cancer
+NEU1,Stomach Carcinoma,Cancer
+NEU1,melanoma,Cancer
+NEU1,Adenocarcinoma,Cancer
+NEU1,ovarian neoplasm,Cancer
+NEU1,Malignant neoplasm of breast,Cancer
+NEU1,Malignant neoplasm of stomach,Cancer
+NEU1,Malignant neoplasm of ovary,Cancer
+NEU1,Epithelial ovarian cancer,Cancer
+NGFR,Colorectal Carcinoma,Cancer
+NGFR,Mammary Neoplasms,Cancer
+NGFR,Ovarian Carcinoma,Cancer
+NGFR,Breast Carcinoma,Cancer
+NGFR,Colorectal Cancer,Cancer
+NGFR,Tumor Progression,Cancer
+NGFR,Stomach Carcinoma,Cancer
+NGFR,melanoma,Cancer
+NGFR,Squamous cell carcinoma,Cancer
+NGFR,Malignant neoplasm of breast,Cancer
+NGFR,Malignant neoplasm of stomach,Cancer
+NGFR,Epithelial ovarian cancer,Cancer
+NOLC1,Colorectal Carcinoma,Cancer
+NOLC1,Ovarian Carcinoma,Cancer
+NOLC1,Breast Carcinoma,Cancer
+NOLC1,Colorectal Cancer,Cancer
+NOLC1,Stomach Carcinoma,Cancer
+NOLC1,Squamous cell carcinoma,Cancer
+NOLC1,Malignant neoplasm of breast,Cancer
+NOLC1,Malignant neoplasm of stomach,Cancer
+NOLC1,Epithelial ovarian cancer,Cancer
+NR4A2,Colorectal Carcinoma,Cancer
+NR4A2,Breast Carcinoma,Cancer
+NR4A2,Colorectal Cancer,Cancer
+NR4A2,Tumor Progression,Cancer
+NR4A2,Stomach Carcinoma,Cancer
+NR4A2,melanoma,Cancer
+NR4A2,Adenocarcinoma,Cancer
+NR4A2,Malignant neoplasm of breast,Cancer
+NR4A2,Malignant neoplasm of stomach,Cancer
+NRIP1,Mammary Neoplasms,Cancer
+NRIP1,Ovarian Carcinoma,Cancer
+NRIP1,Breast Carcinoma,Cancer
+NRIP1,Adenocarcinoma,Cancer
+NRIP1,Malignant neoplasm of breast,Cancer
+NRIP1,Malignant neoplasm of ovary,Cancer
+NRIP1,Breast Carcinoma,Cancer
+NRIP1,Mammary Neoplasms,Cancer
+NRIP1,Breast Cancer,Cancer
+OGFR,Ovarian Carcinoma,Cancer
+OGFR,Tumor Progression,Cancer
+OGFR,Malignant neoplasm of ovary,Cancer
+OIP5,Breast Carcinoma,Cancer
+OIP5,Stomach Carcinoma,Cancer
+OIP5,Squamous cell carcinoma,Cancer
+OIP5,Esophageal Neoplasms,Cancer
+OIP5,Malignant neoplasm of breast,Cancer
+OIP5,Malignant neoplasm of stomach,Cancer
+OIP5,Malignant neoplasm of esophagus,Cancer
+P2RX7,Mammary Neoplasms,Cancer
+P2RX7,Breast Carcinoma,Cancer
+P2RX7,Colorectal Cancer,Cancer
+P2RX7,Tumor Progression,Cancer
+P2RX7,melanoma,Cancer
+P2RX7,Adenocarcinoma,Cancer
+P2RX7,Malignant neoplasm of breast,Cancer
+P2RX7,Hematopoietic Neoplasms,Cancer
+P2RX7,Lymphocytic Leukemia,Cancer
+P3H2,Breast Carcinoma,Cancer
+P3H2,melanoma,Cancer
+P3H2,Malignant neoplasm of breast,Cancer
+P3H2,Breast Cancer,Cancer
+PADI3,Malignant neoplasm of breast,Cancer
+PADI3,Breast Cancer,Cancer
+PBX1,Mammary Neoplasms,Cancer
+PBX1,Ovarian Carcinoma,Cancer
+PBX1,Breast Carcinoma,Cancer
+PBX1,Stomach Carcinoma,Cancer
+PBX1,melanoma,Cancer
+PBX1,Squamous cell carcinoma,Cancer
+PBX1,Pre B-cell acute lymphoblastic leukemia,Cancer
+PBX1,ovarian neoplasm,Cancer
+PBX1,Malignant neoplasm of breast,Cancer
+PBX1,Malignant neoplasm of ovary,Cancer
+PBX1,Hematopoietic Neoplasms,Cancer
+PDE4B,Colorectal Carcinoma,Cancer
+PDE4B,Colorectal Cancer,Cancer
+PDGFB,Mammary Neoplasms,Cancer
+PDGFB,Breast Carcinoma,Cancer
+PDGFB,melanoma,Cancer
+PDGFB,ovarian neoplasm,Cancer
+PDGFB,Fibrosarcoma,Cancer
+PDGFB,Skin carcinoma,Cancer
+PDGFB,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+PIR,melanoma,Cancer
+PLEKHD1,Breast Carcinoma,Cancer
+PLEKHD1,Mammary Neoplasms,Cancer
+PLEKHD1,Breast Cancer,Cancer
+PLK2,Ovarian Carcinoma,Cancer
+PLK2,Tumor Progression,Cancer
+PLK2,Adenocarcinoma,Cancer
+PLK2,Squamous cell carcinoma,Cancer
+PLK2,Malignant neoplasm of ovary,Cancer
+PLK2,Carcinoma,Cancer
+PLK2,Epithelial ovarian cancer,Cancer
+PLK2,Anaplastic Carcinoma,Cancer
+PLK2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+PLK2,Chondrosarcoma ORPHA:55880,Cancer
+PLK2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+PLSCR4,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+PLSCR4,Papillary renal cell carcinoma ORPHA:319298,Cancer
+PLSCR4,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+PLSCR4,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+PLSCR4,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+PPP1R14B,melanoma,Cancer
+PRMT6,Mammary Neoplasms,Cancer
+PRMT6,Breast Carcinoma,Cancer
+PRMT6,Tumor Progression,Cancer
+PRMT6,melanoma,Cancer
+PRMT6,Malignant neoplasm of breast,Cancer
+PRR15,Colorectal Carcinoma,Cancer
+PRR15,Colorectal Cancer,Cancer
+PRSS23,Breast Carcinoma,Cancer
+PRSS23,Tumor Progression,Cancer
+PRSS23,melanoma,Cancer
+PRSS23,Malignant neoplasm of breast,Cancer
+PRSS23,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+PRSS23,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+PRSS23,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+PSMB9,melanoma,Cancer
+PSMB9,ovarian neoplasm,Cancer
+PURPL,Colorectal Carcinoma,Cancer
+PURPL,Colorectal Cancer,Cancer
+RGL1,Malignant neoplasm of breast,Cancer
+RGL1,Breast Cancer,Cancer
+RGL1,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+RGS6,Mammary Neoplasms,Cancer
+RGS6,Breast Carcinoma,Cancer
+RGS6,Tumor Progression,Cancer
+RGS6,Malignant neoplasm of breast,Cancer
+RHOBTB3,Tumor Progression,Cancer
+RHOU,Mammary Neoplasms,Cancer
+RHOU,Stomach Carcinoma,Cancer
+RHOU,Malignant neoplasm of stomach,Cancer
+RHOU,Lymphocytic Leukemia,Cancer
+RPSAP52,Dedifferentiated liposarcoma ORPHA:99970,Cancer
+RPSAP52,Well-differentiated liposarcoma ORPHA:99971,Cancer
+RTKN2,Breast Carcinoma,Cancer
+RTKN2,Breast Carcinoma,Cancer
+S100A14,Ovarian Carcinoma,Cancer
+S100A14,Breast Carcinoma,Cancer
+S100A14,Invasive carcinoma of breast,Cancer
+S100A14,Tumor Progression,Cancer
+S100A14,Stomach Carcinoma,Cancer
+S100A14,Squamous cell carcinoma,Cancer
+S100A14,Esophageal Neoplasms,Cancer
+S100A14,ovarian neoplasm,Cancer
+S100A14,Malignant neoplasm of breast,Cancer
+S100A14,Malignant neoplasm of stomach,Cancer
+S100A14,Malignant neoplasm of esophagus,Cancer
+S100A14,Malignant neoplasm of ovary,Cancer
+S100A14,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+S100A14,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+S100A14,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+SCG2,melanoma,Cancer
+SCG2,Adenocarcinoma,Cancer
+SETD7,Colorectal Carcinoma,Cancer
+SETD7,Mammary Neoplasms,Cancer
+SETD7,Breast Carcinoma,Cancer
+SETD7,Stomach Carcinoma,Cancer
+SETD7,Malignant neoplasm of breast,Cancer
+SETD7,Malignant neoplasm of stomach,Cancer
+SHCBP1,Tumor Progression,Cancer
+SHCBP1,melanoma,Cancer
+SHCBP1,Hereditary breast cancer ORPHA:227535,Cancer
+SHCBP1,Dedifferentiated liposarcoma ORPHA:99970,Cancer
+SHCBP1,Well-differentiated liposarcoma ORPHA:99971,Cancer
+SIX2,Breast Carcinoma,Cancer
+SIX2,Malignant neoplasm of breast,Cancer
+SKAP1,Ovarian Carcinoma,Cancer
+SKAP1,ovarian neoplasm,Cancer
+SKAP1,Malignant neoplasm of ovary,Cancer
+SKAP1,Epithelial ovarian cancer,Cancer
+SKIL,melanoma,Cancer
+SKIL,Squamous cell carcinoma,Cancer
+SLC22A18,Colorectal Carcinoma,Cancer
+SLC22A18,Mammary Neoplasms,Cancer
+SLC22A18,Breast Carcinoma,Cancer
+SLC22A18,Colorectal Cancer,Cancer
+SLC22A18,Tumor Progression,Cancer
+SLC22A18,Adenocarcinoma,Cancer
+SLC22A18,Squamous cell carcinoma,Cancer
+SLC22A18,Esophageal Neoplasms,Cancer
+SLC22A18,Malignant neoplasm of breast,Cancer
+SLC22A18,Malignant neoplasm of esophagus,Cancer
+SLC22A18,Breast Carcinoma,Cancer
+SLC22A18,Mammary Neoplasms,Cancer
+SLC22A18,Breast Cancer,Cancer
+SLC22A18,Hereditary breast cancer ORPHA:227535,Cancer
+SMAD6,Ovarian Carcinoma,Cancer
+SMAD6,Squamous cell carcinoma,Cancer
+SMAD6,Malignant neoplasm of ovary,Cancer
+SMAD6,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+SMAD7,Colorectal Carcinoma,Cancer
+SMAD7,Mammary Neoplasms,Cancer
+SMAD7,Ovarian Carcinoma,Cancer
+SMAD7,Breast Carcinoma,Cancer
+SMAD7,Colorectal Cancer,Cancer
+SMAD7,Tumor Progression,Cancer
+SMAD7,Stomach Carcinoma,Cancer
+SMAD7,melanoma,Cancer
+SMAD7,Squamous cell carcinoma,Cancer
+SMAD7,ovarian neoplasm,Cancer
+SMAD7,Malignant neoplasm of breast,Cancer
+SMAD7,Malignant neoplasm of stomach,Cancer
+SMAD7,Malignant neoplasm of ovary,Cancer
+SMAD7,Epithelial ovarian cancer,Cancer
+SNAI2,Colorectal Carcinoma,Cancer
+SNAI2,Mammary Neoplasms,Cancer
+SNAI2,Ovarian Carcinoma,Cancer
+SNAI2,Breast Carcinoma,Cancer
+SNAI2,Colorectal Cancer,Cancer
+SNAI2,Tumor Progression,Cancer
+SNAI2,Stomach Carcinoma,Cancer
+SNAI2,melanoma,Cancer
+SNAI2,Adenocarcinoma,Cancer
+SNAI2,Squamous cell carcinoma,Cancer
+SNAI2,Esophageal Neoplasms,Cancer
+SNAI2,Malignant neoplasm of breast,Cancer
+SNAI2,Malignant neoplasm of stomach,Cancer
+SNAI2,Malignant neoplasm of esophagus,Cancer
+SNAI2,Malignant neoplasm of ovary,Cancer
+SNAI2,Epithelial ovarian cancer,Cancer
+SNAI2,Skin carcinoma,Cancer
+SNAI2,Breast Carcinoma,Cancer
+SNAI2,Esophagus Neoplasm,Cancer
+SNAI2,Mammary Neoplasms,Cancer
+SNAI2,Breast Cancer,Cancer
+SNAI2,Chondrosarcoma ORPHA:55880,Cancer
+SNAI2,Papillary renal cell carcinoma ORPHA:319298,Cancer
+SNAI2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+SNAI2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+SNAI2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+SNAI2,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+SNCG,Colorectal Carcinoma,Cancer
+SNCG,Mammary Neoplasms,Cancer
+SNCG,Ovarian Carcinoma,Cancer
+SNCG,Breast Carcinoma,Cancer
+SNCG,Invasive carcinoma of breast,Cancer
+SNCG,Invasive Ductal Breast Carcinoma,Cancer
+SNCG,Colorectal Cancer,Cancer
+SNCG,Tumor Progression,Cancer
+SNCG,Stomach Carcinoma,Cancer
+SNCG,Squamous cell carcinoma,Cancer
+SNCG,Esophageal Neoplasms,Cancer
+SNCG,ovarian neoplasm,Cancer
+SNCG,Malignant neoplasm of breast,Cancer
+SNCG,Malignant neoplasm of stomach,Cancer
+SNCG,Malignant neoplasm of esophagus,Cancer
+SNCG,Malignant neoplasm of ovary,Cancer
+SNCG,Carcinoma,Cancer
+SNCG,Epithelial ovarian cancer,Cancer
+SNCG,Breast Carcinoma,Cancer
+SNCG,Mammary Neoplasms,Cancer
+SNCG,Anaplastic Carcinoma,Cancer
+SNCG,Breast Cancer,Cancer
+SNCG,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+SORBS1,Colorectal Carcinoma,Cancer
+SORBS1,Breast Carcinoma,Cancer
+SORBS1,Invasive carcinoma of breast,Cancer
+SORBS1,Colorectal Cancer,Cancer
+SORBS1,Malignant neoplasm of breast,Cancer
+SORBS1,Epithelial ovarian cancer,Cancer
+SORBS1,Breast Cancer,Cancer
+SORL1,Colorectal Cancer,Cancer
+SORL1,Malignant neoplasm of breast,Cancer
+SORL1,Breast Cancer,Cancer
+SORT1,Colorectal Carcinoma,Cancer
+SORT1,Breast Carcinoma,Cancer
+SORT1,Colorectal Cancer,Cancer
+SORT1,Malignant neoplasm of breast,Cancer
+SPC25,Hereditary breast cancer ORPHA:227535,Cancer
+STN1,Colorectal Carcinoma,Cancer
+STN1,Colorectal Cancer,Cancer
+STN1,melanoma,Cancer
+STN1,Epithelial ovarian cancer,Cancer
+SULT1A1,Colorectal Carcinoma,Cancer
+SULT1A1,Mammary Neoplasms,Cancer
+SULT1A1,Breast Carcinoma,Cancer
+SULT1A1,Colorectal Cancer,Cancer
+SULT1A1,Stomach Carcinoma,Cancer
+SULT1A1,Squamous cell carcinoma,Cancer
+SULT1A1,Esophageal Neoplasms,Cancer
+SULT1A1,ovarian neoplasm,Cancer
+SULT1A1,Malignant neoplasm of breast,Cancer
+SULT1A1,Malignant neoplasm of stomach,Cancer
+SULT1A1,Malignant neoplasm of esophagus,Cancer
+SULT1A1,Urologic Neoplasms,Cancer
+SULT1A1,Brain Tumor,Cancer
+SULT1A1,Cancer of Urinary Tract,Cancer
+SULT1A1,Breast Carcinoma,Cancer
+SULT1A1,Urinary Tract Cancer,Cancer
+SULT1A1,Mammary Neoplasms,Cancer
+SULT1A1,Breast Cancer,Cancer
+SUSD4,Breast Carcinoma,Cancer
+SUSD4,Tumor Progression,Cancer
+SUSD4,Malignant neoplasm of breast,Cancer
+TET1,Colorectal Carcinoma,Cancer
+TET1,Mammary Neoplasms,Cancer
+TET1,Ovarian Carcinoma,Cancer
+TET1,Breast Carcinoma,Cancer
+TET1,Invasive Ductal Breast Carcinoma,Cancer
+TET1,Colorectal Cancer,Cancer
+TET1,Stomach Carcinoma,Cancer
+TET1,Malignant neoplasm of breast,Cancer
+TET1,Malignant neoplasm of stomach,Cancer
+TET1,Malignant neoplasm of ovary,Cancer
+TET1,Hematopoietic Neoplasms,Cancer
+TET1,Epithelial ovarian cancer,Cancer
+TFAP4,Colorectal Carcinoma,Cancer
+TFAP4,Colorectal Cancer,Cancer
+TGM2,Colorectal Carcinoma,Cancer
+TGM2,Mammary Neoplasms,Cancer
+TGM2,Ovarian Carcinoma,Cancer
+TGM2,Breast Carcinoma,Cancer
+TGM2,Colorectal Cancer,Cancer
+TGM2,Tumor Progression,Cancer
+TGM2,Stomach Carcinoma,Cancer
+TGM2,melanoma,Cancer
+TGM2,Adenocarcinoma,Cancer
+TGM2,Squamous cell carcinoma,Cancer
+TGM2,Esophageal Neoplasms,Cancer
+TGM2,ovarian neoplasm,Cancer
+TGM2,Malignant neoplasm of breast,Cancer
+TGM2,Fibrosarcoma,Cancer
+TGM2,Malignant neoplasm of stomach,Cancer
+TGM2,Malignant neoplasm of esophagus,Cancer
+TGM2,Malignant neoplasm of ovary,Cancer
+TGM2,Epithelial ovarian cancer,Cancer
+TGM2,Brain Tumor,Cancer
+TGM2,Breast Carcinoma,Cancer
+TGM2,Esophagus Neoplasm,Cancer
+TGM2,Mammary Neoplasms,Cancer
+TGM2,Breast Cancer,Cancer
+THBS1,Colorectal Carcinoma,Cancer
+THBS1,Mammary Neoplasms,Cancer
+THBS1,Ovarian Carcinoma,Cancer
+THBS1,Breast Carcinoma,Cancer
+THBS1,Invasive carcinoma of breast,Cancer
+THBS1,Invasive Ductal Breast Carcinoma,Cancer
+THBS1,Colorectal Cancer,Cancer
+THBS1,Tumor Progression,Cancer
+THBS1,Stomach Carcinoma,Cancer
+THBS1,melanoma,Cancer
+THBS1,Adenocarcinoma,Cancer
+THBS1,Squamous cell carcinoma,Cancer
+THBS1,Malignant neoplasm of breast,Cancer
+THBS1,Fibrosarcoma,Cancer
+THBS1,Malignant neoplasm of stomach,Cancer
+THBS1,Malignant neoplasm of ovary,Cancer
+THBS1,Epithelial ovarian cancer,Cancer
+THBS1,Skin carcinoma,Cancer
+THBS1,Cancer of Urinary Tract,Cancer
+THBS1,Breast Carcinoma,Cancer
+THBS1,Mammary Neoplasms,Cancer
+THBS1,Breast Cancer,Cancer
+THBS1,Chondrosarcoma ORPHA:55880,Cancer
+THBS1,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+TIMP2,Colorectal Carcinoma,Cancer
+TIMP2,Mammary Neoplasms,Cancer
+TIMP2,Ovarian Carcinoma,Cancer
+TIMP2,Breast Carcinoma,Cancer
+TIMP2,Invasive carcinoma of breast,Cancer
+TIMP2,Colorectal Cancer,Cancer
+TIMP2,Stomach Carcinoma,Cancer
+TIMP2,melanoma,Cancer
+TIMP2,Adenocarcinoma,Cancer
+TIMP2,Squamous cell carcinoma,Cancer
+TIMP2,Esophageal Neoplasms,Cancer
+TIMP2,ovarian neoplasm,Cancer
+TIMP2,Malignant neoplasm of breast,Cancer
+TIMP2,Fibrosarcoma,Cancer
+TIMP2,Malignant neoplasm of stomach,Cancer
+TIMP2,Malignant neoplasm of esophagus,Cancer
+TIMP2,Malignant neoplasm of ovary,Cancer
+TIMP2,Epithelial ovarian cancer,Cancer
+TIMP2,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+TIMP2,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+TNFSF9,Colorectal Carcinoma,Cancer
+TNFSF9,Ovarian Carcinoma,Cancer
+TNFSF9,Colorectal Cancer,Cancer
+TNFSF9,Adenocarcinoma,Cancer
+TNFSF9,Malignant neoplasm of stomach,Cancer
+TNFSF9,Epithelial ovarian cancer,Cancer
+TPM4,Invasive Ductal Breast Carcinoma,Cancer
+TPM4,Esophageal Neoplasms,Cancer
+TPM4,Malignant neoplasm of breast,Cancer
+TPM4,Malignant neoplasm of esophagus,Cancer
+TPM4,Esophagus Neoplasm,Cancer
+TPM4,Breast Cancer,Cancer
+TRAK2,Breast Carcinoma,Cancer
+TRAK2,Breast Carcinoma,Cancer
+TRIB3,Colorectal Carcinoma,Cancer
+TRIB3,Mammary Neoplasms,Cancer
+TRIB3,Breast Carcinoma,Cancer
+TRIB3,Colorectal Cancer,Cancer
+TRIB3,Stomach Carcinoma,Cancer
+TRIB3,Malignant neoplasm of breast,Cancer
+TRIB3,Malignant neoplasm of stomach,Cancer
+TSC22D1,Mammary Neoplasms,Cancer
+TSC22D1,Carcinoma,Cancer
+TSC22D1,Anaplastic Carcinoma,Cancer
+UQCC1,Malignant neoplasm of breast,Cancer
+UQCC1,Breast Cancer,Cancer
+VGLL3,Ovarian Carcinoma,Cancer
+VGLL3,Breast Carcinoma,Cancer
+VGLL3,Malignant neoplasm of ovary,Cancer
+VGLL3,Epithelial ovarian cancer,Cancer
+VGLL3,Breast Carcinoma,Cancer
+WNT16,Mammary Neoplasms,Cancer
+WNT16,Colorectal Cancer,Cancer
+WNT9A,Mammary Neoplasms,Cancer
+ZCCHC12,Esophagus Neoplasm,Cancer
+ZNF703,Mammary Neoplasms,Cancer
+ZNF703,Breast Carcinoma,Cancer
+ZNF703,Malignant neoplasm of breast,Cancer
+AMOTL2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+AMOTL2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+AMOTL2,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+AMOTL2,Chondrosarcoma ORPHA:55880,Cancer
+AMOTL2,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+AMOTL2,Papillary renal cell carcinoma ORPHA:319298,Cancer
+AMOTL2,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+AMOTL2,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+AMOTL2,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+AMOTL2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+AMOTL2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+AMOTL2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+AMOTL2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+AMOTL2,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+AMOTL2,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+AMOTL2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+CCND1,Colorectal Carcinoma,Cancer
+CCND1,Mammary Neoplasms,Cancer
+CCND1,Ovarian Carcinoma,Cancer
+CCND1,Breast Carcinoma,Cancer
+CCND1,Invasive carcinoma of breast,Cancer
+CCND1,Invasive Ductal Breast Carcinoma,Cancer
+CCND1,Colorectal Cancer,Cancer
+CCND1,Tumor Progression,Cancer
+CCND1,Stomach Carcinoma,Cancer
+CCND1,melanoma,Cancer
+CCND1,Adenocarcinoma,Cancer
+CCND1,Squamous cell carcinoma,Cancer
+CCND1,Esophageal Neoplasms,Cancer
+CCND1,Pre B-cell acute lymphoblastic leukemia,Cancer
+CCND1,ovarian neoplasm,Cancer
+CCND1,Malignant neoplasm of breast,Cancer
+CCND1,Fibrosarcoma,Cancer
+CCND1,Malignant neoplasm of stomach,Cancer
+CCND1,Malignant neoplasm of esophagus,Cancer
+CCND1,Malignant neoplasm of ovary,Cancer
+CCND1,Carcinoma,Cancer
+CCND1,Urologic Neoplasms,Cancer
+CCND1,Hematopoietic Neoplasms,Cancer
+CCND1,Epithelial ovarian cancer,Cancer
+CCND1,Brain Tumor,Cancer
+CCND1,Skin carcinoma,Cancer
+CCND1,Cancer of Urinary Tract,Cancer
+CCND1,Breast Carcinoma,Cancer
+CCND1,Esophagus Neoplasm,Cancer
+CCND1,Urinary Tract Cancer,Cancer
+CCND1,Mammary Neoplasms,Cancer
+CCND1,Anaplastic Carcinoma,Cancer
+CCND1,Breast Cancer,Cancer
+CCND1,Lymphocytic Leukemia,Cancer
+CCND1,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+CCND1,Chondrosarcoma ORPHA:55880,Cancer
+CCND1,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+CCND1,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+CCND1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+CCND1,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+CCND1,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+CCND1,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+COL12A1,Colorectal Carcinoma,Cancer
+COL12A1,Breast Carcinoma,Cancer
+COL12A1,Colorectal Cancer,Cancer
+COL12A1,Malignant neoplasm of breast,Cancer
+COL12A1,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+COL12A1,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL12A1,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+COL12A1,Chondrosarcoma ORPHA:55880,Cancer
+COL12A1,Papillary renal cell carcinoma ORPHA:319298,Cancer
+COL12A1,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+COL12A1,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+COL12A1,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+COL12A1,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL12A1,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+COL12A1,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL12A1,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL12A1,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+COL12A1,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+COL12A1,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+COL5A2,Colorectal Carcinoma,Cancer
+COL5A2,Colorectal Cancer,Cancer
+COL5A2,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+COL5A2,Chondrosarcoma ORPHA:55880,Cancer
+COL5A2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+COL5A2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+COL5A2,Dermatofibrosarcoma protuberans ORPHA:31112,Cancer
+COL5A2,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+KITLG,Colorectal Carcinoma,Cancer
+KITLG,Mammary Neoplasms,Cancer
+KITLG,Ovarian Carcinoma,Cancer
+KITLG,Breast Carcinoma,Cancer
+KITLG,Invasive carcinoma of breast,Cancer
+KITLG,Colorectal Cancer,Cancer
+KITLG,Tumor Progression,Cancer
+KITLG,Stomach Carcinoma,Cancer
+KITLG,melanoma,Cancer
+KITLG,Adenocarcinoma,Cancer
+KITLG,Squamous cell carcinoma,Cancer
+KITLG,ovarian neoplasm,Cancer
+KITLG,Malignant neoplasm of breast,Cancer
+KITLG,Fibrosarcoma,Cancer
+KITLG,Malignant neoplasm of stomach,Cancer
+KITLG,Malignant neoplasm of ovary,Cancer
+KITLG,Carcinoma,Cancer
+KITLG,Anaplastic Carcinoma,Cancer
+KITLG,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+KITLG,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+KITLG,Papillary renal cell carcinoma ORPHA:319298,Cancer
+KITLG,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+KITLG,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+KITLG,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+KITLG,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+KITLG,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+KITLG,Pediatric hepatocellular carcinoma ORPHA:33402,Cancer
+LAMA3,Mammary Neoplasms,Cancer
+LAMA3,Ovarian Carcinoma,Cancer
+LAMA3,Stomach Carcinoma,Cancer
+LAMA3,Adenocarcinoma,Cancer
+LAMA3,Malignant neoplasm of breast,Cancer
+LAMA3,Malignant neoplasm of stomach,Cancer
+LAMA3,Epithelial ovarian cancer,Cancer
+LAMA3,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+LAMA3,Severe generalized junctional epidermolysis bullosa ORPHA:79404,Rare Diseases
+LAMA3,Kindler epidermolysis bullosa ORPHA:2908,Rare Diseases
+LAMA3,Papillary renal cell carcinoma ORPHA:319298,Cancer
+LAMA3,Hereditary papillary renal cell carcinoma ORPHA:47044,Cancer
+LAMA3,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+LAMA3,Junctional epidermolysis bullosa with pyloric atresia ORPHA:79403,Rare Diseases
+LIFR,Colorectal Carcinoma,Cancer
+LIFR,Mammary Neoplasms,Cancer
+LIFR,Ovarian Carcinoma,Cancer
+LIFR,Breast Carcinoma,Cancer
+LIFR,Colorectal Cancer,Cancer
+LIFR,Stomach Carcinoma,Cancer
+LIFR,melanoma,Cancer
+LIFR,Malignant neoplasm of breast,Cancer
+LIFR,Malignant neoplasm of stomach,Cancer
+LIFR,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+LIFR,Autosomal dominant Charcot-Marie-Tooth disease type 2L ORPHA:99945,Rare Diseases
+LIFR,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+LIFR,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+LIFR,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+LIFR,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+PLSCR4,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+PLSCR4,Papillary renal cell carcinoma ORPHA:319298,Cancer
+PLSCR4,Charcot-Marie-Tooth disease type 1A ORPHA:101081,Rare Diseases
+PLSCR4,Charcot-Marie-Tooth disease type 1E ORPHA:90658,Rare Diseases
+PLSCR4,Rolandic epilepsy-speech dyspraxia syndrome ORPHA:163721,Neurological Diseases
+PRSS23,Breast Carcinoma,Cancer
+PRSS23,Tumor Progression,Cancer
+PRSS23,melanoma,Cancer
+PRSS23,Malignant neoplasm of breast,Cancer
+PRSS23,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,Rare Diseases
+PRSS23,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+PRSS23,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases
+RGL1,Malignant neoplasm of breast,Cancer
+RGL1,Breast Cancer,Cancer
+RGL1,Neonatal diabetes-congenital hypothyroidism-congenital glaucoma-hepatic fibrosis-polycystic kidneys syndrome ORPHA:79118,Associated with Dysbiosis
+SMAD6,Ovarian Carcinoma,Cancer
+SMAD6,Squamous cell carcinoma,Cancer
+SMAD6,Malignant neoplasm of ovary,Cancer
+SMAD6,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+SNAI2,Colorectal Carcinoma,Cancer
+SNAI2,Mammary Neoplasms,Cancer
+SNAI2,Ovarian Carcinoma,Cancer
+SNAI2,Breast Carcinoma,Cancer
+SNAI2,Colorectal Cancer,Cancer
+SNAI2,Tumor Progression,Cancer
+SNAI2,Stomach Carcinoma,Cancer
+SNAI2,melanoma,Cancer
+SNAI2,Adenocarcinoma,Cancer
+SNAI2,Squamous cell carcinoma,Cancer
+SNAI2,Esophageal Neoplasms,Cancer
+SNAI2,Malignant neoplasm of breast,Cancer
+SNAI2,Malignant neoplasm of stomach,Cancer
+SNAI2,Malignant neoplasm of esophagus,Cancer
+SNAI2,Malignant neoplasm of ovary,Cancer
+SNAI2,Epithelial ovarian cancer,Cancer
+SNAI2,Skin carcinoma,Cancer
+SNAI2,Breast Carcinoma,Cancer
+SNAI2,Esophagus Neoplasm,Cancer
+SNAI2,Mammary Neoplasms,Cancer
+SNAI2,Breast Cancer,Cancer
+SNAI2,Chondrosarcoma ORPHA:55880,Cancer
+SNAI2,Papillary renal cell carcinoma ORPHA:319298,Cancer
+SNAI2,Myopathic Ehlers-Danlos syndrome ORPHA:536516,Rare Diseases
+SNAI2,Pancreatic hypoplasia-diabetes-congenital heart disease syndrome ORPHA:2255,Associated with Dysbiosis
+SNAI2,Autosomal recessive generalized dystrophic epidermolysis bullosa,Rare Diseases
+SNAI2,Familial primary localized cutaneous amyloidosis ORPHA:353220,Rare Diseases

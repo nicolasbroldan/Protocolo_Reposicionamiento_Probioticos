@@ -1,0 +1,65 @@
+Gene,Disease
+ADM,"Obesity, Diabetes Mellitus, Diabetes"
+BDKRB2,"Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+BIRC3,"Infection caused by Helicobacter pylori, Obesity"
+C10ORF55,Inflammatory Bowel Disease
+CCL2,"Infection caused by Helicobacter pylori, Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Celiac Disease, Gestational Diabetes, Non-alcoholic Fatty Liver Disease"
+CCL20,"Infection caused by Helicobacter pylori, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Streptozotocin Diabetes, Alloxan Diabetes, Irritable Bowel Syndrome, Inflammatory Bowel Disease"
+CCL22,"Infection caused by Helicobacter pylori, Obesity"
+CCL4,"Obesity, Diabetes Mellitus"
+CCL5,"Infection caused by Helicobacter pylori, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+CD83,Obesity
+CFB,"Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+CSF1,Obesity
+CSF2,"Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Non-alcoholic Fatty Liver Disease"
+CSF3,"Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+CX3CL1,"Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Streptozotocin Diabetes, Alloxan Diabetes"
+CXCL1,"Infection caused by Helicobacter pylori, Necrotizing enterocolitis in fetus OR newborn"
+CXCL10,"Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+CXCL11,Inflammatory Bowel Diseases
+CXCL2,Obesity
+CXCL5,"Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+CXCL8,"Infection caused by Helicobacter pylori, Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Celiac Disease, Necrotizing enterocolitis in fetus OR newborn, Irritable Bowel Syndrome, psychosocial stressor, Anxiety Disorders, Anxiety, Central Diabetes Insipidus"
+CYP1A1,"Infection caused by Helicobacter pylori, Respiratory Distress Syndrome, Obesity, Diabetes Mellitus, Diabetes, Streptozotocin Diabetes, Alloxan Diabetes, Anxiety"
+CYP1B1,"Obesity, Diabetes Mellitus"
+DKK1,Diabetes Mellitus
+DNAJB1,Obesity
+DUSP2,"Stress, Post-Traumatic Stress Disorder"
+ETS1,"Inflammatory Bowel Diseases, Diabetes Mellitus, Diabetes, Celiac Disease, Inflammatory Bowel Disease"
+FOS,"Infection caused by Helicobacter pylori, Obesity, Diabetes Mellitus, Non-alcoholic Fatty Liver Disease, Anxiety neurosis (finding), Anxiety Disorders"
+FSCN2,Obesity
+HAP1,Respiratory Distress Syndrome
+HLA-L,Diabetes Mellitus
+HSPA1A,"Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Prediabetes syndrome"
+HSPA1B,"Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Anxiety Disorders, Prediabetes syndrome"
+ICAM1,"Infection caused by Helicobacter pylori, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Streptozotocin Diabetes, Alloxan Diabetes, Celiac Disease, Post-Traumatic Stress Disorder, Inflammatory Bowel Disease, Immune dysregulation-inflammatory bowel disease-arthritis-recurrent infections-lymphopenia syndrome ORPHA:529977"
+ID1,"Diabetes Mellitus, Streptozotocin Diabetes, Alloxan Diabetes"
+IL1A,"Infection caused by Helicobacter pylori, Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Stress, Celiac Disease, Necrotizing enterocolitis in fetus OR newborn, Irritable Bowel Syndrome, Non-alcoholic Fatty Liver Disease, Anxiety neurosis (finding), Anxiety state"
+IL1B,"Infection caused by Helicobacter pylori, Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Streptozotocin Diabetes, Alloxan Diabetes, Stress, Celiac Disease, Post-Traumatic Stress Disorder, Necrotizing enterocolitis in fetus OR newborn, Irritable Bowel Syndrome, Necrotizing Enterocolitis, Gestational Diabetes, Non-alcoholic Fatty Liver Disease, Anxiety Disorders, Anxiety"
+IL23A,"Infection caused by Helicobacter pylori, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Celiac Disease"
+IRF1,"Inflammatory Bowel Diseases, Celiac Disease, Immune dysregulation-inflammatory bowel disease-arthritis-recurrent infections-lymphopenia syndrome ORPHA:529977"
+LIF,"Diabetes Mellitus, Diabetes, Non-alcoholic Fatty Liver Disease"
+LTB,Inflammatory Bowel Diseases
+MAFB,Diabetes Mellitus
+MIR17HG,Diabetes Mellitus
+NFKBIA,"Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Diabetes Mellitus, Stress, Irritable Bowel Syndrome"
+NFKBIZ,Immune dysregulation-inflammatory bowel disease-arthritis-recurrent infections-lymphopenia syndrome ORPHA:529977
+NR4A3,"Obesity, Diabetes Mellitus, Diabetes"
+OXTR,"Obesity, Stress, Post-Traumatic Stress Disorder, psychosocial stressor, Social Anxiety, Anxiety Disorders, Anxiety"
+PLAU,"Inflammatory Bowel Diseases, Diabetes Mellitus, Inflammatory Bowel Disease"
+PLK2,Irritable Bowel Syndrome
+POTEF,"Infection caused by Helicobacter pylori, Obesity, Diabetes Mellitus, Diabetes, Post-Traumatic Stress Disorder"
+PTAFR,Necrotizing Enterocolitis
+RCAN1,"Anxiety Disorders, Anxiety"
+RGS2,"Obesity, Diabetes Mellitus, Social Anxiety, Anxiety Disorders, Anxiety"
+SERPINA3,"Diabetes Mellitus, Diabetes"
+SOD2,"Respiratory Distress Syndrome, Obesity, Diabetes Mellitus, Diabetes, Streptozotocin Diabetes, Alloxan Diabetes, Necrotizing Enterocolitis, Gestational Diabetes, Non-alcoholic Fatty Liver Disease"
+SPG7,Obesity
+STAT5A,"Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+STX11,Immune dysregulation-inflammatory bowel disease-arthritis-recurrent infections-lymphopenia syndrome ORPHA:529977
+THBS1,"Infection caused by Helicobacter pylori, Obesity, Diabetes Mellitus, Diabetes"
+TICAM1,Celiac Disease
+TNF,"Infection caused by Helicobacter pylori, Respiratory Distress Syndrome, Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes, Streptozotocin Diabetes, Alloxan Diabetes, Stress, Celiac Disease, Post-Traumatic Stress Disorder, Necrotizing enterocolitis in fetus OR newborn, Irritable Bowel Syndrome, Necrotizing Enterocolitis, Gestational Diabetes, Non-alcoholic Fatty Liver Disease, Anxiety neurosis (finding), Anxiety state, Anxiety Disorders, Anxiety, Prediabetes syndrome, Central Diabetes Insipidus, Inflammatory Bowel Disease"
+TNFAIP3,"Diabetes Mellitus, Diabetes, Celiac Disease, Immune dysregulation-inflammatory bowel disease-arthritis-recurrent infections-lymphopenia syndrome ORPHA:529977"
+TNFSF14,"Inflammatory Bowel Diseases, Obesity, Diabetes Mellitus, Diabetes"
+UNC13A,"Diabetes Mellitus, Diabetes, Anxiety"

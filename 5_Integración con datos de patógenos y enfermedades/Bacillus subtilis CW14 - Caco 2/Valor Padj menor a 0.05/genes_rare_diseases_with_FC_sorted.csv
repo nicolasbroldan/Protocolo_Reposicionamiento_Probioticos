@@ -1,0 +1,58 @@
+Gene,Disease,Log2FoldChange,FoldChange,Regulation
+CCL4,"Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813",5.23607385633261,37.6890586452678,UpRegulated
+CSF2,"Autoimmune Diseases, Acquired Immunodeficiency Syndrome, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Severe Combined Immunodeficiency, Asymptomatic human immunodeficiency virus infection",5.02517728476931,32.5633514305733,UpRegulated
+CSF3,"Autoimmune Diseases, Acquired Immunodeficiency Syndrome, Severe Combined Immunodeficiency, Asymptomatic human immunodeficiency virus infection",4.95007750589376,30.9116231458627,UpRegulated
+CXCL8,"Autoimmune Diseases, Glomerulonephritis, IGA Glomerulonephritis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Nephrotic Syndrome, Steroid-sensitive nephrotic syndrome, Glycogen Storage Disease, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951",4.64622612263692,25.041101556812,UpRegulated
+CXCL10,"Autoimmune Diseases, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Autoimmune, Autoimmune thyroiditis, Autoimmune thyroid disease, Asymptomatic human immunodeficiency virus infection, Polyglandular Type I Autoimmune Syndrome, Membranous glomerulonephritis, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951",4.34026401095065,20.2558119464878,UpRegulated
+CCL5,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Autoimmune, IGA Glomerulonephritis",4.16399225097242,17.9261311417147,UpRegulated
+TNF,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Severe Combined Immunodeficiency, Autoimmune thyroid disease, Idiopathic Nephrotic Syndrome, AA amyloidosis, Nephrotic Syndrome, Polyglandular Type I Autoimmune Syndrome, Membranous glomerulonephritis, Steroid-sensitive nephrotic syndrome, Autoimmune arthritis, Autoimmune liver disease, Chronic glomerulonephritis, Autoimmune thrombocytopenia, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813",3.88465045591814,14.7705378510313,UpRegulated
+PLAU,"IGA Glomerulonephritis, Amyloidosis, Severe Combined Immunodeficiency, Glomerulonephritis",3.36540331374543,10.3059337168001,UpRegulated
+LTB,"Autoimmune Diseases, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592",3.07253224726102,8.41248628256885,UpRegulated
+CX3CL1,"Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis",3.03074080887836,8.17229231543399,UpRegulated
+CXCL2,Glycogen Storage Disease,3.01027327604049,8.05717044930861,UpRegulated
+TNFSF14,"Autoimmune Diseases, Autoimmune arthritis",2.95100104834556,7.73285439565647,UpRegulated
+CXCL5,Autoimmune Diseases,2.91962297098245,7.56648351631896,UpRegulated
+CSF1,Anti-Basement Membrane Glomerulonephritis,2.82996705515294,7.11057907294105,UpRegulated
+CXCL11,Acquired Immunodeficiency Syndrome,2.82128417103167,7.06791245807213,UpRegulated
+CXCL1,"Autoimmune Diseases, Autoimmune, Amyloidosis",2.80678584844439,6.99723938210739,UpRegulated
+CYP1B1,Familial lichen amyloidosis,2.60648585086941,6.09018414597829,UpRegulated
+CCL2,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, Familial lichen amyloidosis, Amyloidosis, Nephrotic Syndrome, Membranous glomerulonephritis, Chronic glomerulonephritis",2.54628042579618,5.84126333572391,UpRegulated
+BIRC3,"Autoimmune Diseases, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Immunodeficiency by defective expression of MHC class I ORPHA:34592",2.51056629770384,5.69843713762084,UpRegulated
+CCL22,"Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Idiopathic crescentic glomerulonephritis, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951",2.50832489515489,5.6895907948465,UpRegulated
+TNFAIP3,"Autoimmune Diseases, Autoimmune, Autoimmune thyroid disease, Autoimmune thrombocytopenia, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592",2.31160510592693,4.96435093940054,UpRegulated
+NFKBIZ,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159",2.28377693282185,4.86951110049655,UpRegulated
+RCAN1,Amyloidosis,2.10011035709735,4.2874217984055,UpRegulated
+NPTX1,Amyloidosis,1.84389069062221,3.58976820464901,UpRegulated
+FOS,"Glomerulonephritis, Idiopathic crescentic glomerulonephritis, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951",-1.84272770160375,3.58687557757967,DownRegulated
+STAT5A,"Autoimmune Diseases, Severe Combined Immunodeficiency, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159",1.82304952145319,3.53828319313219,UpRegulated
+THBS1,Acquired Immunodeficiency Syndrome,1.7764927668638,3.42592309653274,UpRegulated
+MIR17HG,"Autoimmune Diseases, Severe Combined Immunodeficiency",-1.75178624941775,3.36775280914603,DownRegulated
+IL1B,"Autoimmune Diseases, Anti-Basement Membrane Glomerulonephritis, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Idiopathic Nephrotic Syndrome, AA amyloidosis, Nephrotic Syndrome, Membranous glomerulonephritis, Mesangial proliferative glomerulonephritis, Autoimmune arthritis, Reactive systemic amyloidosis",1.74670715733247,3.35591728489506,UpRegulated
+IRF1,"Autoimmune Diseases, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592",1.7410915722007,3.34288001161916,UpRegulated
+CCL20,"Familial lichen amyloidosis, Autoimmune",1.73411669246489,3.32675746757163,UpRegulated
+STX11,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813, Immunodeficiency by defective expression of MHC class I ORPHA:34592",1.69722295900474,3.24276158823784,UpRegulated
+IL1A,"Autoimmune Diseases, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Idiopathic crescentic glomerulonephritis, Autoimmune, Autoimmune thyroiditis, IGA Glomerulonephritis, Amyloidosis, AA amyloidosis, Nephrotic Syndrome, Reactive systemic amyloidosis",1.6784696096585,3.20088225851045,UpRegulated
+ICAM1,"Autoimmune Diseases, Glomerulonephritis, Acquired Immunodeficiency Syndrome, Autoimmune thyroiditis, IGA Glomerulonephritis, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Autoimmune, Polyglandular Type I Autoimmune Syndrome, Autoimmune liver disease, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159",1.66923465166507,3.18045825734968,UpRegulated
+ETS1,Autoimmune Diseases,1.50201262659304,2.83237566551989,UpRegulated
+ADM,"Autoimmune Diseases, Glomerulonephritis, IGA Glomerulonephritis",-1.50043028357346,2.82927082851096,DownRegulated
+SERPINA3,"Familial lichen amyloidosis, Amyloidosis",1.47104432115442,2.77222493574562,UpRegulated
+SOD2,"Autoimmune Diseases, Familial lichen amyloidosis, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Idiopathic Nephrotic Syndrome, Nephrotic Syndrome",1.41248730567937,2.66195707169751,UpRegulated
+DKK1,"Amyloidosis, Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504",-1.39555452271792,2.63089655290664,DownRegulated
+S100A3,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,1.3195697925001,2.49591671165762,UpRegulated
+DUSP2,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951",-1.28342949247757,2.43416926525455,DownRegulated
+NR4A3,"Autoimmune Diseases, Autoimmune, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951",1.27072646315457,2.41283032032081,UpRegulated
+CD83,"Autoimmune Diseases, Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951",1.223622827613,2.33532417165544,UpRegulated
+PLK2,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,-1.21779078014174,2.3259027558588,DownRegulated
+NFKBIA,"Charcot-Marie-Tooth disease type 1D ORPHA:101084, Charcot-Marie-Tooth disease type 4E ORPHA:99951, STAT3-related early-onset multisystem autoimmune disease ORPHA:438159, Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813",1.19305978331471,2.28637141297789,UpRegulated
+HSPH1,Amyloidosis,-1.19016528371576,2.28178883204879,DownRegulated
+HSPA1A,"Autoimmune Diseases, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Amyloidosis, Autoimmune thyroid disease",-1.18157099573581,2.26823637978504,DownRegulated
+CFB,"Autoimmune Diseases, Amyloidosis, Autoimmune thyroid disease, Glomerulonephritis",1.17808937867985,2.26276910573341,UpRegulated
+HSPA1B,"Autoimmune Diseases, VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding), Autoimmune thyroid disease",-1.16389266336956,2.24061172048945,DownRegulated
+POTEF,"Autoimmune Diseases, Severe Combined Immunodeficiency",1.15913675461693,2.23323760493036,UpRegulated
+FOXJ1,Autoimmune Diseases,-1.15600371268471,2.22839303626024,DownRegulated
+SDC4,Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504,1.14132435045503,2.20583419178054,UpRegulated
+TICAM1,Hypohidrotic ectodermal dysplasia with immunodeficiency ORPHA:98813,1.12153591819263,2.17578487081678,UpRegulated
+IL23A,"Autoimmune Diseases, Severe Combined Immunodeficiency, Autoimmune thrombocytopenia",1.11927796209597,2.17238222226156,UpRegulated
+LIF,"Autoimmune Diseases, Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome ORPHA:306504",1.11082896010896,2.1596970598353,UpRegulated
+PTAFR,Glomerulonephritis,1.07278441451032,2.10348920532435,UpRegulated
+TNFAIP2,STAT3-related early-onset multisystem autoimmune disease ORPHA:438159,1.05747631385943,2.08128756838752,UpRegulated
