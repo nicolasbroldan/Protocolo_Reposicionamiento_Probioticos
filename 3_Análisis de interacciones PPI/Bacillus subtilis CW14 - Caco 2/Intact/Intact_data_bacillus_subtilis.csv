@@ -1,0 +1,85 @@
+Interactor A Genes,Interactor B Genes,Host organism(s),Confidence value(s),Taxid interactor A,Taxid interactor B,Genes,Log2FoldChange,FoldChange,Regulation
+TNFRSF1A,TNF,Homo sapiens HEK293T embryonic kidney cell,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNFRSF1A,TNF,Homo sapiens HEK293 embryonic kidney cell,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNF,TNFRSF1A,Homo sapiens U937 histiocytic lymphoma cell,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNF,TNFRSF1A,Homo sapiens HT1080 fribrosarcoma cell,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNF,TNFRSF1A,In vitro,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNF,TNFRSF1A,Homo sapiens Jurkat T-cell leukemia cell,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNFRSF1A,TNF,Homo sapiens HeLa epitheloid cervical carcinoma cell,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNFRSF1A,TNF,In vitro,0.94,Homo sapiens,Homo sapiens,TNF,3.88465045591814,14.7705378510313,UpRegulated
+TNIP1,TNFAIP3,in vivo,0.91,Homo sapiens,Homo sapiens,TNFAIP3,2.31160510592693,4.96435093940054,UpRegulated
+TNIP1,TNFAIP3,yeasx,0.91,Homo sapiens,Homo sapiens,TNFAIP3,2.31160510592693,4.96435093940054,UpRegulated
+TNIP1,TNFAIP3,Homo sapiens HEK293T embryonic kidney cell,0.91,Homo sapiens,Homo sapiens,TNFAIP3,2.31160510592693,4.96435093940054,UpRegulated
+TNFAIP3,TNIP1,Homo sapiens HEK293T embryonic kidney cell,0.91,Homo sapiens,Homo sapiens,TNFAIP3,2.31160510592693,4.96435093940054,UpRegulated
+TNFAIP3,TNIP1,yeasx,0.91,Homo sapiens,Homo sapiens,TNFAIP3,2.31160510592693,4.96435093940054,UpRegulated
+FOS,JUNB,Homo sapiens HeLa epitheloid cervical carcinoma cell,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,Homo sapiens retina,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,In vitro,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,Homo sapiens HEK293flp-in embryonic kidney cell,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,Homo sapiens HEK293 embryonic kidney cell,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,in vivo,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,ATF2,yeasx,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,ATF2,Homo sapiens HEK293T embryonic kidney cell,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,Homo sapiens HeLa epitheloid cervical carcinoma cell,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,ATF2,In vitro,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,ATF2,Homo sapiens HCT116 colon carcinoma cell,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUNB,FOS,Chlorocebus aethiops COS-1 cells,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUND,FOS,In vitro,0.93,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUNB,FOS,In vitro,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,Chlorocebus aethiops,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUN,Homo sapiens HEK293T embryonic kidney cell,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUND,Homo sapiens HeLa epitheloid cervical carcinoma cell,0.93,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUN,FOS,Homo sapiens MDA-MB-231 breast adenocarcinoma cell,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUNB,In vitro,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUNB,Cricetulus griseus ovary K1,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUND,Homo sapiens HEK293flp-in embryonic kidney cell,0.93,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUNB,Homo sapiens HEK293flp-in embryonic kidney cell,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUND,Homo sapiens HCT116 colon carcinoma cell,0.93,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUND,Homo sapiens HMLE mammary epithelial cell,0.93,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUNB,Homo sapiens HMLE mammary epithelial cell,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUND,Homo sapiens HEK293T embryonic kidney cell,0.93,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+ATF2,FOS,yeasx,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+ATF2,FOS,In vitro,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUN,FOS,Homo sapiens retina,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUN,FOS,Homo sapiens NAMEC8 mammary epithelial cell line,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUN,FOS,yeasx,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUN,FOS,Homo sapiens HEK293T embryonic kidney cell,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+FOS,JUNB,Homo sapiens HEK293T embryonic kidney cell,0.94,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+JUN,FOS,In vitro,0.97,Homo sapiens,Homo sapiens,FOS,-1.84272770160375,3.58687557757967,DownRegulated
+LRP6,DKK1,In vitro,0.94,Homo sapiens,Homo sapiens,DKK1,-1.39555452271792,2.63089655290664,DownRegulated
+DKK1,LRP6,Homo sapiens HEK293T embryonic kidney cell,0.94,Homo sapiens,Homo sapiens,DKK1,-1.39555452271792,2.63089655290664,DownRegulated
+DKK1,LRP6,Homo sapiens HCT116 colon carcinoma cell,0.94,Homo sapiens,Homo sapiens,DKK1,-1.39555452271792,2.63089655290664,DownRegulated
+DKK1,LRP6,In vitro,0.94,Homo sapiens,Homo sapiens,DKK1,-1.39555452271792,2.63089655290664,DownRegulated
+DKK1,LRP6,Homo sapiens HEK293 embryonic kidney cell,0.94,Homo sapiens,Homo sapiens,DKK1,-1.39555452271792,2.63089655290664,DownRegulated
+NFKBIA,RELA,Homo sapiens keratinocyte,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+RELA,NFKBIA,Homo sapiens MCF-7 mammary adenocarcinoma cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,NFKB1,In vitro,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,IKBKB,Homo sapiens HEK293 embryonic kidney cell,0.97,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,CHUK,Homo sapiens HEK293 embryonic kidney cell,0.95,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,CHUK,Homo sapiens HEK293T embryonic kidney cell,0.95,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,CHUK,In vitro,0.95,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+RELA,NFKBIA,Homo sapiens PC3M prostate adenocarcinoma cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+RELA,NFKBIA,Homo sapiens HEK293 embryonic kidney cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,NFKB1,Homo sapiens,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+RELA,NFKBIA,yeasx,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+RELA,NFKBIA,Homo sapiens HEK293T embryonic kidney cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+RELA,NFKBIA,Homo sapiens HeLa epitheloid cervical carcinoma cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,IKBKB,In vitro,0.97,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,NFKB1,Homo sapiens HeLa epitheloid cervical carcinoma cell,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,NFKB1,Homo sapiens HEK293 embryonic kidney cell,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,yeasx,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKB1,NFKBIA,Homo sapiens HEK293flp-in embryonic kidney cell,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKB1,NFKBIA,yeasx,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKB1,NFKBIA,Homo sapiens HEK293T embryonic kidney cell,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,NFKB1,Homo sapiens HEK293T embryonic kidney cell,0.93,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,In vitro,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,Homo sapiens LCL lymphoblastoid cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+IKBKB,NFKBIA,Homo sapiens DU145 prostate cancer cell,0.97,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+IKBKB,NFKBIA,Homo sapiens A2058 metastatic malignant melanoma cell,0.97,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+CHUK,NFKBIA,In vitro,0.95,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+IKBKB,NFKBIA,In vitro,0.97,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,Homo sapiens HEK293 embryonic kidney cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,Homo sapiens,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,Homo sapiens HEK293T embryonic kidney cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,Homo sapiens MDA-Panc-28 pancreatic adenocarcinoma cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
+NFKBIA,RELA,Homo sapiens HeLa epitheloid cervical carcinoma cell,0.98,Homo sapiens,Homo sapiens,NFKBIA,1.19305978331471,2.28637141297789,UpRegulated
