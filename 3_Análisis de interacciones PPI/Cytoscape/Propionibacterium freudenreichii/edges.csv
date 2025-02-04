@@ -1,0 +1,24 @@
+Source,Target,Interaction,Taxid interactor A,Taxid interactor B
+KIF20A,TTK,pp,Homo sapiens,Homo sapiens
+KIF20A,KIF20A,pp,Homo sapiens,Homo sapiens
+KIF20A,AURKA,pp,Homo sapiens,Homo sapiens
+KIF20A,INCENP,pp,Homo sapiens,Homo sapiens
+KIF20A,HMMR,pp,Homo sapiens,Homo sapiens
+KIF20A,CCNB1,pp,Homo sapiens,Homo sapiens
+KIF20A,KIF15,pp,Homo sapiens,Homo sapiens
+KIF20A,NUF2,pp,Homo sapiens,Homo sapiens
+KIF20A,FAM83D,pp,Homo sapiens,Homo sapiens
+KIF20A,CCNB2,pp,Homo sapiens,Homo sapiens
+KIF20A,PLK1,pp,Homo sapiens,Homo sapiens
+KIF20A,CENPA,pp,Homo sapiens,Homo sapiens
+KIF20A,RACGAP1,pp,Homo sapiens,Homo sapiens
+KIF20A,CCNA2,pp,Homo sapiens,Homo sapiens
+KIF20A,CDCA3,pp,Homo sapiens,Homo sapiens
+KIF20A,NCAPG,pp,Homo sapiens,Homo sapiens
+KIF20A,MKI67,pp,Homo sapiens,Homo sapiens
+OASL,OASL,pp,Homo sapiens,Homo sapiens
+OASL,ISG15,pp,Homo sapiens,Homo sapiens
+OASL,IFIT3,pp,Homo sapiens,Homo sapiens
+OASL,IFI44,pp,Homo sapiens,Homo sapiens
+OASL,RNASEL,pp,Homo sapiens,Homo sapiens
+OASL,IRF7,pp,Homo sapiens,Homo sapiens

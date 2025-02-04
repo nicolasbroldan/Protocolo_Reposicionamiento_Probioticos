@@ -1,0 +1,919 @@
+Source,Target,Interaction,Taxid interactor A,Taxid interactor B
+CCL4,CCL20,pp,Homo sapiens,Homo sapiens
+CCL4,CCL4,pp,Homo sapiens,Homo sapiens
+CCL4,CXCL10,pp,Homo sapiens,Homo sapiens
+CCL4,CSF2,pp,Homo sapiens,Homo sapiens
+CCL4,CSF3,pp,Homo sapiens,Homo sapiens
+CCL4,CX3CL1,pp,Homo sapiens,Homo sapiens
+CCL4,IL1A,pp,Homo sapiens,Homo sapiens
+CCL4,IL1B,pp,Homo sapiens,Homo sapiens
+CCL4,CXCL8,pp,Homo sapiens,Homo sapiens
+CCL4,CCL5,pp,Homo sapiens,Homo sapiens
+CCL4,CXCL11,pp,Homo sapiens,Homo sapiens
+CCL4,CXCL1,pp,Homo sapiens,Homo sapiens
+CCL4,TNF,pp,Homo sapiens,Homo sapiens
+CSF2,CSF2,pp,Homo sapiens,Homo sapiens
+CSF2,CXCL10,pp,Homo sapiens,Homo sapiens
+CSF2,CCL5,pp,Homo sapiens,Homo sapiens
+CSF2,CX3CL1,pp,Homo sapiens,Homo sapiens
+CSF2,CXCL1,pp,Homo sapiens,Homo sapiens
+CSF2,STAT5A,pp,Homo sapiens,Homo sapiens
+CSF2,CSF1,pp,Homo sapiens,Homo sapiens
+CSF2,TNF,pp,Homo sapiens,Homo sapiens
+CSF2,CXCL8,pp,Homo sapiens,Homo sapiens
+CSF2,CSF3,pp,Homo sapiens,Homo sapiens
+CSF2,IL1A,pp,Homo sapiens,Homo sapiens
+CSF2,CCL2,pp,Homo sapiens,Homo sapiens
+CSF2,CCL4,pp,Homo sapiens,Homo sapiens
+CSF2,IL1B,pp,Homo sapiens,Homo sapiens
+CSF3,CSF2,pp,Homo sapiens,Homo sapiens
+CSF3,CSF3,pp,Homo sapiens,Homo sapiens
+CSF3,CCL4,pp,Homo sapiens,Homo sapiens
+CSF3,IL1B,pp,Homo sapiens,Homo sapiens
+CSF3,CCL5,pp,Homo sapiens,Homo sapiens
+CSF3,CX3CL1,pp,Homo sapiens,Homo sapiens
+CSF3,CCL2,pp,Homo sapiens,Homo sapiens
+CSF3,CSF1,pp,Homo sapiens,Homo sapiens
+CSF3,TNF,pp,Homo sapiens,Homo sapiens
+CSF3,CXCL1,pp,Homo sapiens,Homo sapiens
+CSF3,CXCL8,pp,Homo sapiens,Homo sapiens
+CSF3,IL1A,pp,Homo sapiens,Homo sapiens
+CSF3,CXCL10,pp,Homo sapiens,Homo sapiens
+CXCL8,CXCL2,pp,Homo sapiens,Homo sapiens
+CXCL8,CXCL8,pp,Homo sapiens,Homo sapiens
+CXCL8,CXCL5,pp,Homo sapiens,Homo sapiens
+CXCL8,CCL4,pp,Homo sapiens,Homo sapiens
+CXCL8,CXCL10,pp,Homo sapiens,Homo sapiens
+CXCL8,CSF2,pp,Homo sapiens,Homo sapiens
+CXCL8,CCL22,pp,Homo sapiens,Homo sapiens
+CXCL8,CXCL11,pp,Homo sapiens,Homo sapiens
+CXCL8,CSF3,pp,Homo sapiens,Homo sapiens
+CXCL8,CCL2,pp,Homo sapiens,Homo sapiens
+CXCL8,IL1A,pp,Homo sapiens,Homo sapiens
+CXCL8,IL1B,pp,Homo sapiens,Homo sapiens
+CXCL8,ICAM1,pp,Homo sapiens,Homo sapiens
+CXCL8,TNF,pp,Homo sapiens,Homo sapiens
+CXCL8,CCL20,pp,Homo sapiens,Homo sapiens
+CXCL8,CXCL1,pp,Homo sapiens,Homo sapiens
+CXCL8,CCL5,pp,Homo sapiens,Homo sapiens
+CXCL10,CCL22,pp,Homo sapiens,Homo sapiens
+CXCL10,CXCL10,pp,Homo sapiens,Homo sapiens
+CXCL10,CXCL1,pp,Homo sapiens,Homo sapiens
+CXCL10,CXCL8,pp,Homo sapiens,Homo sapiens
+CXCL10,CCL5,pp,Homo sapiens,Homo sapiens
+CXCL10,CXCL11,pp,Homo sapiens,Homo sapiens
+CXCL10,IL1B,pp,Homo sapiens,Homo sapiens
+CXCL10,CXCL2,pp,Homo sapiens,Homo sapiens
+CXCL10,CCL4,pp,Homo sapiens,Homo sapiens
+CXCL10,IL1A,pp,Homo sapiens,Homo sapiens
+CXCL10,CXCL3,pp,Homo sapiens,Homo sapiens
+CXCL10,CXCL5,pp,Homo sapiens,Homo sapiens
+CXCL10,CX3CL1,pp,Homo sapiens,Homo sapiens
+CXCL10,CCL20,pp,Homo sapiens,Homo sapiens
+CXCL10,TNF,pp,Homo sapiens,Homo sapiens
+CXCL10,CCL2,pp,Homo sapiens,Homo sapiens
+CXCL10,CSF2,pp,Homo sapiens,Homo sapiens
+CXCL10,CSF3,pp,Homo sapiens,Homo sapiens
+CCL5,CXCL1,pp,Homo sapiens,Homo sapiens
+CCL5,CCL5,pp,Homo sapiens,Homo sapiens
+CCL5,CCL22,pp,Homo sapiens,Homo sapiens
+CCL5,CXCL11,pp,Homo sapiens,Homo sapiens
+CCL5,CX3CL1,pp,Homo sapiens,Homo sapiens
+CCL5,CSF3,pp,Homo sapiens,Homo sapiens
+CCL5,CCL2,pp,Homo sapiens,Homo sapiens
+CCL5,IL1A,pp,Homo sapiens,Homo sapiens
+CCL5,IL1B,pp,Homo sapiens,Homo sapiens
+CCL5,CXCL2,pp,Homo sapiens,Homo sapiens
+CCL5,TNF,pp,Homo sapiens,Homo sapiens
+CCL5,CCL4,pp,Homo sapiens,Homo sapiens
+CCL5,CSF2,pp,Homo sapiens,Homo sapiens
+CCL5,CXCL10,pp,Homo sapiens,Homo sapiens
+CCL5,CXCL8,pp,Homo sapiens,Homo sapiens
+CCL5,CCL20,pp,Homo sapiens,Homo sapiens
+CCL5,CXCL5,pp,Homo sapiens,Homo sapiens
+TNF,CXCL8,pp,Homo sapiens,Homo sapiens
+TNF,TNF,pp,Homo sapiens,Homo sapiens
+TNF,TNFAIP3,pp,Homo sapiens,Homo sapiens
+TNF,ICAM1,pp,Homo sapiens,Homo sapiens
+TNF,BIRC3,pp,Homo sapiens,Homo sapiens
+TNF,CCL2,pp,Homo sapiens,Homo sapiens
+TNF,IL1B,pp,Homo sapiens,Homo sapiens
+TNF,IL1A,pp,Homo sapiens,Homo sapiens
+TNF,CCL4,pp,Homo sapiens,Homo sapiens
+TNF,CSF3,pp,Homo sapiens,Homo sapiens
+TNF,NFKBIA,pp,Homo sapiens,Homo sapiens
+TNF,CXCL2,pp,Homo sapiens,Homo sapiens
+TNF,CXCL1,pp,Homo sapiens,Homo sapiens
+TNF,CXCL10,pp,Homo sapiens,Homo sapiens
+TNF,CSF2,pp,Homo sapiens,Homo sapiens
+TNF,CD83,pp,Homo sapiens,Homo sapiens
+TNF,CCL5,pp,Homo sapiens,Homo sapiens
+TNF,CCL20,pp,Homo sapiens,Homo sapiens
+CX3CL1,CCL4,pp,Homo sapiens,Homo sapiens
+CX3CL1,CX3CL1,pp,Homo sapiens,Homo sapiens
+CX3CL1,CSF2,pp,Homo sapiens,Homo sapiens
+CX3CL1,CSF3,pp,Homo sapiens,Homo sapiens
+CX3CL1,CCL5,pp,Homo sapiens,Homo sapiens
+CX3CL1,CXCL10,pp,Homo sapiens,Homo sapiens
+CX3CL1,CXCL1,pp,Homo sapiens,Homo sapiens
+CX3CL1,CCL20,pp,Homo sapiens,Homo sapiens
+CXCL2,CCL5,pp,Homo sapiens,Homo sapiens
+CXCL2,CXCL2,pp,Homo sapiens,Homo sapiens
+CXCL2,CXCL3,pp,Homo sapiens,Homo sapiens
+CXCL2,IL1B,pp,Homo sapiens,Homo sapiens
+CXCL2,IL1A,pp,Homo sapiens,Homo sapiens
+CXCL2,CCL20,pp,Homo sapiens,Homo sapiens
+CXCL2,CXCL1,pp,Homo sapiens,Homo sapiens
+CXCL2,CXCL11,pp,Homo sapiens,Homo sapiens
+CXCL2,TNF,pp,Homo sapiens,Homo sapiens
+CXCL2,CCL2,pp,Homo sapiens,Homo sapiens
+CXCL2,CXCL5,pp,Homo sapiens,Homo sapiens
+CXCL2,CXCL10,pp,Homo sapiens,Homo sapiens
+CXCL2,CXCL8,pp,Homo sapiens,Homo sapiens
+CXCL5,CXCL2,pp,Homo sapiens,Homo sapiens
+CXCL5,CXCL5,pp,Homo sapiens,Homo sapiens
+CXCL5,CXCL11,pp,Homo sapiens,Homo sapiens
+CXCL5,CCL20,pp,Homo sapiens,Homo sapiens
+CXCL5,CXCL10,pp,Homo sapiens,Homo sapiens
+CXCL5,CXCL8,pp,Homo sapiens,Homo sapiens
+CXCL5,CCL5,pp,Homo sapiens,Homo sapiens
+CXCL5,CXCL3,pp,Homo sapiens,Homo sapiens
+CXCL5,CXCL1,pp,Homo sapiens,Homo sapiens
+CSF1,CSF1,pp,Homo sapiens,Homo sapiens
+CSF1,CSF3,pp,Homo sapiens,Homo sapiens
+CSF1,CSF2,pp,Homo sapiens,Homo sapiens
+CXCL11,CCL4,pp,Homo sapiens,Homo sapiens
+CXCL11,CXCL11,pp,Homo sapiens,Homo sapiens
+CXCL11,CCL5,pp,Homo sapiens,Homo sapiens
+CXCL11,CXCL10,pp,Homo sapiens,Homo sapiens
+CXCL11,CXCL1,pp,Homo sapiens,Homo sapiens
+CXCL11,CCL20,pp,Homo sapiens,Homo sapiens
+CXCL11,CXCL2,pp,Homo sapiens,Homo sapiens
+CXCL11,CXCL8,pp,Homo sapiens,Homo sapiens
+CXCL11,CXCL3,pp,Homo sapiens,Homo sapiens
+CXCL11,CXCL5,pp,Homo sapiens,Homo sapiens
+CXCL1,CXCL1,pp,Homo sapiens,Homo sapiens
+CXCL1,CXCL2,pp,Homo sapiens,Homo sapiens
+CXCL1,CCL5,pp,Homo sapiens,Homo sapiens
+CXCL1,IL1A,pp,Homo sapiens,Homo sapiens
+CXCL1,TNF,pp,Homo sapiens,Homo sapiens
+CXCL1,CCL4,pp,Homo sapiens,Homo sapiens
+CXCL1,CCL20,pp,Homo sapiens,Homo sapiens
+CXCL1,CXCL11,pp,Homo sapiens,Homo sapiens
+CXCL1,CSF2,pp,Homo sapiens,Homo sapiens
+CXCL1,CXCL8,pp,Homo sapiens,Homo sapiens
+CXCL1,CXCL10,pp,Homo sapiens,Homo sapiens
+CXCL1,CXCL5,pp,Homo sapiens,Homo sapiens
+CXCL1,CCL2,pp,Homo sapiens,Homo sapiens
+CXCL1,CXCL3,pp,Homo sapiens,Homo sapiens
+CXCL1,CCL22,pp,Homo sapiens,Homo sapiens
+CXCL1,IL1B,pp,Homo sapiens,Homo sapiens
+CXCL1,CX3CL1,pp,Homo sapiens,Homo sapiens
+CXCL1,CSF3,pp,Homo sapiens,Homo sapiens
+CYP1B1,CYP1B1,pp,Homo sapiens,Homo sapiens
+CYP1B1,CYP1A1,pp,Homo sapiens,Homo sapiens
+CCL2,CCL20,pp,Homo sapiens,Homo sapiens
+CCL2,CCL2,pp,Homo sapiens,Homo sapiens
+CCL2,CCL5,pp,Homo sapiens,Homo sapiens
+CCL2,CCL22,pp,Homo sapiens,Homo sapiens
+CCL2,CSF3,pp,Homo sapiens,Homo sapiens
+CCL2,ICAM1,pp,Homo sapiens,Homo sapiens
+CCL2,CXCL2,pp,Homo sapiens,Homo sapiens
+CCL2,CSF2,pp,Homo sapiens,Homo sapiens
+CCL2,IL1A,pp,Homo sapiens,Homo sapiens
+CCL2,CXCL10,pp,Homo sapiens,Homo sapiens
+CCL2,CXCL1,pp,Homo sapiens,Homo sapiens
+CCL2,IL1B,pp,Homo sapiens,Homo sapiens
+CCL2,TNF,pp,Homo sapiens,Homo sapiens
+CCL2,CXCL8,pp,Homo sapiens,Homo sapiens
+BIRC3,TNFAIP3,pp,Homo sapiens,Homo sapiens
+BIRC3,BIRC3,pp,Homo sapiens,Homo sapiens
+BIRC3,TNF,pp,Homo sapiens,Homo sapiens
+CCL22,CCL22,pp,Homo sapiens,Homo sapiens
+CCL22,CCL5,pp,Homo sapiens,Homo sapiens
+CCL22,CXCL8,pp,Homo sapiens,Homo sapiens
+CCL22,CCL2,pp,Homo sapiens,Homo sapiens
+CCL22,CXCL1,pp,Homo sapiens,Homo sapiens
+CCL22,CXCL10,pp,Homo sapiens,Homo sapiens
+TNFAIP3,TNF,pp,Homo sapiens,Homo sapiens
+TNFAIP3,TNFAIP3,pp,Homo sapiens,Homo sapiens
+TNFAIP3,BIRC3,pp,Homo sapiens,Homo sapiens
+TNF,TNFRSF1A,pp,Homo sapiens,Homo sapiens
+TNFAIP3,TNIP1,pp,Homo sapiens,Homo sapiens
+CCL4,Inflammatory Response (GO:0006954),association,,
+CCL4,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CCL4,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CCL4,Cellular Response To Chemokine (GO:1990869),association,,
+CCL4,Neutrophil Chemotaxis (GO:0030593),association,,
+CCL4,Granulocyte Chemotaxis (GO:0071621),association,,
+CCL4,Neutrophil Migration (GO:1990266),association,,
+CCL4,Lymphocyte Chemotaxis (GO:0048247),association,,
+CCL4,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+CCL4,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CCL4,Cellular Response To Interleukin-1 (GO:0071347),association,,
+CCL4,Response To Interleukin-1 (GO:0070555),association,,
+CCL4,Cellular Response To Type II Interferon (GO:0071346),association,,
+CCL4,Lymphocyte Migration (GO:0072676),association,,
+CCL4,Monocyte Chemotaxis (GO:0002548),association,,
+CCL4,Eosinophil Chemotaxis (GO:0048245),association,,
+CCL4,Eosinophil Migration (GO:0072677),association,,
+CCL4,Response To Tumor Necrosis Factor (GO:0034612),association,,
+CCL4,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+CCL4,Positive Regulation Of MAPK Cascade (GO:0043410),association,,
+CCL4,Response To Type II Interferon (GO:0034341),association,,
+CCL4,Positive Regulation Of ERK1 And ERK2 Cascade (GO:0070374),association,,
+CCL4,Regulation Of ERK1 And ERK2 Cascade (GO:0070372),association,,
+CCL4,Regulation Of Natural Killer Cell Chemotaxis (GO:2000501),association,,
+CCL4,Positive Regulation Of Calcium Ion Transport (GO:0051928),association,,
+CCL4,Positive Regulation Of GTPase Activity (GO:0043547),association,,
+CCL4,Positive Regulation Of Hydrolase Activity (GO:0051345),association,,
+CCL4,Negative Regulation By Host Of Viral Transcription (GO:0043922),association,,
+CCL4,Regulation Of GTPase Activity (GO:0043087),association,,
+CCL4,Positive Regulation Of Lymphocyte Chemotaxis (GO:0140131),association,,
+CSF2,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CSF2,Negative Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001237),association,,
+CSF2,Negative Regulation Of Extrinsic Apoptotic Signaling Pathway In Absence Of Ligand (GO:2001240),association,,
+CSF2,Negative Regulation Of Signal Transduction In Absence Of Ligand (GO:1901099),association,,
+CSF2,Regulation Of Extrinsic Apoptotic Signaling Pathway In Absence Of Ligand (GO:2001239),association,,
+CSF2,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CSF2,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CSF2,Positive Regulation Of Macromolecule Metabolic Process (GO:0010604),association,,
+CSF2,Positive Regulation Of Cytokine Production (GO:0001819),association,,
+CSF2,Positive Regulation Of Gene Expression (GO:0010628),association,,
+CSF2,Positive Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042531),association,,
+CSF2,Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042509),association,,
+CSF2,Positive Regulation Of Peptidyl-Tyrosine Phosphorylation (GO:0050731),association,,
+CSF2,Macrophage Differentiation (GO:0030225),association,,
+CSF2,Positive Regulation Of Podosome Assembly (GO:0071803),association,,
+CSF2,Positive Regulation Of Cell Population Proliferation (GO:0008284),association,,
+CSF2,Regulation Of Macrophage Derived Foam Cell Differentiation (GO:0010743),association,,
+CSF2,Regulation Of Podosome Assembly (GO:0071801),association,,
+CSF2,Myeloid Leukocyte Differentiation (GO:0002573),association,,
+CSF2,Positive Regulation Of Cellular Process (GO:0048522),association,,
+CSF2,Positive Regulation Of Leukocyte Proliferation (GO:0070665),association,,
+CSF2,Positive Regulation Of Macrophage Derived Foam Cell Differentiation (GO:0010744),association,,
+CSF2,Positive Regulation Of Organelle Assembly (GO:1902117),association,,
+CSF2,Regulation Of Gene Expression (GO:0010468),association,,
+CSF2,Negative Regulation Of DNA-templated Transcription (GO:0045892),association,,
+CSF3,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CSF3,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CSF3,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CSF3,Cellular Response To Organic Substance (GO:0071310),association,,
+CSF3,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+CSF3,Positive Regulation Of Myeloid Cell Differentiation (GO:0045639),association,,
+CSF3,Positive Regulation Of Peptidyl-Tyrosine Phosphorylation (GO:0050731),association,,
+CSF3,Positive Regulation Of Cell Population Proliferation (GO:0008284),association,,
+CSF3,Regulation Of Myeloid Cell Differentiation (GO:0045637),association,,
+CSF3,Myeloid Leukocyte Differentiation (GO:0002573),association,,
+CSF3,Positive Regulation Of DNA-binding Transcription Factor Activity (GO:0051091),association,,
+CSF3,Positive Regulation Of Cellular Process (GO:0048522),association,,
+CSF3,Granulocyte Differentiation (GO:0030851),association,,
+CSF3,Regulation Of Peptidyl-Serine Phosphorylation (GO:0033135),association,,
+CSF3,Positive Regulation Of Protein Kinase B Signaling (GO:0051897),association,,
+CSF3,Positive Regulation Of Transcription By RNA Polymerase II (GO:0045944),association,,
+CSF3,Positive Regulation Of DNA-templated Transcription (GO:0045893),association,,
+CXCL8,Inflammatory Response (GO:0006954),association,,
+CXCL8,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CXCL8,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CXCL8,Cellular Response To Chemokine (GO:1990869),association,,
+CXCL8,Neutrophil Chemotaxis (GO:0030593),association,,
+CXCL8,Granulocyte Chemotaxis (GO:0071621),association,,
+CXCL8,Neutrophil Migration (GO:1990266),association,,
+CXCL8,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CXCL8,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+CXCL8,Cellular Response To Lipid (GO:0071396),association,,
+CXCL8,Response To Lipopolysaccharide (GO:0032496),association,,
+CXCL8,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+CXCL8,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CXCL8,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CXCL8,Cellular Response To Interleukin-1 (GO:0071347),association,,
+CXCL8,Response To Interleukin-1 (GO:0070555),association,,
+CXCL8,Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),association,,
+CXCL8,Response To Tumor Necrosis Factor (GO:0034612),association,,
+CXCL8,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+CXCL8,Positive Regulation Of Macromolecule Metabolic Process (GO:0010604),association,,
+CXCL8,Antimicrobial Humoral Response (GO:0019730),association,,
+CXCL8,Negative Regulation Of Cell Population Proliferation (GO:0008285),association,,
+CXCL8,Negative Regulation Of Signal Transduction (GO:0009968),association,,
+CXCL8,Positive Regulation Of Gene Expression (GO:0010628),association,,
+CXCL8,Positive Regulation Of Vasculature Development (GO:1904018),association,,
+CXCL8,Regulation Of Angiogenesis (GO:0045765),association,,
+CXCL8,Positive Regulation Of Angiogenesis (GO:0045766),association,,
+CXCL8,Negative Regulation Of Cellular Process (GO:0048523),association,,
+CXCL8,Negative Regulation Of G Protein-Coupled Receptor Signaling Pathway (GO:0045744),association,,
+CXCL8,Regulation Of Cell Adhesion Molecule Production (GO:0060353),association,,
+CXCL8,Regulation Of RNA Biosynthetic Process (GO:2001141),association,,
+CXCL8,Response To Molecule Of Bacterial Origin (GO:0002237),association,,
+CXCL8,Digestive Tract Development (GO:0048565),association,,
+CXCL8,Granulocyte Activation (GO:0036230),association,,
+CXCL8,Regulation Of Cell Adhesion (GO:0030155),association,,
+CXCL8,Neutrophil Activation (GO:0042119),association,,
+CXCL8,Positive Regulation Of Cellular Metabolic Process (GO:0031325),association,,
+CXCL8,Positive Regulation Of Cellular Biosynthetic Process (GO:0031328),association,,
+CXCL8,Response To Fibroblast Growth Factor (GO:0071774),association,,
+CXCL8,Negative Regulation Of Gene Expression (GO:0010629),association,,
+CXCL8,Regulation Of Gene Expression (GO:0010468),association,,
+CXCL8,Regulation Of Viral Genome Replication (GO:0045069),association,,
+CXCL10,Inflammatory Response (GO:0006954),association,,
+CXCL10,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CXCL10,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CXCL10,Cellular Response To Chemokine (GO:1990869),association,,
+CXCL10,Neutrophil Chemotaxis (GO:0030593),association,,
+CXCL10,Granulocyte Chemotaxis (GO:0071621),association,,
+CXCL10,Neutrophil Migration (GO:1990266),association,,
+CXCL10,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CXCL10,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+CXCL10,Lymphocyte Chemotaxis (GO:0048247),association,,
+CXCL10,Cellular Response To Lipid (GO:0071396),association,,
+CXCL10,Response To Lipopolysaccharide (GO:0032496),association,,
+CXCL10,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CXCL10,Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),association,,
+CXCL10,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+CXCL10,Antimicrobial Humoral Response (GO:0019730),association,,
+CXCL10,Regulation Of Angiogenesis (GO:0045765),association,,
+CXCL10,Positive Regulation Of Lymphocyte Migration (GO:2000403),association,,
+CXCL10,Regulation Of T Cell Migration (GO:2000404),association,,
+CXCL10,Positive Regulation Of Leukocyte Chemotaxis (GO:0002690),association,,
+CXCL10,Positive Regulation Of T Cell Migration (GO:2000406),association,,
+CXCL10,Positive Regulation Of Mononuclear Cell Migration (GO:0071677),association,,
+CXCL10,Positive Regulation Of Release Of Sequestered Calcium Ion Into Cytosol (GO:0051281),association,,
+CXCL10,T Cell Chemotaxis (GO:0010818),association,,
+CXCL10,Positive Regulation Of Calcium Ion Transmembrane Transport (GO:1904427),association,,
+CXCL10,Regulation Of Apoptotic Process (GO:0042981),association,,
+CXCL10,Regulation Of T Cell Chemotaxis (GO:0010819),association,,
+CXCL10,Positive Regulation Of Transcription By RNA Polymerase II (GO:0045944),association,,
+CXCL10,Regulation Of Release Of Sequestered Calcium Ion Into Cytosol (GO:0051279),association,,
+CXCL10,T Cell Migration (GO:0072678),association,,
+CXCL10,Positive Regulation Of Monocyte Chemotaxis (GO:0090026),association,,
+CXCL10,Positive Regulation Of DNA-templated Transcription (GO:0045893),association,,
+CCL5,Inflammatory Response (GO:0006954),association,,
+CCL5,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CCL5,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CCL5,Cellular Response To Chemokine (GO:1990869),association,,
+CCL5,Neutrophil Chemotaxis (GO:0030593),association,,
+CCL5,Granulocyte Chemotaxis (GO:0071621),association,,
+CCL5,Neutrophil Migration (GO:1990266),association,,
+CCL5,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CCL5,Lymphocyte Chemotaxis (GO:0048247),association,,
+CCL5,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+CCL5,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CCL5,Cellular Response To Interleukin-1 (GO:0071347),association,,
+CCL5,Cellular Response To Organic Substance (GO:0071310),association,,
+CCL5,Positive Regulation Of Response To External Stimulus (GO:0032103),association,,
+CCL5,Response To Interleukin-1 (GO:0070555),association,,
+CCL5,Lipopolysaccharide-Mediated Signaling Pathway (GO:0031663),association,,
+CCL5,Cellular Response To Type II Interferon (GO:0071346),association,,
+CCL5,Lymphocyte Migration (GO:0072676),association,,
+CCL5,Monocyte Chemotaxis (GO:0002548),association,,
+CCL5,Eosinophil Chemotaxis (GO:0048245),association,,
+CCL5,Eosinophil Migration (GO:0072677),association,,
+CCL5,Response To Tumor Necrosis Factor (GO:0034612),association,,
+CCL5,Cellular Response To Organic Cyclic Compound (GO:0071407),association,,
+CCL5,Regulation Of Smooth Muscle Cell Proliferation (GO:0048660),association,,
+CCL5,Positive Regulation Of Defense Response (GO:0031349),association,,
+CCL5,Response To Organic Cyclic Compound (GO:0014070),association,,
+CCL5,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+CCL5,Positive Regulation Of Macrophage Migration (GO:1905523),association,,
+CCL5,Regulation Of Inflammatory Response (GO:0050727),association,,
+CCL5,Positive Regulation Of MAPK Cascade (GO:0043410),association,,
+CCL5,Regulation Of Mononuclear Cell Migration (GO:0071675),association,,
+CCL5,Positive Regulation Of Cell-Cell Adhesion (GO:0022409),association,,
+CCL5,Negative Regulation Of Signal Transduction (GO:0009968),association,,
+CCL5,Positive Regulation Of Smooth Muscle Cell Proliferation (GO:0048661),association,,
+CCL5,Response To Type II Interferon (GO:0034341),association,,
+CCL5,Protein Kinase B Signaling (GO:0043491),association,,
+CCL5,Positive Regulation Of ERK1 And ERK2 Cascade (GO:0070374),association,,
+CCL5,Positive Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042531),association,,
+CCL5,Regulation Of ERK1 And ERK2 Cascade (GO:0070372),association,,
+CCL5,Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042509),association,,
+CCL5,Positive Regulation Of Macrophage Chemotaxis (GO:0010759),association,,
+CCL5,Positive Regulation Of Lymphocyte Migration (GO:2000403),association,,
+CCL5,Positive Regulation Of Peptidyl-Tyrosine Phosphorylation (GO:0050731),association,,
+CCL5,Regulation Of Granulocyte Chemotaxis (GO:0071622),association,,
+CCL5,Regulation Of Macrophage Chemotaxis (GO:0010758),association,,
+CCL5,Negative Regulation Of G Protein-Coupled Receptor Signaling Pathway (GO:0045744),association,,
+CCL5,Positive Regulation Of Cell Population Proliferation (GO:0008284),association,,
+CCL5,Regulation Of T Cell Migration (GO:2000404),association,,
+CCL5,Positive Regulation Of Leukocyte Chemotaxis (GO:0002690),association,,
+CCL5,Positive Regulation Of T Cell Migration (GO:2000406),association,,
+CCL5,Regulation Of Natural Killer Cell Chemotaxis (GO:2000501),association,,
+CCL5,Positive Regulation Of Activation Of Janus Kinase Activity (GO:0010536),association,,
+CCL5,Regulation Of Activation Of Janus Kinase Activity (GO:0010533),association,,
+CCL5,Positive Regulation Of Calcium Ion Transport (GO:0051928),association,,
+CCL5,Positive Regulation Of GTPase Activity (GO:0043547),association,,
+CCL5,Positive Regulation Of Mononuclear Cell Migration (GO:0071677),association,,
+CCL5,Positive Regulation Of Hydrolase Activity (GO:0051345),association,,
+CCL5,Regulation Of T Cell Proliferation (GO:0042129),association,,
+CCL5,Regulation Of Innate Immune Response (GO:0045088),association,,
+CCL5,Positive Regulation Of Receptor Signaling Pathway Via JAK-STAT (GO:0046427),association,,
+CCL5,Positive Regulation Of Receptor Signaling Pathway Via STAT (GO:1904894),association,,
+CCL5,Macrophage Chemotaxis (GO:0048246),association,,
+CCL5,Positive Regulation Of Cellular Process (GO:0048522),association,,
+CCL5,Granulocyte Activation (GO:0036230),association,,
+CCL5,Macrophage Migration (GO:1905517),association,,
+CCL5,Negative Regulation By Host Of Viral Transcription (GO:0043922),association,,
+CCL5,Regulation Of Cell Migration (GO:0030334),association,,
+CCL5,Positive Regulation Of Cell Adhesion (GO:0045785),association,,
+CCL5,Regulation Of Cell Adhesion (GO:0030155),association,,
+CCL5,Regulation Of T Cell Chemotaxis (GO:0010819),association,,
+CCL5,Regulation Of GTPase Activity (GO:0043087),association,,
+CCL5,Positive Regulation Of Cell Motility (GO:2000147),association,,
+CCL5,MAPK Cascade (GO:0000165),association,,
+CCL5,Positive Regulation Of Smooth Muscle Cell Migration (GO:0014911),association,,
+CCL5,Regulation Of Protein Secretion (GO:0050708),association,,
+CCL5,Regulation Of Peptide Hormone Secretion (GO:0090276),association,,
+CCL5,Regulation Of Receptor Signaling Pathway Via JAK-STAT (GO:0046425),association,,
+CCL5,Positive Regulation Of Cell Adhesion Mediated By Integrin (GO:0033630),association,,
+CCL5,Positive Regulation Of Lymphocyte Chemotaxis (GO:0140131),association,,
+CCL5,Positive Regulation Of T Cell Activation (GO:0050870),association,,
+CCL5,Neutrophil Activation (GO:0042119),association,,
+CCL5,Positive Regulation Of Monocyte Chemotaxis (GO:0090026),association,,
+CCL5,Positive Regulation Of Cellular Metabolic Process (GO:0031325),association,,
+CCL5,Positive Regulation Of Cellular Biosynthetic Process (GO:0031328),association,,
+CCL5,Regulation Of Smooth Muscle Cell Migration (GO:0014910),association,,
+CCL5,Response To Fibroblast Growth Factor (GO:0071774),association,,
+CCL5,Positive Regulation Of T Cell Proliferation (GO:0042102),association,,
+CCL5,Regulation Of Viral Genome Replication (GO:0045069),association,,
+TNF,Inflammatory Response (GO:0006954),association,,
+TNF,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+TNF,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+TNF,Negative Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001237),association,,
+TNF,Negative Regulation Of Extrinsic Apoptotic Signaling Pathway In Absence Of Ligand (GO:2001240),association,,
+TNF,Negative Regulation Of Signal Transduction In Absence Of Ligand (GO:1901099),association,,
+TNF,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+TNF,Regulation Of Extrinsic Apoptotic Signaling Pathway In Absence Of Ligand (GO:2001239),association,,
+TNF,Cellular Response To Organic Substance (GO:0071310),association,,
+TNF,Positive Regulation Of Response To External Stimulus (GO:0032103),association,,
+TNF,Lipopolysaccharide-Mediated Signaling Pathway (GO:0031663),association,,
+TNF,Cellular Response To Organic Cyclic Compound (GO:0071407),association,,
+TNF,Positive Regulation Of Macromolecule Metabolic Process (GO:0010604),association,,
+TNF,Regulation Of Smooth Muscle Cell Proliferation (GO:0048660),association,,
+TNF,Positive Regulation Of Defense Response (GO:0031349),association,,
+TNF,Response To Organic Cyclic Compound (GO:0014070),association,,
+TNF,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+TNF,Regulation Of Inflammatory Response (GO:0050727),association,,
+TNF,Positive Regulation Of Inflammatory Response (GO:0050729),association,,
+TNF,Positive Regulation Of MAPK Cascade (GO:0043410),association,,
+TNF,Regulation Of Endothelial Cell Apoptotic Process (GO:2000351),association,,
+TNF,Positive Regulation Of Cytokine Production (GO:0001819),association,,
+TNF,Regulation Of Mononuclear Cell Migration (GO:0071675),association,,
+TNF,Positive Regulation Of Cell-Cell Adhesion (GO:0022409),association,,
+TNF,Negative Regulation Of Signal Transduction (GO:0009968),association,,
+TNF,Positive Regulation Of Smooth Muscle Cell Proliferation (GO:0048661),association,,
+TNF,Protein Kinase B Signaling (GO:0043491),association,,
+TNF,Positive Regulation Of Gene Expression (GO:0010628),association,,
+TNF,Positive Regulation Of ERK1 And ERK2 Cascade (GO:0070374),association,,
+TNF,Positive Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042531),association,,
+TNF,Regulation Of ERK1 And ERK2 Cascade (GO:0070372),association,,
+TNF,Positive Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001238),association,,
+TNF,Positive Regulation Of Protein Metabolic Process (GO:0051247),association,,
+TNF,Regulation Of Tyrosine Phosphorylation Of STAT Protein (GO:0042509),association,,
+TNF,Negative Regulation Of Interleukin-6 Production (GO:0032715),association,,
+TNF,Negative Regulation Of Apoptotic Process (GO:0043066),association,,
+TNF,Regulation Of Interleukin-6 Production (GO:0032675),association,,
+TNF,Positive Regulation Of Myeloid Leukocyte Differentiation (GO:0002763),association,,
+TNF,Regulation Of Osteoclast Differentiation (GO:0045670),association,,
+TNF,Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043122),association,,
+TNF,Positive Regulation Of Leukocyte Cell-Cell Adhesion (GO:1903039),association,,
+TNF,Positive Regulation Of Osteoclast Differentiation (GO:0045672),association,,
+TNF,Regulation Of NIK/NF-kappaB Signaling (GO:1901222),association,,
+TNF,Positive Regulation Of Peptidyl-Tyrosine Phosphorylation (GO:0050731),association,,
+TNF,Positive Regulation Of I-kappaB Phosphorylation (GO:1903721),association,,
+TNF,Positive Regulation Of Podosome Assembly (GO:0071803),association,,
+TNF,Regulation Of Calcidiol 1-Monooxygenase Activity (GO:0060558),association,,
+TNF,Positive Regulation Of NIK/NF-kappaB Signaling (GO:1901224),association,,
+TNF,Positive Regulation Of Cell Population Proliferation (GO:0008284),association,,
+TNF,Regulation Of Blood Vessel Endothelial Cell Migration (GO:0043535),association,,
+TNF,Negative Regulation Of Cell Junction Assembly (GO:1901889),association,,
+TNF,Positive Regulation Of NF-kappaB Transcription Factor Activity (GO:0051092),association,,
+TNF,Regulation Of I-kappaB Phosphorylation (GO:1903719),association,,
+TNF,Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001236),association,,
+TNF,Positive Regulation Of Interleukin-8 Production (GO:0032757),association,,
+TNF,Regulation Of Nitric-Oxide Synthase Activity (GO:0050999),association,,
+TNF,Regulation Of Vascular Wound Healing (GO:0061043),association,,
+TNF,Positive Regulation Of Leukocyte Migration (GO:0002687),association,,
+TNF,Positive Regulation Of Mononuclear Cell Migration (GO:0071677),association,,
+TNF,Regulation Of Endothelial Cell Development (GO:1901550),association,,
+TNF,Regulation Of Glial Cell Proliferation (GO:0060251),association,,
+TNF,Regulation Of Podosome Assembly (GO:0071801),association,,
+TNF,Positive Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043123),association,,
+TNF,Negative Regulation Of Cytokine Production (GO:0001818),association,,
+TNF,Positive Regulation Of Nitrogen Compound Metabolic Process (GO:0051173),association,,
+TNF,Positive Regulation Of DNA-binding Transcription Factor Activity (GO:0051091),association,,
+TNF,Negative Regulation Of Lipid Localization (GO:1905953),association,,
+TNF,Positive Regulation Of Receptor Signaling Pathway Via JAK-STAT (GO:0046427),association,,
+TNF,Positive Regulation Of Receptor Signaling Pathway Via STAT (GO:1904894),association,,
+TNF,Positive Regulation Of Catabolic Process (GO:0009896),association,,
+TNF,Negative Regulation Of Cellular Component Organization (GO:0051129),association,,
+TNF,Tumor Necrosis Factor-Mediated Signaling Pathway (GO:0033209),association,,
+TNF,Regulation Of Interleukin-8 Production (GO:0032677),association,,
+TNF,Digestive Tract Development (GO:0048565),association,,
+TNF,Negative Regulation Of Apoptotic Signaling Pathway (GO:2001234),association,,
+TNF,Positive Regulation Of Cellular Process (GO:0048522),association,,
+TNF,Positive Regulation Of Neuroinflammatory Response (GO:0150078),association,,
+TNF,Positive Regulation Of Cell Adhesion (GO:0045785),association,,
+TNF,Regulation Of Cell Adhesion (GO:0030155),association,,
+TNF,Positive Regulation Of miRNA Transcription (GO:1902895),association,,
+TNF,Positive Regulation Of Cellular Catabolic Process (GO:0031331),association,,
+TNF,Regulation Of Apoptotic Process (GO:0042981),association,,
+TNF,Positive Regulation Of MAP Kinase Activity (GO:0043406),association,,
+TNF,Positive Regulation Of Protein Catabolic Process (GO:0045732),association,,
+TNF,Regulation Of Peptidyl-Serine Phosphorylation (GO:0033135),association,,
+TNF,Positive Regulation Of Protein Kinase B Signaling (GO:0051897),association,,
+TNF,Positive Regulation Of Acute Inflammatory Response (GO:0002675),association,,
+TNF,Positive Regulation Of Heterotypic Cell-Cell Adhesion (GO:0034116),association,,
+TNF,Positive Regulation Of Membrane Protein Ectodomain Proteolysis (GO:0051044),association,,
+TNF,Positive Regulation Of miRNA Metabolic Process (GO:2000630),association,,
+TNF,MAPK Cascade (GO:0000165),association,,
+TNF,Positive Regulation Of Transcription By RNA Polymerase II (GO:0045944),association,,
+TNF,Negative Regulation Of Multicellular Organismal Process (GO:0051241),association,,
+TNF,Regulation Of Establishment Of Endothelial Barrier (GO:1903140),association,,
+TNF,Regulation Of Protein Secretion (GO:0050708),association,,
+TNF,Regulation Of Peptide Hormone Secretion (GO:0090276),association,,
+TNF,Regulation Of Receptor Signaling Pathway Via JAK-STAT (GO:0046425),association,,
+TNF,Regulation Of Neuron Apoptotic Process (GO:0043523),association,,
+TNF,Positive Regulation Of Leukocyte Adhesion To Vascular Endothelial Cell (GO:1904996),association,,
+TNF,Regulation Of Synaptic Transmission,association,,
+TNF,Glutamatergic (GO:0051966),association,,
+TNF,Negative Regulation Of Lipid Catabolic Process (GO:0050995),association,,
+TNF,Negative Regulation Of Lipid Storage (GO:0010888),association,,
+TNF,Negative Regulation Of Nervous System Development (GO:0051961),association,,
+TNF,Positive Regulation Of Cytokine Production Involved In Inflammatory Response (GO:1900017),association,,
+TNF,Positive Regulation Of Cellular Biosynthetic Process (GO:0031328),association,,
+TNF,Regulation Of Neuroinflammatory Response (GO:0150077),association,,
+TNF,Regulation Of miRNA Transcription (GO:1902893),association,,
+TNF,Regulation Of MAP Kinase Activity (GO:0043405),association,,
+TNF,Positive Regulation Of Phagocytosis (GO:0050766),association,,
+TNF,Microglial Cell Activation (GO:0001774),association,,
+TNF,Positive Regulation Of Organelle Assembly (GO:1902117),association,,
+TNF,Negative Regulation Of Gene Expression (GO:0010629),association,,
+TNF,Positive Regulation Of Apoptotic Signaling Pathway (GO:2001235),association,,
+TNF,Regulation Of Lipid Storage (GO:0010883),association,,
+TNF,Regulation Of Membrane Protein Ectodomain Proteolysis (GO:0051043),association,,
+TNF,Negative Regulation Of Cell Development (GO:0010721),association,,
+TNF,Modulation Of Chemical Synaptic Transmission (GO:0050804),association,,
+TNF,Regulation Of Gene Expression (GO:0010468),association,,
+TNF,Negative Regulation Of DNA-templated Transcription (GO:0045892),association,,
+TNF,Regulation Of Lipid Catabolic Process (GO:0050994),association,,
+TNF,Regulation Of Neurogenesis (GO:0050767),association,,
+TNF,Regulation Of Viral Genome Replication (GO:0045069),association,,
+TNF,Positive Regulation Of DNA-templated Transcription (GO:0045893),association,,
+PLAU,Positive Regulation Of Response To External Stimulus (GO:0032103),association,,
+PLAU,Regulation Of Cell-Matrix Adhesion (GO:0001952),association,,
+PLAU,Negative Regulation Of Protein Processing (GO:0010955),association,,
+PLAU,Negative Regulation Of Plasminogen Activation (GO:0010757),association,,
+PLAU,Regulation Of Cell Adhesion Mediated By Integrin (GO:0033628),association,,
+PLAU,Negative Regulation Of Fibrinolysis (GO:0051918),association,,
+PLAU,Regulation Of Cell Migration (GO:0030334),association,,
+PLAU,Regulation Of Cell Adhesion (GO:0030155),association,,
+PLAU,Positive Regulation Of Cell Motility (GO:2000147),association,,
+PLAU,Regulation Of Fibrinolysis (GO:0051917),association,,
+PLAU,Regulation Of Plasminogen Activation (GO:0010755),association,,
+PLAU,Regulation Of Smooth Muscle Cell Migration (GO:0014910),association,,
+PLAU,Positive Regulation Of Blood Coagulation (GO:0030194),association,,
+LTB,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+LTB,Positive Regulation Of Cytokine Production (GO:0001819),association,,
+LTB,Positive Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001238),association,,
+LTB,Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043122),association,,
+LTB,Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001236),association,,
+LTB,Positive Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043123),association,,
+LTB,Regulation Of Interleukin-12 Production (GO:0032655),association,,
+LTB,Positive Regulation Of Apoptotic Signaling Pathway (GO:2001235),association,,
+CX3CL1,Inflammatory Response (GO:0006954),association,,
+CX3CL1,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CX3CL1,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CX3CL1,Cellular Response To Chemokine (GO:1990869),association,,
+CX3CL1,Neutrophil Chemotaxis (GO:0030593),association,,
+CX3CL1,Granulocyte Chemotaxis (GO:0071621),association,,
+CX3CL1,Neutrophil Migration (GO:1990266),association,,
+CX3CL1,Lymphocyte Chemotaxis (GO:0048247),association,,
+CX3CL1,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+CX3CL1,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CX3CL1,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CX3CL1,Cellular Response To Interleukin-1 (GO:0071347),association,,
+CX3CL1,Positive Regulation Of Response To External Stimulus (GO:0032103),association,,
+CX3CL1,Response To Interleukin-1 (GO:0070555),association,,
+CX3CL1,Cellular Response To Type II Interferon (GO:0071346),association,,
+CX3CL1,Lymphocyte Migration (GO:0072676),association,,
+CX3CL1,Monocyte Chemotaxis (GO:0002548),association,,
+CX3CL1,Eosinophil Chemotaxis (GO:0048245),association,,
+CX3CL1,Eosinophil Migration (GO:0072677),association,,
+CX3CL1,Response To Tumor Necrosis Factor (GO:0034612),association,,
+CX3CL1,Regulation Of Smooth Muscle Cell Proliferation (GO:0048660),association,,
+CX3CL1,Positive Regulation Of Defense Response (GO:0031349),association,,
+CX3CL1,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+CX3CL1,Positive Regulation Of Macrophage Migration (GO:1905523),association,,
+CX3CL1,Regulation Of Inflammatory Response (GO:0050727),association,,
+CX3CL1,Positive Regulation Of Inflammatory Response (GO:0050729),association,,
+CX3CL1,Positive Regulation Of MAPK Cascade (GO:0043410),association,,
+CX3CL1,Positive Regulation Of Cell-Cell Adhesion (GO:0022409),association,,
+CX3CL1,Negative Regulation Of Signal Transduction (GO:0009968),association,,
+CX3CL1,Positive Regulation Of Smooth Muscle Cell Proliferation (GO:0048661),association,,
+CX3CL1,Response To Type II Interferon (GO:0034341),association,,
+CX3CL1,Positive Regulation Of ERK1 And ERK2 Cascade (GO:0070374),association,,
+CX3CL1,Regulation Of ERK1 And ERK2 Cascade (GO:0070372),association,,
+CX3CL1,Regulation Of Cell-Matrix Adhesion (GO:0001952),association,,
+CX3CL1,Negative Regulation Of Interleukin-6 Production (GO:0032715),association,,
+CX3CL1,Negative Regulation Of Apoptotic Process (GO:0043066),association,,
+CX3CL1,Regulation Of Interleukin-6 Production (GO:0032675),association,,
+CX3CL1,Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043122),association,,
+CX3CL1,Cell Junction Disassembly (GO:0150146),association,,
+CX3CL1,Positive Regulation Of I-kappaB Phosphorylation (GO:1903721),association,,
+CX3CL1,Positive Regulation Of Microglial Cell Migration (GO:1904141),association,,
+CX3CL1,Positive Regulation Of Cell Population Proliferation (GO:0008284),association,,
+CX3CL1,Positive Regulation Of NF-kappaB Transcription Factor Activity (GO:0051092),association,,
+CX3CL1,Regulation Of Microglial Cell Migration (GO:1904139),association,,
+CX3CL1,Regulation Of I-kappaB Phosphorylation (GO:1903719),association,,
+CX3CL1,Positive Regulation Of Glial Cell Migration (GO:1903977),association,,
+CX3CL1,Positive Regulation Of GTPase Activity (GO:0043547),association,,
+CX3CL1,Regulation Of Response To Biotic Stimulus (GO:0002831),association,,
+CX3CL1,Negative Regulation Of Programmed Cell Death (GO:0043069),association,,
+CX3CL1,Synapse Pruning (GO:0098883),association,,
+CX3CL1,Positive Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043123),association,,
+CX3CL1,Positive Regulation Of Hydrolase Activity (GO:0051345),association,,
+CX3CL1,Negative Regulation Of Cytokine Production (GO:0001818),association,,
+CX3CL1,Positive Regulation Of Release Of Sequestered Calcium Ion Into Cytosol (GO:0051281),association,,
+CX3CL1,Positive Regulation Of DNA-binding Transcription Factor Activity (GO:0051091),association,,
+CX3CL1,Neuron Remodeling (GO:0016322),association,,
+CX3CL1,Regulation Of Tumor Necrosis Factor Production (GO:0032680),association,,
+CX3CL1,Negative Regulation Of Apoptotic Signaling Pathway (GO:2001234),association,,
+CX3CL1,Positive Regulation Of Cellular Process (GO:0048522),association,,
+CX3CL1,Positive Regulation Of Calcium Ion Transmembrane Transport (GO:1904427),association,,
+CX3CL1,Regulation Of Cell Migration (GO:0030334),association,,
+CX3CL1,Regulation Of Apoptotic Process (GO:0042981),association,,
+CX3CL1,Regulation Of GTPase Activity (GO:0043087),association,,
+CX3CL1,Positive Regulation Of Protein Kinase B Signaling (GO:0051897),association,,
+CX3CL1,Positive Regulation Of Transcription By RNA Polymerase II (GO:0045944),association,,
+CX3CL1,Regulation Of Release Of Sequestered Calcium Ion Into Cytosol (GO:0051279),association,,
+CX3CL1,Neuron Maturation (GO:0042551),association,,
+CX3CL1,Microglial Cell Activation (GO:0001774),association,,
+CX3CL1,Regulation Of Neurogenesis (GO:0050767),association,,
+CX3CL1,Positive Regulation Of DNA-templated Transcription (GO:0045893),association,,
+CXCL2,Inflammatory Response (GO:0006954),association,,
+CXCL2,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CXCL2,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CXCL2,Cellular Response To Chemokine (GO:1990869),association,,
+CXCL2,Neutrophil Chemotaxis (GO:0030593),association,,
+CXCL2,Granulocyte Chemotaxis (GO:0071621),association,,
+CXCL2,Neutrophil Migration (GO:1990266),association,,
+CXCL2,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CXCL2,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+CXCL2,Cellular Response To Lipid (GO:0071396),association,,
+CXCL2,Response To Lipopolysaccharide (GO:0032496),association,,
+CXCL2,Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),association,,
+CXCL2,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+CXCL2,Antimicrobial Humoral Response (GO:0019730),association,,
+CXCL2,Response To Molecule Of Bacterial Origin (GO:0002237),association,,
+TNFSF14,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+TNFSF14,Regulation Of NIK/NF-kappaB Signaling (GO:1901222),association,,
+TNFSF14,Positive Regulation Of NIK/NF-kappaB Signaling (GO:1901224),association,,
+TNFSF14,Cellular Response To Mechanical Stimulus (GO:0071260),association,,
+CXCL5,Inflammatory Response (GO:0006954),association,,
+CXCL5,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CXCL5,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CXCL5,Cellular Response To Chemokine (GO:1990869),association,,
+CXCL5,Neutrophil Chemotaxis (GO:0030593),association,,
+CXCL5,Granulocyte Chemotaxis (GO:0071621),association,,
+CXCL5,Neutrophil Migration (GO:1990266),association,,
+CXCL5,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CXCL5,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+CXCL5,Cellular Response To Lipid (GO:0071396),association,,
+CXCL5,Response To Lipopolysaccharide (GO:0032496),association,,
+CXCL5,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CXCL5,Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),association,,
+CXCL5,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+CXCL5,Antimicrobial Humoral Response (GO:0019730),association,,
+CXCL5,Positive Regulation Of Cell Population Proliferation (GO:0008284),association,,
+CXCL5,Positive Regulation Of Cellular Process (GO:0048522),association,,
+CSF1,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CSF1,Positive Regulation Of Macromolecule Metabolic Process (GO:0010604),association,,
+CSF1,Positive Regulation Of Macrophage Migration (GO:1905523),association,,
+CSF1,Regulation Of Mononuclear Cell Migration (GO:0071675),association,,
+CSF1,Positive Regulation Of Gene Expression (GO:0010628),association,,
+CSF1,Positive Regulation Of Protein Metabolic Process (GO:0051247),association,,
+CSF1,Regulation Of Cell-Matrix Adhesion (GO:0001952),association,,
+CSF1,Positive Regulation Of Macrophage Chemotaxis (GO:0010759),association,,
+CSF1,Positive Regulation Of Myeloid Leukocyte Differentiation (GO:0002763),association,,
+CSF1,Regulation Of Osteoclast Differentiation (GO:0045670),association,,
+CSF1,Positive Regulation Of Osteoclast Differentiation (GO:0045672),association,,
+CSF1,Regulation Of Granulocyte Chemotaxis (GO:0071622),association,,
+CSF1,Regulation Of Macrophage Chemotaxis (GO:0010758),association,,
+CSF1,Macrophage Differentiation (GO:0030225),association,,
+CSF1,Positive Regulation Of Microglial Cell Migration (GO:1904141),association,,
+CSF1,Positive Regulation Of Cell Population Proliferation (GO:0008284),association,,
+CSF1,Positive Regulation Of Leukocyte Chemotaxis (GO:0002690),association,,
+CSF1,Regulation Of Microglial Cell Migration (GO:1904139),association,,
+CSF1,Positive Regulation Of Glial Cell Migration (GO:1903977),association,,
+CSF1,Regulation Of Macrophage Derived Foam Cell Differentiation (GO:0010743),association,,
+CSF1,Positive Regulation Of Leukocyte Migration (GO:0002687),association,,
+CSF1,Myeloid Leukocyte Differentiation (GO:0002573),association,,
+CSF1,Positive Regulation Of Nitrogen Compound Metabolic Process (GO:0051173),association,,
+CSF1,Positive Regulation Of Macrophage Differentiation (GO:0045651),association,,
+CSF1,Positive Regulation Of Cellular Process (GO:0048522),association,,
+CSF1,Regulation Of Cell Migration (GO:0030334),association,,
+CSF1,Positive Regulation Of Cytokine-Mediated Signaling Pathway (GO:0001961),association,,
+CSF1,Regulation Of Macrophage Differentiation (GO:0045649),association,,
+CSF1,Positive Regulation Of Cell Motility (GO:2000147),association,,
+CSF1,Positive Regulation Of Leukocyte Proliferation (GO:0070665),association,,
+CSF1,Positive Regulation Of Macrophage Derived Foam Cell Differentiation (GO:0010744),association,,
+CSF1,Regulation Of Gene Expression (GO:0010468),association,,
+CXCL11,Inflammatory Response (GO:0006954),association,,
+CXCL11,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CXCL11,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CXCL11,Cellular Response To Chemokine (GO:1990869),association,,
+CXCL11,Neutrophil Chemotaxis (GO:0030593),association,,
+CXCL11,Granulocyte Chemotaxis (GO:0071621),association,,
+CXCL11,Neutrophil Migration (GO:1990266),association,,
+CXCL11,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CXCL11,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+CXCL11,Lymphocyte Chemotaxis (GO:0048247),association,,
+CXCL11,Cellular Response To Lipid (GO:0071396),association,,
+CXCL11,Response To Lipopolysaccharide (GO:0032496),association,,
+CXCL11,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CXCL11,Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),association,,
+CXCL11,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+CXCL11,Antimicrobial Humoral Response (GO:0019730),association,,
+CXCL11,Positive Regulation Of Release Of Sequestered Calcium Ion Into Cytosol (GO:0051281),association,,
+CXCL11,T Cell Chemotaxis (GO:0010818),association,,
+CXCL11,Positive Regulation Of Calcium Ion Transmembrane Transport (GO:1904427),association,,
+CXCL11,Regulation Of Release Of Sequestered Calcium Ion Into Cytosol (GO:0051279),association,,
+CXCL11,T Cell Migration (GO:0072678),association,,
+CXCL1,Inflammatory Response (GO:0006954),association,,
+CXCL1,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CXCL1,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CXCL1,Cellular Response To Chemokine (GO:1990869),association,,
+CXCL1,Neutrophil Chemotaxis (GO:0030593),association,,
+CXCL1,Granulocyte Chemotaxis (GO:0071621),association,,
+CXCL1,Neutrophil Migration (GO:1990266),association,,
+CXCL1,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CXCL1,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+CXCL1,Cellular Response To Lipid (GO:0071396),association,,
+CXCL1,Response To Lipopolysaccharide (GO:0032496),association,,
+CXCL1,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CXCL1,Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),association,,
+CXCL1,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+CXCL1,Antimicrobial Humoral Response (GO:0019730),association,,
+CXCL1,Negative Regulation Of Cell Population Proliferation (GO:0008285),association,,
+CXCL1,Negative Regulation Of Cellular Process (GO:0048523),association,,
+CYP1B1,Regulation Of Cell Population Proliferation (GO:0042127),association,,
+CYP1B1,Cellular Response To Organic Substance (GO:0071310),association,,
+CYP1B1,Cellular Response To Organic Cyclic Compound (GO:0071407),association,,
+CYP1B1,Response To Organic Cyclic Compound (GO:0014070),association,,
+CYP1B1,Negative Regulation Of Cell Population Proliferation (GO:0008285),association,,
+CYP1B1,Positive Regulation Of Cytokine Production (GO:0001819),association,,
+CYP1B1,Positive Regulation Of Vasculature Development (GO:1904018),association,,
+CYP1B1,Regulation Of Angiogenesis (GO:0045765),association,,
+CYP1B1,Positive Regulation Of Angiogenesis (GO:0045766),association,,
+CYP1B1,Negative Regulation Of Cellular Process (GO:0048523),association,,
+CYP1B1,Positive Regulation Of Vascular Endothelial Growth Factor Production (GO:0010575),association,,
+CYP1B1,Regulation Of Vascular Endothelial Growth Factor Production (GO:0010574),association,,
+CYP1B1,Regulation Of Cell Adhesion Mediated By Integrin (GO:0033628),association,,
+CYP1B1,Positive Regulation Of Receptor Signaling Pathway Via JAK-STAT (GO:0046427),association,,
+CYP1B1,Positive Regulation Of Receptor Signaling Pathway Via STAT (GO:1904894),association,,
+CYP1B1,Negative Regulation Of NF-kappaB Transcription Factor Activity (GO:0032088),association,,
+CYP1B1,Regulation Of Cell Migration (GO:0030334),association,,
+CYP1B1,Regulation Of Apoptotic Process (GO:0042981),association,,
+CYP1B1,Negative Regulation Of DNA-binding Transcription Factor Activity (GO:0043433),association,,
+CYP1B1,Regulation Of Receptor Signaling Pathway Via JAK-STAT (GO:0046425),association,,
+CCL2,Inflammatory Response (GO:0006954),association,,
+CCL2,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CCL2,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CCL2,Cellular Response To Chemokine (GO:1990869),association,,
+CCL2,Neutrophil Chemotaxis (GO:0030593),association,,
+CCL2,Granulocyte Chemotaxis (GO:0071621),association,,
+CCL2,Neutrophil Migration (GO:1990266),association,,
+CCL2,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+CCL2,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+CCL2,Lymphocyte Chemotaxis (GO:0048247),association,,
+CCL2,Cellular Response To Lipid (GO:0071396),association,,
+CCL2,Response To Lipopolysaccharide (GO:0032496),association,,
+CCL2,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+CCL2,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CCL2,Cellular Response To Interleukin-1 (GO:0071347),association,,
+CCL2,Cellular Response To Organic Substance (GO:0071310),association,,
+CCL2,Response To Interleukin-1 (GO:0070555),association,,
+CCL2,Lipopolysaccharide-Mediated Signaling Pathway (GO:0031663),association,,
+CCL2,Cellular Response To Type II Interferon (GO:0071346),association,,
+CCL2,Lymphocyte Migration (GO:0072676),association,,
+CCL2,Monocyte Chemotaxis (GO:0002548),association,,
+CCL2,Eosinophil Chemotaxis (GO:0048245),association,,
+CCL2,Eosinophil Migration (GO:0072677),association,,
+CCL2,Response To Tumor Necrosis Factor (GO:0034612),association,,
+CCL2,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+CCL2,Cellular Response To Organic Cyclic Compound (GO:0071407),association,,
+CCL2,Response To Organic Cyclic Compound (GO:0014070),association,,
+CCL2,Positive Regulation Of MAPK Cascade (GO:0043410),association,,
+CCL2,Regulation Of Endothelial Cell Apoptotic Process (GO:2000351),association,,
+CCL2,Response To Type II Interferon (GO:0034341),association,,
+CCL2,Protein Kinase B Signaling (GO:0043491),association,,
+CCL2,Positive Regulation Of ERK1 And ERK2 Cascade (GO:0070374),association,,
+CCL2,Regulation Of ERK1 And ERK2 Cascade (GO:0070372),association,,
+CCL2,Negative Regulation Of Apoptotic Process (GO:0043066),association,,
+CCL2,Positive Regulation Of Leukocyte Cell-Cell Adhesion (GO:1903039),association,,
+CCL2,Positive Regulation Of Calcium Ion Transport (GO:0051928),association,,
+CCL2,Positive Regulation Of GTPase Activity (GO:0043547),association,,
+CCL2,Positive Regulation Of Hydrolase Activity (GO:0051345),association,,
+CCL2,Macrophage Chemotaxis (GO:0048246),association,,
+CCL2,Macrophage Migration (GO:1905517),association,,
+CCL2,Regulation Of GTPase Activity (GO:0043087),association,,
+CCL2,Positive Regulation Of Lymphocyte Activation (GO:0051251),association,,
+CCL2,Positive Regulation Of Endothelial Cell Apoptotic Process (GO:2000353),association,,
+CCL2,MAPK Cascade (GO:0000165),association,,
+CCL2,Regulation Of Neuron Apoptotic Process (GO:0043523),association,,
+CCL2,Positive Regulation Of T Cell Activation (GO:0050870),association,,
+CCL2,Regulation Of Synaptic Transmission,association,,
+CCL2,Glutamatergic (GO:0051966),association,,
+CCL2,Positive Regulation Of Phagocytosis (GO:0050766),association,,
+CCL2,Positive Regulation Of Macromolecule Biosynthetic Process (GO:0010557),association,,
+CCL2,Positive Regulation Of Epithelial Cell Apoptotic Process (GO:1904037),association,,
+BIRC3,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+BIRC3,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+BIRC3,Positive Regulation Of Intracellular Signal Transduction (GO:1902533),association,,
+BIRC3,Regulation Of Inflammatory Response (GO:0050727),association,,
+BIRC3,Negative Regulation Of Apoptotic Process (GO:0043066),association,,
+BIRC3,Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043122),association,,
+BIRC3,Regulation Of Response To Biotic Stimulus (GO:0002831),association,,
+BIRC3,Negative Regulation Of Programmed Cell Death (GO:0043069),association,,
+BIRC3,Positive Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043123),association,,
+BIRC3,Regulation Of Innate Immune Response (GO:0045088),association,,
+BIRC3,Tumor Necrosis Factor-Mediated Signaling Pathway (GO:0033209),association,,
+BIRC3,Regulation Of Apoptotic Process (GO:0042981),association,,
+BIRC3,Regulation Of Protein Ubiquitination (GO:0031396),association,,
+BIRC3,Regulation Of Toll-Like Receptor Signaling Pathway (GO:0034121),association,,
+CCL22,Inflammatory Response (GO:0006954),association,,
+CCL22,Cytokine-Mediated Signaling Pathway (GO:0019221),association,,
+CCL22,Chemokine-Mediated Signaling Pathway (GO:0070098),association,,
+CCL22,Cellular Response To Chemokine (GO:1990869),association,,
+CCL22,Neutrophil Chemotaxis (GO:0030593),association,,
+CCL22,Granulocyte Chemotaxis (GO:0071621),association,,
+CCL22,Neutrophil Migration (GO:1990266),association,,
+CCL22,Lymphocyte Chemotaxis (GO:0048247),association,,
+CCL22,Cellular Response To Tumor Necrosis Factor (GO:0071356),association,,
+CCL22,Cellular Response To Cytokine Stimulus (GO:0071345),association,,
+CCL22,Cellular Response To Interleukin-1 (GO:0071347),association,,
+CCL22,Response To Interleukin-1 (GO:0070555),association,,
+CCL22,Cellular Response To Type II Interferon (GO:0071346),association,,
+CCL22,Lymphocyte Migration (GO:0072676),association,,
+CCL22,Monocyte Chemotaxis (GO:0002548),association,,
+CCL22,Eosinophil Chemotaxis (GO:0048245),association,,
+CCL22,Eosinophil Migration (GO:0072677),association,,
+CCL22,Response To Tumor Necrosis Factor (GO:0034612),association,,
+CCL22,Positive Regulation Of MAPK Cascade (GO:0043410),association,,
+CCL22,Response To Type II Interferon (GO:0034341),association,,
+CCL22,Positive Regulation Of ERK1 And ERK2 Cascade (GO:0070374),association,,
+CCL22,Regulation Of ERK1 And ERK2 Cascade (GO:0070372),association,,
+CCL22,Positive Regulation Of GTPase Activity (GO:0043547),association,,
+CCL22,Positive Regulation Of Hydrolase Activity (GO:0051345),association,,
+CCL22,Regulation Of GTPase Activity (GO:0043087),association,,
+TNFAIP3,Cellular Response To Lipopolysaccharide (GO:0071222),association,,
+TNFAIP3,Cellular Response To Molecule Of Bacterial Origin (GO:0071219),association,,
+TNFAIP3,Cellular Response To Lipid (GO:0071396),association,,
+TNFAIP3,Response To Lipopolysaccharide (GO:0032496),association,,
+TNFAIP3,Negative Regulation Of Extrinsic Apoptotic Signaling Pathway (GO:2001237),association,,
+TNFAIP3,Cellular Response To Oxygen-Containing Compound (GO:1901701),association,,
+TNFAIP3,Regulation Of Smooth Muscle Cell Proliferation (GO:0048660),association,,
+TNFAIP3,Regulation Of Inflammatory Response (GO:0050727),association,,
+TNFAIP3,Regulation Of Endothelial Cell Apoptotic Process (GO:2000351),association,,
+TNFAIP3,Negative Regulation Of Cell Population Proliferation (GO:0008285),association,,
+TNFAIP3,Negative Regulation Of Signal Transduction (GO:0009968),association,,
+TNFAIP3,Positive Regulation Of Protein Metabolic Process (GO:0051247),association,,
+TNFAIP3,Negative Regulation Of Interleukin-6 Production (GO:0032715),association,,
+TNFAIP3,Regulation Of Angiogenesis (GO:0045765),association,,
+TNFAIP3,Regulation Of Interleukin-6 Production (GO:0032675),association,,
+TNFAIP3,Regulation Of I-kappaB kinase/NF-kappaB Signaling (GO:0043122),association,,
+TNFAIP3,Regulation Of Vascular Wound Healing (GO:0061043),association,,
+TNFAIP3,Regulation Of Extrinsic Apoptotic Signaling Pathway Via Death Domain Receptors (GO:1902041),association,,
+TNFAIP3,Response To Molecule Of Bacterial Origin (GO:0002237),association,,
+TNFAIP3,Negative Regulation Of Cytokine Production (GO:0001818),association,,
+TNFAIP3,Regulation Of Tumor Necrosis Factor Production (GO:0032680),association,,
+TNFAIP3,Regulation Of Innate Immune Response (GO:0045088),association,,
+TNFAIP3,Positive Regulation Of Catabolic Process (GO:0009896),association,,
+TNFAIP3,Negative Regulation Of NF-kappaB Transcription Factor Activity (GO:0032088),association,,
+TNFAIP3,Negative Regulation Of DNA-binding Transcription Factor Activity (GO:0043433),association,,
+TNFAIP3,Positive Regulation Of Protein Catabolic Process (GO:0045732),association,,
+TNFAIP3,Regulation Of Interleukin-2 Production (GO:0032663),association,,
+TNFAIP3,Regulation Of Tumor Necrosis Factor-Mediated Signaling Pathway (GO:0010803),association,,
+TNFAIP3,Negative Regulation Of Protein Modification By Small Protein Conjugation Or Removal (GO:1903321),association,,
+TNFAIP3,Negative Regulation Of Protein Ubiquitination (GO:0031397),association,,
+TNFAIP3,Regulation Of Protein Ubiquitination (GO:0031396),association,,
+TNFAIP3,Negative Regulation Of B Cell Activation (GO:0050869),association,,
+TNFAIP3,Negative Regulation Of Extrinsic Apoptotic Signaling Pathway Via Death Domain Receptors (GO:1902042),association,,
+TNFAIP3,Negative Regulation Of Lymphocyte Activation (GO:0051250),association,,
+NFKBIZ,Positive Regulation Of Response To External Stimulus (GO:0032103),association,,
+NFKBIZ,Positive Regulation Of Defense Response (GO:0031349),association,,
+NFKBIZ,Regulation Of Inflammatory Response (GO:0050727),association,,
+NFKBIZ,Positive Regulation Of Inflammatory Response (GO:0050729),association,,
+NFKBIZ,Positive Regulation Of T-helper 17 Cell Differentiation (GO:2000321),association,,
+NFKBIZ,Positive Regulation Of T-helper 17 Type Immune Response (GO:2000318),association,,
+NFKBIZ,Regulation Of Gene Expression (GO:0010468),association,,
+NANOS3,Positive Regulation Of Nuclear-Transcribed mRNA Catabolic Process,association,,
+NANOS3,Deadenylation-Dependent Decay (GO:1900153),association,,
+NANOS3,Oogenesis (GO:0048477),association,,
+NANOS3,Negative Regulation Of Gene Expression (GO:0010629),association,,
+NANOS3,Regulation Of Nuclear-Transcribed mRNA Catabolic Process,association,,
+NANOS3,Deadenylation-Dependent Decay (GO:1900151),association,,
+RGS2,Negative Regulation Of Signal Transduction (GO:0009968),association,,
+RGS2,Negative Regulation Of G Protein-Coupled Receptor Signaling Pathway (GO:0045744),association,,
+RGS2,Negative Regulation Of Multicellular Organismal Process (GO:0051241),association,,
+RGS2,Regulation Of MAP Kinase Activity (GO:0043405),association,,
+RGS2,Regulation Of Cardiac Muscle Hypertrophy (GO:0010611),association,,
